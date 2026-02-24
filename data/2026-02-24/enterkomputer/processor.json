@@ -1,0 +1,4011 @@
+{
+  "status": true,
+  "rc": "0000",
+  "current_page": 0,
+  "description": "Success",
+  "total_records": 253,
+  "result": [
+    {
+      "p_code": 24206,
+      "p_name": "Intel Pentium G3240 3.1Ghz Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+      "p_prcz": [
+        60000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_4d1dc515-5d3f-4835-8b69-ffc9cd5ea5db_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-G3240-31Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 24209,
+      "p_name": "Intel Pentium G3260 3.3Ghz Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+      "p_prcz": [
+        80000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/12/6/9f09537b-50a1-40da-a063-8f17d8aa7363.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-G3260-33Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 24223,
+      "p_name": "Intel Core i7-4790 3.6Ghz - Cache 8MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        630000,
+        30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/1daefe94-047e-4a3b-bd8a-d6c31c3a8554.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-4790-36Ghz-Cache-8MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 24224,
+      "p_name": "Intel Core i7-4770 3.4Ghz - Cache 8MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        610000,
+        25000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/bb31f5a5-06cc-4a03-9af2-919fb72761da.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-4770-34Ghz-Cache-8MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 24247,
+      "p_name": "Intel Core i3-3220 3.3Ghz Cache 3MB [Tray] Socket LGA 1155",
+      "p_prcz": [
+        105000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/d2b57c3c-9317-431e-a444-fe8eb185ce6b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-3220-33Ghz-Cache-3MB-Tray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 24249,
+      "p_name": "Intel Core i3-3240 3.4Ghz Cache 3MB[Tray] Socket LGA 1155",
+      "p_prcz": [
+        120000,
+        10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/72b02b5d-29ed-4580-ba4c-d1780ba88a26.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-3240-34Ghz-Cache-3MBTray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 24252,
+      "p_name": "Intel Core i3-2120 3.3Ghz Cache 3MB [Tray] Socket LGA 1155",
+      "p_prcz": [
+        90000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/517297e3-54c9-49b0-afdd-eaa794cbc1d6.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-2120-33Ghz-Cache-3MB-Tray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 24254,
+      "p_name": "Intel Core i5-3570 3.4Ghz Cache 6MB [Tray] Socket LGA 1155",
+      "p_prcz": [
+        280000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/ae0a4056-66b4-4506-9ba1-5ce4065308b7.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-3570-34Ghz-Cache-6MB-Tray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 24256,
+      "p_name": "Intel Core i5-3470 3.2Ghz Cache 6MB [Tray] Socket LGA 1155",
+      "p_prcz": [
+        245000,
+        -15000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/ba848cef-ce1c-4a75-b564-f938e0161db7.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-3470-32Ghz-Cache-6MB-Tray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 24267,
+      "p_name": "Intel Core 2 Duo E8500 3.16Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775",
+      "p_prcz": [
+        85000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/21/9651507/9651507_cbc0fa24-1087-4b36-99bc-0441dca03593_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-2-Duo-E8500-316Ghz-FSB-1333-Mhz-Cache-6MB-Tray-Socket-LGA-775",
+      "r_type": ""
+    },
+    {
+      "p_code": 24331,
+      "p_name": "AMD Athlon II X2 270 3.4Ghz Cache 2MB 65W AM3 [Tray] - ADX270OCK23GM",
+      "p_prcz": [
+        85000,
+        -5000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Athlon-II-X2-270-34Ghz-Cache-2MB-65W-AM3-Tray-ADX270OCK23GM",
+      "r_type": ""
+    },
+    {
+      "p_code": 151286,
+      "p_name": "Intel Core i3-7100 3.9Ghz - Cache 3MB [Tray] Socket LGA 1151 - Kabylake Series",
+      "p_prcz": [
+        185000,
+        10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/5169c21f-8eaa-44cd-a593-e72e0e3209e9.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-7100-39Ghz-Cache-3MB-Tray-Socket-LGA-1151-Kabylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 152723,
+      "p_name": "AMD Bristol Ridge A8-9600 (Radeon R7 Series) 3.1Ghz Up To 3.4Ghz Cache 2MB 65W Socket AM4 [Box] - 4 Core - AD9600AGABBOX",
+      "p_prcz": [
+        720000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/23/1a32a732-9a17-4c52-831b-e95aaf71e2da.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Bristol-Ridge-A8-9600-Radeon-R7-Series-31Ghz-Up-To-34Ghz-Cache-2MB-65W-Socket-AM4-Box-4-Core-AD9600AGABBOX",
+      "r_type": ""
+    },
+    {
+      "p_code": 152840,
+      "p_name": "Intel Pentium G4400 3.3Ghz - Cache 3MB [Tray] Socket LGA 1151 - Skylake Series",
+      "p_prcz": [
+        140000,
+        40000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/10/22/9651507/9651507_8224d33e-9afd-449f-ab36-a3611dd109d6_800_800"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-G4400-33Ghz-Cache-3MB-Tray-Socket-LGA-1151-Skylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 153007,
+      "p_name": "Intel Core i3-6100 3.7Ghz - Cache 3MB [Tray] Socket LGA 1151 - Skylake Series",
+      "p_prcz": [
+        150000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/04c5ae2b-2840-4501-b0a3-716fa0ddd50c.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-6100-37Ghz-Cache-3MB-Tray-Socket-LGA-1151-Skylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 153692,
+      "p_name": "Intel Core i5-2400 3.1 GHz - Cache 6MB [Tray] Socket LGA 1155",
+      "p_prcz": [
+        195000,
+        -15000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/f31100d7-7ae0-4a26-afe1-604b80fcf44e.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-2400-31-GHz-Cache-6MB-Tray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 155400,
+      "p_name": "Intel Core i3-4150 3.5Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        115000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/daa73e83-21f7-44ce-bf68-8b7c77cd8634.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-4150-35Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 156042,
+      "p_name": "Intel Core i3-4130 3.4Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+      "p_prcz": [
+        125000,
+        -115000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/e50290fc-0da7-417b-aa4a-fe5faf7a9cf5.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-4130-34Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 156103,
+      "p_name": "Intel Core i3-4160 3.6Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        105000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/ae8d55bd-1de9-4c0e-809b-311c6af72c8b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-4160-36Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 156523,
+      "p_name": "Intel Core i5-4590 3.3Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        295000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/9a7d946a-6f4f-46f8-8f3e-1f566913186e.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-4590-33Ghz-Cache-6MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 156642,
+      "p_name": "Intel Core i5-2500 3.3 GHz - Cache 6MB [Tray] Socket LGA 1155",
+      "p_prcz": [
+        205000,
+        -15000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_0069ea00-f2bb-486a-acd4-3aaf23fb70eb_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-2500-33-GHz-Cache-6MB-Tray-Socket-LGA-1155",
+      "r_type": ""
+    },
+    {
+      "p_code": 157527,
+      "p_name": "Intel Core i5-4570 3.2Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        290000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/205211fa-9fa1-45cf-a92e-9fcb33289d84.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-4570-32Ghz-Cache-6MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157837,
+      "p_name": "Intel Pentium G3420 3.2Ghz Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+      "p_prcz": [
+        90000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_5dd3c644-a779-4a68-988c-a4f9ecde0d15_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-G3420-32Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157968,
+      "p_name": "Intel Core i3-4170 3.7Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        120000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/2f282919-3591-4163-8bad-e143b5defd54.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-4170-37Ghz-Cache-3MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 159171,
+      "p_name": "AMD Carrizo A8-7680 (Radeon R7 Series) 3.5Ghz Cache 2MB 45W Socket FM2+ - D7680ACABBOX - With 65W Quiet Cooler",
+      "p_prcz": [
+        590000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/69203c59-efa8-46ec-8632-18a7ff7ee7da.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Carrizo-A8-7680-Radeon-R7-Series-35Ghz-Cache-2MB-45W-Socket-FM2-D7680ACABBOX-With-65W-Quiet-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 159200,
+      "p_name": "Intel Core i5-6400 2.7Ghz - Cache 6MB [Tray] Socket LGA 1151 - Skylake Series",
+      "p_prcz": [
+        490000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/1/21/de418153-4a40-4156-9c08-e63a583c2ebe.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-6400-27Ghz-Cache-6MB-Tray-Socket-LGA-1151-Skylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 160505,
+      "p_name": "Intel Core i5-6500 3.2Ghz - Cache 6MB [Tray] Socket LGA 1151 - Skylake Series",
+      "p_prcz": [
+        495000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/d086a6cf-4406-4ec1-b43f-8df354986323.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-6500-32Ghz-Cache-6MB-Tray-Socket-LGA-1151-Skylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 160617,
+      "p_name": "Intel Core i5-4690 3.5Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+      "p_prcz": [
+        360000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/1dedca27-d9c6-4595-b225-ff242ac8c623.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-4690-35Ghz-Cache-6MB-Tray-Socket-LGA-1150-Haswell-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 160760,
+      "p_name": "AMD Godavari A6-7480 (Radeon R5 Series) 3.7Ghz Cache 2x1MB 65W Socket FM2+ - AD7480ACABBOX",
+      "p_prcz": [
+        440000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/ea7ef1f3-d4e9-4d37-b5f6-f07513ee7d24.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Godavari-A6-7480-Radeon-R5-Series-37Ghz-Cache-2x1MB-65W-Socket-FM2-AD7480ACABBOX",
+      "r_type": ""
+    },
+    {
+      "p_code": 161305,
+      "p_name": "AMD Ryzen 3 3200G 3.6Ghz Up To 4.0Ghz Cache 4MB 65W AM4 [Box] - 4 Core - YD3200C5FHBOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        969000,
+        -46000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2022/9/10/268e3d9c-ae01-48c1-b38d-f8464d412171.jpg~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-3-3200G-36Ghz-Up-To-40Ghz-Cache-4MB-65W-AM4-Box-4-Core-YD3200C5FHBOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 161520,
+      "p_name": "Intel Core i5-7500 3.4Ghz - Cache 6MB [Tray] Socket LGA 1151 - Kabylake Series",
+      "p_prcz": [
+        590000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/8/a1fc3814-5bc9-45a9-9189-0017920e248f.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-7500-34Ghz-Cache-6MB-Tray-Socket-LGA-1151-Kabylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 162706,
+      "p_name": "Intel Core i5-6600 3.3Ghz - Cache 6MB [Tray] Socket LGA 1151 - Skylake Series",
+      "p_prcz": [
+        610000,
+        75000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/1/9651507/9651507_32dc744b-ed97-4d81-bd57-8db018bf6937_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-6600-33Ghz-Cache-6MB-Tray-Socket-LGA-1151-Skylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 162933,
+      "p_name": "Intel Core i7-8700 3.2Ghz Up To 4.6Ghz - Cache 12MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1885000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/ac9e23b8-f100-4b9e-ac3a-07c6246c4f32.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-8700-32Ghz-Up-To-46Ghz-Cache-12MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 164792,
+      "p_name": "Intel Core i7-6700 3.4Ghz - Cache 8MB [Tray] Socket LGA 1151 - Skylake Series",
+      "p_prcz": [
+        895000,
+        -35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/0edf2208-88ce-40b9-b97d-62a288a33ede.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-6700-34Ghz-Cache-8MB-Tray-Socket-LGA-1151-Skylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 165734,
+      "p_name": "Intel Core i3-10100 3.6Ghz Up To 4.3Ghz - Cache 6MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1920000,
+        110000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/eff92b1d-6aa9-4e79-bf19-fbee9fdf5386.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-10100-36Ghz-Up-To-43Ghz-Cache-6MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 165735,
+      "p_name": "Intel Core i5-10400 2.9Ghz Up To 4.3Ghz - Cache 12MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        2165000,
+        30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/7c9e6029-91a8-4b71-b479-37b0edc1850f.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-10400-29Ghz-Up-To-43Ghz-Cache-12MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 165738,
+      "p_name": "Intel Core i7-10700 2.9Ghz Up To 4.8Ghz - Cache 16MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        4300000,
+        180000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/18/9651507/9651507_a2d3988d-1286-4ebf-a0ed-d492ebcf4d97_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-10700-29Ghz-Up-To-48Ghz-Cache-16MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 166212,
+      "p_name": "Intel Core i7-10700F 2.9Ghz Up To 4.8Ghz - Cache 16MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        3969000,
+        399000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/7/9651507/9651507_1647dbc6-88ee-4101-a726-414bf30cf3a0_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-10700F-29Ghz-Up-To-48Ghz-Cache-16MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 166283,
+      "p_name": "Intel Pentium Gold G6400 4.0Ghz - Cache 4MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1090000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/41d732f1-a18b-4e76-90d5-fdf0d0f2d255.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-Gold-G6400-40Ghz-Cache-4MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 166347,
+      "p_name": "Intel Core i5-10400F 2.9Ghz Up To 4.3Ghz - Cache 12MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1590000,
+        -30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/0f4270c1-1fdd-45ad-98a0-edd43c60dfe6.png"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-10400F-29Ghz-Up-To-43Ghz-Cache-12MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 168401,
+      "p_name": "Intel Core i3-9100 3.6Ghz Up To 4.2Ghz - Cache 6MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        450000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/8/f2b99c4a-b8e9-4403-b93c-b6666bbf921b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-9100-36Ghz-Up-To-42Ghz-Cache-6MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 168445,
+      "p_name": "Intel Core i7-7700 3.6Ghz - Cache 8MB [Tray] Socket LGA 1151 - Kabylake Series",
+      "p_prcz": [
+        1030000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/441b1524-7aee-47c6-9ad2-3d8dd4c68458.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-7700-36Ghz-Cache-8MB-Tray-Socket-LGA-1151-Kabylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 168471,
+      "p_name": "Intel Core i7-3770 3.4Ghz - Cache 8MB [Tray] Socket LGA 1155 - Ivy Bridge Series",
+      "p_prcz": [
+        580000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/7f3eb832-0546-4190-93d0-498c96343d47.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-3770-34Ghz-Cache-8MB-Tray-Socket-LGA-1155-Ivy-Bridge-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 168692,
+      "p_name": "AMD Ryzen 9 5900X 3.7Ghz Up To 4.8Ghz Cache 64MB 105W AM4 [Box] - 12 Core - 100-100000061WOF (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        5529000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/13/8445a05a-007f-4b85-90b7-a2322838d405.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-5900X-37Ghz-Up-To-48Ghz-Cache-64MB-105W-AM4-Box-12-Core-100-100000061WOF-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 169124,
+      "p_name": "Intel Core i5-650 3.2GHz - Cache 4MB [Tray] Socket LGA 1156",
+      "p_prcz": [
+        190000,
+        -15000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-650-32GHz-Cache-4MB-Tray-Socket-LGA-1156",
+      "r_type": ""
+    },
+    {
+      "p_code": 170097,
+      "p_name": "AMD Ryzen 5 5600X 3.7Ghz Up To 4.6Ghz Cache 32MB 65W AM4 [Box] - 6 Core - 100-100000065BOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        2099000,
+        110000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/570c8513-65a3-4aea-b25d-20226c4aa2a0.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600X-37Ghz-Up-To-46Ghz-Cache-32MB-65W-AM4-Box-6-Core-100-100000065BOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 170414,
+      "p_name": "Intel Core i3-10105F 3.7Ghz Up To 4.4Ghz - Cache 6MB [Box] Socket LGA 1200 - Comet Lake Refresh Series",
+      "p_prcz": [
+        1150000,
+        -140000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/43978810-c2d2-4866-a550-4029f146b4c1.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-10105F-37Ghz-Up-To-44Ghz-Cache-6MB-Box-Socket-LGA-1200-Comet-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170801,
+      "p_name": "Intel Core i7-11700K 3.6Ghz Up To 5.0Ghz - Cache 16MB [Box] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        4065000,
+        -25000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/a75b8194-bd86-4b97-a518-d19ccf4958c3.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-11700K-36Ghz-Up-To-50Ghz-Cache-16MB-Box-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170915,
+      "p_name": "Intel Core i7-11700 2.5Ghz Up To 4.9Ghz - Cache 16MB [Box] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        4770000,
+        120000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/de7fc73e-43e4-44cd-98bf-90abe94b31e5.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-11700-25Ghz-Up-To-49Ghz-Cache-16MB-Box-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170950,
+      "p_name": "Intel Core i7-11700F 2.5Ghz Up To 4.9Ghz - Cache 16MB [Box] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        3990000,
+        -75000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/3/57a83a8f-dc9f-41ab-a881-37ac7a619755.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-11700F-25Ghz-Up-To-49Ghz-Cache-16MB-Box-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170953,
+      "p_name": "Intel Core i5-11400 2.6Ghz Up To 4.4Ghz - Cache 12MB [Box] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        2230000,
+        141000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/47e586b8-3985-4166-9ffe-f2f79b60dc27.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-11400-26Ghz-Up-To-44Ghz-Cache-12MB-Box-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170954,
+      "p_name": "Intel Core i5-11400F 2.6Ghz Up To 4.4Ghz - Cache 12MB [Box] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        1640000,
+        35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/560b1712-606c-4116-805e-1796b3b7ebff.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-11400F-26Ghz-Up-To-44Ghz-Cache-12MB-Box-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 171232,
+      "p_name": "Intel Core i3-8100 3.6Ghz - Cache 6MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        340000,
+        -50000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/21e69430-009d-40e8-a586-816253767ed1.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-8100-36Ghz-Cache-6MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 171594,
+      "p_name": "Intel Core i3-10105 3.7Ghz Up To 4.4Ghz - Cache 6MB [Box] Socket LGA 1200 - Comet Lake Refresh Series",
+      "p_prcz": [
+        1675000,
+        50000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/31aa55e7-40a0-4804-9d82-11db2b84e05b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-10105-37Ghz-Up-To-44Ghz-Cache-6MB-Box-Socket-LGA-1200-Comet-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 171715,
+      "p_name": "Intel Core i5-8400 2.8Ghz Up To 4.0Ghz - Cache 9MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1010000,
+        35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/3/9d021900-8bc7-40d0-8d80-e10dfaf69809.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-8400-28Ghz-Up-To-40Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 172324,
+      "p_name": "Intel Pentium Gold G6405 4.1Ghz - Cache 4MB [Box] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1095000,
+        5000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/907ccc1d-af93-41d4-b892-c53487a4f182.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-Gold-G6405-41Ghz-Cache-4MB-Box-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 172552,
+      "p_name": "AMD Ryzen 5 5600G 3.9Ghz Up To 4.4Ghz Cache 16MB 65W AM4 [Box] - 6 Core - 100-100000252BOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        2595000,
+        305000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/25/6c1b0a3d-773b-49f7-888c-924df143a5b2.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600G-39Ghz-Up-To-44Ghz-Cache-16MB-65W-AM4-Box-6-Core-100-100000252BOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 172553,
+      "p_name": "AMD Ryzen 7 5700G 3.8Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Box] - 8 Core - 100-100000263BOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        3699000,
+        120000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/28/2e2456ee-104b-4a9e-a82f-426ce71da499.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5700G-38Ghz-Up-To-46Ghz-Cache-16MB-65W-AM4-Box-8-Core-100-100000263BOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 173452,
+      "p_name": "Intel Core i5-11400F 2.6Ghz Up To 4.4Ghz - Cache 12MB [Tray] Socket LGA 1200 - Rocket Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        1140000,
+        10000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/65726c183f0b4a9dafb87889e34461b7~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-11400F-26Ghz-Up-To-44Ghz-Cache-12MB-Tray-Socket-LGA-1200-Rocket-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 173849,
+      "p_name": "Intel Core i5-8500 3.0Ghz Up To 4.1Ghz - Cache 9MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1030000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/16/bb45c826-42fb-4c54-9a0e-ca804e3f7c95.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-8500-30Ghz-Up-To-41Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174022,
+      "p_name": "Intel Core i7-10700 2.9Ghz Up To 4.8Ghz - Cache 16MB [Tray] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        3600000,
+        30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/8/1101adaa-8dc6-493d-a896-869ea1169b80.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-10700-29Ghz-Up-To-48Ghz-Cache-16MB-Tray-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174165,
+      "p_name": "Intel Core i5-10400 2.9Ghz Up To 4.3Ghz - Cache 12MB [Tray] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1890000,
+        40000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/e839c3b2-c59f-4461-9662-695b2737f6f3.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-10400-29Ghz-Up-To-43Ghz-Cache-12MB-Tray-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174417,
+      "p_name": "Intel Core i5-12600K 3.7GHz Up To 4.9GHz - Cache 20MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        3285000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/29/81d9a218-17b2-482f-a65f-aee4dd2c4ced.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12600K-37GHz-Up-To-49GHz-Cache-20MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174418,
+      "p_name": "Intel Core i7-12700K 3.6GHz Up To 5.0GHz - Cache 25MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        4875000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/4/ca8b46ba-ce38-4786-89f2-fd73aae27c89.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-12700K-36GHz-Up-To-50GHz-Cache-25MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174419,
+      "p_name": "Intel Core i7-12700KF 3.6GHz Up To 5.0GHz - Cache 25MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        4309000,
+        150000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/27/6ee00ae8-69cd-4e13-b489-2d3e47645fd9.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-12700KF-36GHz-Up-To-50GHz-Cache-25MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174458,
+      "p_name": "AMD Ryzen 5 5600G 3.9Ghz Up To 4.4Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        1970000,
+        200000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/c4f2a4b5d2534bebbdb65287c1d98d3d~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600G-39Ghz-Up-To-44Ghz-Cache-16MB-65W-AM4-Tray-6-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 174561,
+      "p_name": "Intel Core i5-12600KF 3.7GHz Up To 4.9GHz - Cache 20MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        2925000,
+        96000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/19/365d06f7-883d-48c2-9307-68d38177d083.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12600KF-37GHz-Up-To-49GHz-Cache-20MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174563,
+      "p_name": "Intel Core i9-12900K 3.2GHz Up To 5.2GHz - Cache 30MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        6795000,
+        -50000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/11/30/d2d7596c-f1fd-4971-a8b1-78f463f46877.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-12900K-32GHz-Up-To-52GHz-Cache-30MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 174564,
+      "p_name": "Intel Core i9-12900KF 3.2GHz Up To 5.2GHz - Cache 30MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        6065000,
+        156000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/7/da2d1eb8-52d7-4f07-ac9e-f3fc2e334b63.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-12900KF-32GHz-Up-To-52GHz-Cache-30MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175205,
+      "p_name": "Intel Core i5-11400 2.6Ghz Up To 4.4Ghz - Cache 12MB [Tray] Socket LGA 1200 - Rocket Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        1869000,
+        -361000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/22/790db070-d467-4266-af84-04c87a5fc780.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-11400-26Ghz-Up-To-44Ghz-Cache-12MB-Tray-Socket-LGA-1200-Rocket-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 175218,
+      "p_name": "Intel Core i5-12400 2.5GHz Up To 4.4GHz - Cache 18MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        3189000,
+        294000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/d044c059-0412-41ad-b6eb-a0eb0e2c3307.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400-25GHz-Up-To-44GHz-Cache-18MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175219,
+      "p_name": "Intel Core i5-12400F 2.5GHz Up To 4.4GHz - Cache 18MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        2425000,
+        145000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/f1975496-c7b7-4221-ad05-33cebe9f18fb.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400F-25GHz-Up-To-44GHz-Cache-18MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175223,
+      "p_name": "Intel Core i3-12100F 3.3GHz Up To 4.3GHz - Cache 12MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        1360000,
+        185000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/8/6e447d4e-7253-453e-8bb9-de2fc6b51eac.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-12100F-33GHz-Up-To-43GHz-Cache-12MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175241,
+      "p_name": "Intel Core i7-12700 2.1GHz Up To 4.9GHz - Cache 25MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        4690000,
+        151000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/24/c53969ef-7d63-4998-86e6-86106e7999e7.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-12700-21GHz-Up-To-49GHz-Cache-25MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175242,
+      "p_name": "Intel Core i7-12700F 2.1GHz Up To 4.9GHz - Cache 25MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        4559000,
+        299000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/24/2386bf83-c39e-4652-9338-d1e38c2129f4.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-12700F-21GHz-Up-To-49GHz-Cache-25MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175290,
+      "p_name": "Intel Core i9-12900F 2.4GHz Up To 5.1GHz - Cache 30MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        6015000,
+        165000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/2/17/fe579349-9de1-42a6-b4ec-493ebacb7648.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-12900F-24GHz-Up-To-51GHz-Cache-30MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175305,
+      "p_name": "Intel Core i9-12900 2.4GHz Up To 5.1GHz - Cache 30MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        6650000,
+        141000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/2/8/71e61e53-bc74-4ecf-b0c4-0dbd1d255059.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-12900-24GHz-Up-To-51GHz-Cache-30MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175365,
+      "p_name": "Intel Core i5-11400 2.6Ghz Up To 4.4Ghz - Cache 12MB [Tray] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        1770000,
+        -130000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/7/13/940853c5-d621-4229-aa53-13f67baf99b7.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-11400-26Ghz-Up-To-44Ghz-Cache-12MB-Tray-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 175444,
+      "p_name": "Intel Core i3-12100 3.3GHz Up To 4.3GHz - Cache 12MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        2280000,
+        85000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/26/09002544-fd35-4fe6-8be6-4e7877d5c9b6.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-12100-33GHz-Up-To-43GHz-Cache-12MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 176938,
+      "p_name": "Intel Core i5-12400 2.5GHz Up To 4.4GHz - Cache 18MB [Tray] Socket LGA 1700 - Alder Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        2060000,
+        -235000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2022/8/22/af522887-1dac-4f04-8055-9dfbbc2090f1.jpg~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400-25GHz-Up-To-44GHz-Cache-18MB-Tray-Socket-LGA-1700-Alder-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 177012,
+      "p_name": "Intel Pentium Gold G7400 3.7GHz - Cache 6MB [Box] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        1529000,
+        54000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/21/d58151f9-39d7-4bb0-8b3b-13237648e0a6.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-Gold-G7400-37GHz-Cache-6MB-Box-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 177189,
+      "p_name": "Intel Core i5-9400 2.9Ghz Up To 4.1Ghz - Cache 9MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1080000,
+        25000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/20/7e38e754-014c-41a5-b0ab-ce7019623121.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-9400-29Ghz-Up-To-41Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 177490,
+      "p_name": "AMD Ryzen 5 5500 3.6Ghz Up To 4.2Ghz Cache 16MB 65W AM4 [Box] - 6 Core - 100-100000457BOX - with Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        1560000,
+        31000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/16/81c2797c-4134-4fa1-a4ea-bddb34133175.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5500-36Ghz-Up-To-42Ghz-Cache-16MB-65W-AM4-Box-6-Core-100-100000457BOX-with-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 177525,
+      "p_name": "AMD Ryzen 3 4100 3.8Ghz Up To 4.0Ghz Cache 4MB 65W AM4 [Box] - 4 Core - 100-100000510BOX - with Wraith Stealth Cooler",
+      "p_prcz": [
+        1100000,
+        20000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/15/bf9833bd-9d3d-487a-85c0-b41aaa2d0c8f.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-3-4100-38Ghz-Up-To-40Ghz-Cache-4MB-65W-AM4-Box-4-Core-100-100000510BOX-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 177527,
+      "p_name": "AMD Ryzen 5 5600 3.5Ghz Up To 4.4Ghz Cache 32MB 65W AM4 [Box] - 6 Core - 100-100000927BOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        2129000,
+        30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/22/fdfe76c7-e502-47d1-ada1-0046955c4aad.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600-35Ghz-Up-To-44Ghz-Cache-32MB-65W-AM4-Box-6-Core-100-100000927BOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 177528,
+      "p_name": "AMD Ryzen 7 5700X 3.4Ghz Up To 4.6Ghz Cache 32MB 65W AM4 [Box] - 8 Core - 100-100000926WOF (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        3515000,
+        250000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/22/444bb6a6-545f-4d7f-834f-30d6f216832a.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5700X-34Ghz-Up-To-46Ghz-Cache-32MB-65W-AM4-Box-8-Core-100-100000926WOF-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 179218,
+      "p_name": "AMD Ryzen 5 5500 3.6Ghz Up To 4.2Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        1130000,
+        135000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/3c7bbdc7f2254f1f81a9f7ff6dbba0ba~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5500-36Ghz-Up-To-42Ghz-Cache-16MB-65W-AM4-Tray-6-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 179219,
+      "p_name": "AMD Ryzen 5 5600 3.5Ghz Up To 4.4Ghz Cache 32MB 65W AM4 [Tray] - 6 Core - NEW UNIT - 1 Years Warranty Replacement (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led)",
+      "p_prcz": [
+        1639000,
+        49000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/c9de1801dd764d8bbe9e644b1fc7dd85~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600-35Ghz-Up-To-44Ghz-Cache-32MB-65W-AM4-Tray-6-Core-NEW-UNIT-1-Years-Warranty-Replacement-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led",
+      "r_type": ""
+    },
+    {
+      "p_code": 179221,
+      "p_name": "Intel Core i5-12400F 2.5GHz Up To 4.4GHz - Cache 18MB [Tray] Socket LGA 1700 - Alder Lake Series - NEW UNIT - 1 Years Warranty (Free!!! CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led)",
+      "p_prcz": [
+        2040000,
+        -115000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/f7ba00fde04d4f68bc841eb499df7e12~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400F-25GHz-Up-To-44GHz-Cache-18MB-Tray-Socket-LGA-1700-Alder-Lake-Series-NEW-UNIT-1-Years-Warranty-Free-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led",
+      "r_type": ""
+    },
+    {
+      "p_code": 179597,
+      "p_name": "AMD Ryzen Threadripper PRO 5995WX 2.7Ghz Up To 4.5Ghz Cache 256MB 280W sWRX8 [BOX] - 64 Core - 100-100000444WOF",
+      "p_prcz": [
+        93765000,
+        -30000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/6/f592c28e-371d-4697-a6a0-c30d0d45f6fe.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-5995WX-27Ghz-Up-To-45Ghz-Cache-256MB-280W-sWRX8-BOX-64-Core-100-100000444WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 180132,
+      "p_name": "AMD Ryzen 9 7900X 4.7Ghz Up To 5.6Ghz Cache 64MB 170W AM5 [Box] - 12 Core - 100-100000589WOF (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        6879000,
+        570000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/365cd3ce-f2f9-4573-b86e-172b664fc737.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-7900X-47Ghz-Up-To-56Ghz-Cache-64MB-170W-AM5-Box-12-Core-100-100000589WOF-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 180133,
+      "p_name": "AMD Ryzen 7 7700X 4.5Ghz Up To 5.4Ghz Cache 32MB 105W AM5 [Box] - 8 Core - 100-100000591WOF",
+      "p_prcz": [
+        5410000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/7dec53b4-83f7-4683-ae6f-610b82079e40.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-7700X-45Ghz-Up-To-54Ghz-Cache-32MB-105W-AM5-Box-8-Core-100-100000591WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 180134,
+      "p_name": "AMD Ryzen 5 7600X 4.7Ghz Up To 5.3Ghz Cache 32MB 105W AM5 [Box] - 6 Core - 100-100000593WOF",
+      "p_prcz": [
+        3629000,
+        -106000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/7dd84fb5e13a4137a2091a1f0e65fa63~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7600X-47Ghz-Up-To-53Ghz-Cache-32MB-105W-AM5-Box-6-Core-100-100000593WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 180258,
+      "p_name": "Intel Core i7-12700F 2.1GHz Up To 4.9GHz - Cache 25MB [Tray] Socket LGA 1700 - Alder Lake Series - NEW UNIT - 1 Years Warranty (Free!!! CUBE GAMING STORM V2 - SINGLE FAN 12CM ARGB - Universal Socket (AM5 Ready))",
+      "p_prcz": [
+        3460000,
+        -615000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/12/16/8189cfa8-6e92-4fde-8f45-795c461964bb.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-12700F-21GHz-Up-To-49GHz-Cache-25MB-Tray-Socket-LGA-1700-Alder-Lake-Series-NEW-UNIT-1-Years-Warranty-Free-CUBE-GAMING-STORM-V2-SINGLE-FAN-12CM-ARGB-Universal-Socket-AM5-Ready",
+      "r_type": ""
+    },
+    {
+      "p_code": 180905,
+      "p_name": "Intel Core i3-10100 3.6Ghz Up To 4.3Ghz - Cache 6MB [Tray] Socket LGA1200 - Comet Lake Series",
+      "p_prcz": [
+        1460000,
+        115000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/25/451cbe02-0925-46a7-92f6-7ee33e83d6a3.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-10100-36Ghz-Up-To-43Ghz-Cache-6MB-Tray-Socket-LGA1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 181458,
+      "p_name": "Intel Core i7-13700F 2.1GHz Up To 5.2GHz - Cache 30MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        5235000,
+        40000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/b501aad6-bf1e-4299-b481-43748ba49115.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-13700F-21GHz-Up-To-52GHz-Cache-30MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 181460,
+      "p_name": "Intel Core i5-13400 2.5GHz Up To 4.6GHz - Cache 20MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        3285000,
+        316000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/3/ea014763-bf90-418b-b608-7f7821796345.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-13400-25GHz-Up-To-46GHz-Cache-20MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182130,
+      "p_name": "Intel Core i9-13900 2.0GHz Up To 5.6GHz - Cache 36MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        9525000,
+        -690000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/7/55a9a993-9b91-45be-851c-8f2a6a34fa39.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-13900-20GHz-Up-To-56GHz-Cache-36MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182131,
+      "p_name": "Intel Core i9-13900F 2.0GHz Up To 5.6GHz - Cache 36MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        9000000,
+        -135000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/7/d26ca10c-6105-4258-873b-d564502e2d93.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-13900F-20GHz-Up-To-56GHz-Cache-36MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182132,
+      "p_name": "Intel Core i7-13700 2.1GHz Up To 5.2GHz - Cache 30MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        5499000,
+        -176000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/7/d555429f-cedf-4b1e-bd09-bbf66eda8a9c.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-13700-21GHz-Up-To-52GHz-Cache-30MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182133,
+      "p_name": "Intel Core i5-13400F 2.5GHz Up To 4.6GHz - Cache 20MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        3150000,
+        120000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/7/259ed0f4-5822-4e41-b7a3-811ca0b101aa.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-13400F-25GHz-Up-To-46GHz-Cache-20MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182134,
+      "p_name": "Intel Core i3-13100 3.4GHz Up To 4.5GHz - Cache 12MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        2155000,
+        190000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/7/70500903-74c0-4d53-b620-4f2d5ec0448b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-13100-34GHz-Up-To-45GHz-Cache-12MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182135,
+      "p_name": "Intel Core i3-13100F 3.4GHz Up To 4.5GHz - Cache 12MB [Box] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        1360000,
+        -29000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/7/9eddd286-4942-4bb9-8508-733dbed68078.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-13100F-34GHz-Up-To-45GHz-Cache-12MB-Box-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182229,
+      "p_name": "Intel Core i5-10400F 2.9Ghz Up To 4.3Ghz - Cache 12MB [Tray] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1400000,
+        -50000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/03858b68c8e04914a91d315c6c5964fa~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-10400F-29Ghz-Up-To-43Ghz-Cache-12MB-Tray-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182239,
+      "p_name": "Intel Core i3-7100T 3.4Ghz - Cache 3MB [Tray] Socket LGA 1151 - Kabylake Series",
+      "p_prcz": [
+        320000,
+        5000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/21/d0c6791f-c790-49be-a4be-fb0945537ed9.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-7100T-34Ghz-Cache-3MB-Tray-Socket-LGA-1151-Kabylake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 182848,
+      "p_name": "AMD Ryzen 7 7700 3.8Ghz Up To 5.3Ghz Cache 32MB 65W AM5 [Box] - 8 Core - 100-100000592BOX - with AMD Wraith Prism Cooler",
+      "p_prcz": [
+        5235000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/1/13/c2ff274a-0fab-4095-83c8-a69dc57e0e28.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-7700-38Ghz-Up-To-53Ghz-Cache-32MB-65W-AM5-Box-8-Core-100-100000592BOX-with-AMD-Wraith-Prism-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 183437,
+      "p_name": "AMD Ryzen 7 5700X 3.4Ghz Up To 4.6Ghz Cache 32MB 65W AM4 [Tray] - 8 Core - NEW UNIT - 1 Years Warranty Replacement (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led)",
+      "p_prcz": [
+        2659000,
+        320000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/570737eabcd14019a54f1a8458e7ca28~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5700X-34Ghz-Up-To-46Ghz-Cache-32MB-65W-AM4-Tray-8-Core-NEW-UNIT-1-Years-Warranty-Replacement-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led",
+      "r_type": ""
+    },
+    {
+      "p_code": 183920,
+      "p_name": "AMD Ryzen 7 7800X3D 4.2GHz Up To 5.0GHz Cache 96MB 120W AM5 [Box] - 8 Core - 100-100000910WOF (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        7545000,
+        6000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/4/27/b607c19f-b1dc-48a5-b1c3-56a6321a4762.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-7800X3D-42GHz-Up-To-50GHz-Cache-96MB-120W-AM5-Box-8-Core-100-100000910WOF-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 184605,
+      "p_name": "Intel Core i5-13400 2.5GHz Up To 4.6GHz - Cache 20MB [Tray] Socket LGA 1700 - Raptor Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        2165000,
+        -80000
+      ],
+      "p_imgz": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7ra0i-mdpkwatnfz0y43.webp"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-13400-25GHz-Up-To-46GHz-Cache-20MB-Tray-Socket-LGA-1700-Raptor-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 184606,
+      "p_name": "Intel Core i5-13400F 2.5GHz Up To 4.6GHz - Cache 20MB [Tray] Socket LGA 1700 - Raptor Lake Series - NEW UNIT - 1 Years Warranty (Free!!! CUBE GAMING BREEZE Single CPU Cooler - Single Fan 12CM ARGB - 4 Copper Heat Pipes - Universal Socket (AM5 Ready))",
+      "p_prcz": [
+        1725000,
+        66000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/0a9c440f6443431ebd42e8ecc5374f0c~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-13400F-25GHz-Up-To-46GHz-Cache-20MB-Tray-Socket-LGA-1700-Raptor-Lake-Series-NEW-UNIT-1-Years-Warranty-Free-CUBE-GAMING-BREEZE-Single-CPU-Cooler-Single-Fan-12CM-ARGB-4-Copper-Heat-Pipes-Universal-Socket-AM5-Ready",
+      "r_type": ""
+    },
+    {
+      "p_code": 185173,
+      "p_name": "AMD Athlon 3000G (Radeon Vega 3) 3.5Ghz Cache 4MB 35W Socket AM4 [Tray] - 2 Core - YD3000C6FHSPK",
+      "p_prcz": [
+        710000,
+        -9000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/7/22/b4448421-18f6-48f6-b0ad-aec77a9e5142.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Athlon-3000G-Radeon-Vega-3-35Ghz-Cache-4MB-35W-Socket-AM4-Tray-2-Core-YD3000C6FHSPK",
+      "r_type": ""
+    },
+    {
+      "p_code": 185360,
+      "p_name": "AMD Ryzen 5 7500F 3.7Ghz Up To 5.0Ghz Cache 32MB 65W AM5 [Tray] - 6 Core - 100-100000597MPK - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        2510000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lkkop0y3jsjj8b.webp"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7500F-37Ghz-Up-To-50Ghz-Cache-32MB-65W-AM5-Tray-6-Core-100-100000597MPK-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 186010,
+      "p_name": "Intel Core i5-14600KF 3.5GHz Up To 5.3GHz - Cache 24MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        3705000,
+        86000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/18/9fbd68b1-0b91-489a-a4a9-496d225b7ea3.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14600KF-35GHz-Up-To-53GHz-Cache-24MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186011,
+      "p_name": "Intel Core i5-14600K 3.5GHz Up To 5.3GHz - Cache 24MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        3900000,
+        10000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/24/8217c8b1-a4e2-4bed-b78e-b3501478bd07.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14600K-35GHz-Up-To-53GHz-Cache-24MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186012,
+      "p_name": "Intel Core i7-14700KF 3.4GHz Up To 5.6GHz - Cache 33MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        5780000,
+        -179000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/18/475e5b75-b237-4ae4-b746-6093ab751799.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-14700KF-34GHz-Up-To-56GHz-Cache-33MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186013,
+      "p_name": "Intel Core i7-14700K 3.4GHz Up To 5.6GHz - Cache 33MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        6210000,
+        165000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/18/0761f499-9b9d-4498-a682-bd10328173db.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-14700K-34GHz-Up-To-56GHz-Cache-33MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186014,
+      "p_name": "Intel Core i9-14900KF 3.2GHz Up To 6.0GHz - Cache 36MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        7869000,
+        139000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/18/0dbde003-5bbf-4c3d-b3b8-b681a222bade.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-14900KF-32GHz-Up-To-60GHz-Cache-36MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186015,
+      "p_name": "Intel Core i9-14900K 3.2GHz Up To 6.0GHz - Cache 36MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        8290000,
+        100000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/18/28ff4299-1ead-47f6-af62-d5f3669f5bda.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-14900K-32GHz-Up-To-60GHz-Cache-36MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186680,
+      "p_name": "Intel Core i5-9500 3.0Ghz Up To 4.4Ghz - Cache 9MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1120000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/11/18/40785cbf-1070-4f18-b15c-9945791a974a.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-9500-30Ghz-Up-To-44Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186809,
+      "p_name": "Intel Core i3-10105 3.7Ghz Up To 4.4Ghz - Cache 6MB [Tray] Socket LGA 1200 - Comet Lake Refresh Series",
+      "p_prcz": [
+        1340000,
+        80000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/9/7/a75f49ac-1628-4c4d-bfa1-91bd7490d176.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-10105-37Ghz-Up-To-44Ghz-Cache-6MB-Tray-Socket-LGA-1200-Comet-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 186950,
+      "p_name": "AMD Ryzen Threadripper PRO 7975WX 4.0GHz Up To 5.3GHz Cache 128MB 350W sTR5 [BOX] - 32 Core - 100-100000453WOF",
+      "p_prcz": [
+        71575000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/6/35aa513b-02e4-4215-9f15-fbafba64e86d.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-7975WX-40GHz-Up-To-53GHz-Cache-128MB-350W-sTR5-BOX-32-Core-100-100000453WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 186951,
+      "p_name": "AMD Ryzen Threadripper PRO 7995WX 2.5GHz Up To 5.1GHz Cache 384MB 350W sTR5 [BOX] - 96 Core - 100-100000884WOF",
+      "p_prcz": [
+        181125000,
+        -255000
+      ],
+      "p_imgz": [
+        "https://down-id.img.susercontent.com/file/id-11134207-7r98u-ltrp4j3ddnvnb0"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-7995WX-25GHz-Up-To-51GHz-Cache-384MB-350W-sTR5-BOX-96-Core-100-100000884WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 186952,
+      "p_name": "AMD Ryzen Threadripper PRO 7965WX 4.2GHz Up To 5.3GHz Cache 128MB 350W sTR5 [BOX] - 24 Core - 100-100000885WOF",
+      "p_prcz": [
+        49890000,
+        390000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/6/7aa1b4d5-7429-45e3-b041-ad73851131dd.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-7965WX-42GHz-Up-To-53GHz-Cache-128MB-350W-sTR5-BOX-24-Core-100-100000885WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 187111,
+      "p_name": "Intel Pentium Gold G7400 3.7GHz - Cache 6MB [Tray] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        1160000,
+        -139000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Pentium-Gold-G7400-37GHz-Cache-6MB-Tray-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187284,
+      "p_name": "AMD Ryzen Threadripper 7960X 4.2GHz Up to 5.3GHz Cache 128MB 350W sTR5 [BOX] - 24 Core - 100-100001352WOF",
+      "p_prcz": [
+        26100000,
+        -157000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/13/b49509c3-f4bd-430c-b3b5-b984fe6b1891.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-7960X-42GHz-Up-to-53GHz-Cache-128MB-350W-sTR5-BOX-24-Core-100-100001352WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 187285,
+      "p_name": "AMD Ryzen Threadripper 7970X 4.0GHz Up to 5.3GHz Cache 128MB 350W sTR5 [BOX] - 32 Core - 100-100001351WOF",
+      "p_prcz": [
+        46215000,
+        -165000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/6/7633ec32-ad07-4911-9d48-9c5b342ae933.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-7970X-40GHz-Up-to-53GHz-Cache-128MB-350W-sTR5-BOX-32-Core-100-100001351WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 187452,
+      "p_name": "Intel Core i3-14100F 3.5GHz Up To 4.7GHz - Cache 12MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        1529000,
+        54000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/17e2cef1-db69-4203-aaf1-e551152bdd76.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-14100F-35GHz-Up-To-47GHz-Cache-12MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187453,
+      "p_name": "Intel Core i3-14100 3.5GHz Up To 4.7GHz - Cache 12MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        2530000,
+        180000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/12d42898-828c-4893-9d0b-f0e478872a68.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-14100-35GHz-Up-To-47GHz-Cache-12MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187454,
+      "p_name": "Intel Core i5-14400F 2.5GHz Up To 4.7GHz - Cache 20MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        3510000,
+        560000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/569b44f4-2fe7-49c6-90e8-b1dfcb56c7c1.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14400F-25GHz-Up-To-47GHz-Cache-20MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187455,
+      "p_name": "Intel Core i5-14400 2.5GHz Up To 4.7GHz - Cache 20MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        4075000,
+        946000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/aa9fa5aa-5e64-43b8-8519-38960ad45030.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14400-25GHz-Up-To-47GHz-Cache-20MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187456,
+      "p_name": "Intel Core i5-14500 2.6GHz Up To 5.0GHz - Cache 24MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        4455000,
+        360000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/23b28fbf-38c1-49d1-a3ad-b37c8f4752ab.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14500-26GHz-Up-To-50GHz-Cache-24MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187457,
+      "p_name": "Intel Core i7-14700F 2.1GHz Up To 5.4GHz - Cache 33MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        5430000,
+        91000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/5fcde7f7-9664-4a2b-8f4c-95bba37d85b0.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-14700F-21GHz-Up-To-54GHz-Cache-33MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187458,
+      "p_name": "Intel Core i7-14700 2.1GHz Up To 5.4GHz - Cache 33MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        6455000,
+        1026000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/4/ec8582de-1fd0-4ec1-8659-14782f167e04.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-14700-21GHz-Up-To-54GHz-Cache-33MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187459,
+      "p_name": "Intel Core i9-14900F 2.0GHz Up To 5.8GHz - Cache 36MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        9535000,
+        340000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/23/9ec1f485-7946-45de-adc5-bd14d84c992b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-14900F-20GHz-Up-To-58GHz-Cache-36MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187460,
+      "p_name": "Intel Core i9-14900 2.0GHz Up To 5.8GHz - Cache 36MB [Box] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        9809000,
+        224000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/3/14/8ee57cd2-6efe-498c-954a-7f12ee066dd8.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-14900-20GHz-Up-To-58GHz-Cache-36MB-Box-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187645,
+      "p_name": "Intel Core i3-10105T 3.0Ghz Up To 3.9Ghz - Cache 6MB [Tray] Socket LGA 1200 - Comet Lake Refresh Series",
+      "p_prcz": [
+        1320000,
+        -50000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/23/afbd6327-7205-479a-8c98-9f92d6dea659.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-10105T-30Ghz-Up-To-39Ghz-Cache-6MB-Tray-Socket-LGA-1200-Comet-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 187697,
+      "p_name": "AMD Ryzen 5 5600GT 3.6Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Box] - 6 Core - 100-100001488BOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        2449000,
+        149000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/25/1bda222c-549b-41b3-998f-9f952d941bc5.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600GT-36Ghz-Up-To-46Ghz-Cache-16MB-65W-AM4-Box-6-Core-100-100001488BOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 187698,
+      "p_name": "AMD Ryzen 5 5500GT 3.6Ghz Up To 4.4Ghz Cache 16MB 65W AM4 [Box] - 6 Core - 100-100001489BOX - with AMD Wraith Stealth Cooler (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        2199000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/31/66e4646a-b6d8-485d-b984-0eeb0f8eab00.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5500GT-36Ghz-Up-To-44Ghz-Cache-16MB-65W-AM4-Box-6-Core-100-100001489BOX-with-AMD-Wraith-Stealth-Cooler-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 187703,
+      "p_name": "AMD Ryzen Threadripper PRO 7985WX 3.2GHz Up To 5.1GHz Cache 256MB 350W sTR5 [BOX] - 64 Core - 100-100000454WOF",
+      "p_prcz": [
+        140790000,
+        1101000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/c6bb9ede88d8497a8e0a554eaa3b4071~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-7985WX-32GHz-Up-To-51GHz-Cache-256MB-350W-sTR5-BOX-64-Core-100-100000454WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 187934,
+      "p_name": "AMD Ryzen Threadripper 7980X 3.2GHz Up to 5.1GHz Cache 256MB 350W sTR5 [BOX] - 64 Core - 100-100001350WOF",
+      "p_prcz": [
+        93015000,
+        -420000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/6/153563a9-11db-4094-973f-0b620e8b6401.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-7980X-32GHz-Up-to-51GHz-Cache-256MB-350W-sTR5-BOX-64-Core-100-100001350WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 187945,
+      "p_name": "AMD Ryzen 5 8500G 3.5Ghz Up To 5.0Ghz Cache 16MB 65W AM5 [Box] - 6 Core - 100-100000931BOX",
+      "p_prcz": [
+        2699000,
+        -21000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/31/1b8e7105-7c5b-4c33-8941-4c4d2acad23a.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-8500G-35Ghz-Up-To-50Ghz-Cache-16MB-65W-AM5-Box-6-Core-100-100000931BOX",
+      "r_type": ""
+    },
+    {
+      "p_code": 187946,
+      "p_name": "AMD Ryzen 5 8600G 4.3Ghz Up To 5.0Ghz Cache 16MB 65W AM5 [Box] - 6 Core - 100-100001237BOX",
+      "p_prcz": [
+        3409000,
+        319000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/31/06a639d6-0e7e-45fe-af2f-098da9c1596d.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-8600G-43Ghz-Up-To-50Ghz-Cache-16MB-65W-AM5-Box-6-Core-100-100001237BOX",
+      "r_type": ""
+    },
+    {
+      "p_code": 187947,
+      "p_name": "AMD Ryzen 7 8700G 4.2Ghz Up To 5.1Ghz Cache 16MB 65W AM5 [Box] - 8 Core - 100-100001236BOX",
+      "p_prcz": [
+        5050000,
+        435000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/31/dc088c01-99c3-417e-9956-0ef7a013e37b.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-8700G-42Ghz-Up-To-51Ghz-Cache-16MB-65W-AM5-Box-8-Core-100-100001236BOX",
+      "r_type": ""
+    },
+    {
+      "p_code": 188559,
+      "p_name": "AMD Ryzen 5 7500F 3.7Ghz Up To 5.0Ghz Cache 32MB 65W AM5 [Tray] - 6 Core - NEW UNIT (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led) - 1 Years Warranty Replacement",
+      "p_prcz": [
+        2185000,
+        -5000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/1dca46f0157441f783c64b0e9dd75256~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7500F-37Ghz-Up-To-50Ghz-Cache-32MB-65W-AM5-Tray-6-Core-NEW-UNIT-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 188692,
+      "p_name": "Intel Core i3-12100 3.3GHz Up To 4.3GHz - Cache 12MB [Tray] Socket LGA 1700 - Alder Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        1455000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/5c2339abe12e403fb16073ca4d40b97e~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-12100-33GHz-Up-To-43GHz-Cache-12MB-Tray-Socket-LGA-1700-Alder-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 188693,
+      "p_name": "Intel Core i3-12100F 3.3GHz Up To 4.3GHz - Cache 12MB [Tray] Socket LGA 1700 - Alder Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        790000,
+        -29000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/2cfead46dd014deebe8165d39ebce885~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-12100F-33GHz-Up-To-43GHz-Cache-12MB-Tray-Socket-LGA-1700-Alder-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 188762,
+      "p_name": "AMD Ryzen 5 7600X 4.7Ghz Up To 5.3Ghz Cache 32MB 105W AM5 [Tray] - 6 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        2829000,
+        -281000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/3/27/87e130a1-fff4-491c-ac7d-47b5b05a5ecb.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7600X-47Ghz-Up-To-53Ghz-Cache-32MB-105W-AM5-Tray-6-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 188763,
+      "p_name": "AMD Ryzen 5 7600 3.8Ghz Up To 5.1Ghz Cache 32MB 65W AM5 [Tray] - 6 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        2595000,
+        -330000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/f5109f71a4634ef9855e71d5e6be1e63~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7600-38Ghz-Up-To-51Ghz-Cache-32MB-65W-AM5-Tray-6-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 189245,
+      "p_name": "AMD Ryzen 5 8400F 4.2Ghz Up To 4.7Ghz Cache 16MB 65W AM5 [Box] - 6 Core - 100-100001591BOX - with Wraith Stealth Cooler",
+      "p_prcz": [
+        2695000,
+        425000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/5/29/36bb865e-bda4-4ae4-9e9f-3778c325eab3.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-8400F-42Ghz-Up-To-47Ghz-Cache-16MB-65W-AM5-Box-6-Core-100-100001591BOX-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 189271,
+      "p_name": "AMD Ryzen 7 8700F 4.1Ghz Up To 5.0Ghz Cache 16MB 65W AM5 [Box] - 8 Core - 100-100001590BOX - with Wraith Stealth Cooler",
+      "p_prcz": [
+        3519000,
+        -60000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/img/VqbcmM/2024/5/18/618bd55d-1bf9-4585-8ce7-2021837ff63d.jpg~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-8700F-41Ghz-Up-To-50Ghz-Cache-16MB-65W-AM5-Box-8-Core-100-100001590BOX-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 189435,
+      "p_name": "AMD Ryzen 5 8400F 4.2Ghz Up To 4.7Ghz Cache 16MB 65W AM5 [Tray] - 6 Core - 100-100001591MPK - with Wraith Stealth Cooler",
+      "p_prcz": [
+        2435000,
+        536000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/28/98d0ec46-e681-45b2-9425-191047fcb3eb.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-8400F-42Ghz-Up-To-47Ghz-Cache-16MB-65W-AM5-Tray-6-Core-100-100001591MPK-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 189436,
+      "p_name": "AMD Ryzen 7 8700F 4.1Ghz Up To 5.0Ghz Cache 16MB 65W AM5 [Tray] - 8 Core - 100-100001590MPK - with Wraith Stealth Cooler",
+      "p_prcz": [
+        3090000,
+        651000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/28/0b05a251-e4ab-4cdd-8c1c-32ffa2e556c8.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-8700F-41Ghz-Up-To-50Ghz-Cache-16MB-65W-AM5-Tray-8-Core-100-100001590MPK-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 190422,
+      "p_name": "Intel Core i5-12400 2.5GHz Up To 4.4GHz - Cache 18MB [Tray] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        2635000,
+        135000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400-25GHz-Up-To-44GHz-Cache-18MB-Tray-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 190453,
+      "p_name": "AMD Ryzen 9 9900X 4.4Ghz Up To 5.6Ghz Cache 64MB 120W AM5 [Box] - 12 Core - 100-100000662WOF",
+      "p_prcz": [
+        7549000,
+        -100000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/20/8c69417b-b99b-4d53-820b-64a3aedda790.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9900X-44Ghz-Up-To-56Ghz-Cache-64MB-120W-AM5-Box-12-Core-100-100000662WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 190454,
+      "p_name": "AMD Ryzen 7 9700X 3.8Ghz Up To 5.5Ghz Cache 32MB 65W AM5 [Box] - 8 Core - 100-100001404WOF",
+      "p_prcz": [
+        5959000,
+        89000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/20/f7dd73cb-338c-436c-977e-f022018f1b47.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9700X-38Ghz-Up-To-55Ghz-Cache-32MB-65W-AM5-Box-8-Core-100-100001404WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 190455,
+      "p_name": "AMD Ryzen 5 9600X 3.9Ghz Up To 5.4Ghz Cache 32MB 65W AM5 [Box] - 6 Core - 100-100001405WOF",
+      "p_prcz": [
+        4095000,
+        276000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/20/0d359091-ecae-4c64-88d9-6f29de720a0c.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-9600X-39Ghz-Up-To-54Ghz-Cache-32MB-65W-AM5-Box-6-Core-100-100001405WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 190476,
+      "p_name": "Intel Core i5-10500 3.1Ghz Up To 4.5Ghz - Cache 12MB [Tray] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        1870000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-10500-31Ghz-Up-To-45Ghz-Cache-12MB-Tray-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 190574,
+      "p_name": "AMD EPYC 7313 3.0Ghz Up To 3.7Ghz Cache 128MB 155W SP3 [Tray] - 16 Core - 100-000000329",
+      "p_prcz": [
+        14655000,
+        46000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/6/3505d3c1-5c2b-4e58-9b4a-d6255d086db5.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-7313-30Ghz-Up-To-37Ghz-Cache-128MB-155W-SP3-Tray-16-Core-100-000000329",
+      "r_type": ""
+    },
+    {
+      "p_code": 190575,
+      "p_name": "AMD EPYC 7352 2.3Ghz Up To 3.2Ghz Cache 128MB 155W SP3 [Tray] - 24 Core - 100-000000077",
+      "p_prcz": [
+        18979000,
+        -63000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/7/4f458972-2029-412a-be55-fea26b60f455.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-7352-23Ghz-Up-To-32Ghz-Cache-128MB-155W-SP3-Tray-24-Core-100-000000077",
+      "r_type": ""
+    },
+    {
+      "p_code": 190576,
+      "p_name": "AMD EPYC 7413 2.65Ghz Up To 3.6Ghz Cache 128MB 180W SP3 [Tray] - 24 Core - 100-000000323",
+      "p_prcz": [
+        19179000,
+        -110000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/7/2138caa0-eb24-446f-ba9f-13ca5e50d425.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-7413-265Ghz-Up-To-36Ghz-Cache-128MB-180W-SP3-Tray-24-Core-100-000000323",
+      "r_type": ""
+    },
+    {
+      "p_code": 190577,
+      "p_name": "AMD EPYC 7443 2.85Ghz Up To 4.0Ghz Cache 128MB 200W SP3 [Tray] - 24 Core - 100-000000340",
+      "p_prcz": [
+        29670000,
+        -245000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/7/e6cb7433-9f73-44ac-8afa-2fcff2bec020.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-7443-285Ghz-Up-To-40Ghz-Cache-128MB-200W-SP3-Tray-24-Core-100-000000340",
+      "r_type": ""
+    },
+    {
+      "p_code": 190578,
+      "p_name": "AMD EPYC 7543 2.8Ghz Up To 3.7Ghz Cache 256MB 225W SP3 [Tray] - 32 Core - 100-000000345",
+      "p_prcz": [
+        38190000,
+        -499000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/7/c9d344e1-1b97-448e-8a5b-c4c7f195c919.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-7543-28Ghz-Up-To-37Ghz-Cache-256MB-225W-SP3-Tray-32-Core-100-000000345",
+      "r_type": ""
+    },
+    {
+      "p_code": 190622,
+      "p_name": "Intel Core i7-9700 3.0Ghz Up To 4.7Ghz - Cache 12MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        2195000,
+        100000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/10/16/3094dca1-aa5c-45ef-bfca-e27355352143.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-9700-30Ghz-Up-To-47Ghz-Cache-12MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 190638,
+      "p_name": "AMD Ryzen 9 5900XT 3.3Ghz Up To 4.8Ghz Cache 64MB 105W AM4 [Box] - 16 Core - 100-100001581WOF",
+      "p_prcz": [
+        5649000,
+        -520000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/2/e6617f09-13ac-4925-88bc-80db8b5eb038.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-5900XT-33Ghz-Up-To-48Ghz-Cache-64MB-105W-AM4-Box-16-Core-100-100001581WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 190639,
+      "p_name": "AMD Ryzen 7 5800XT 3.8Ghz Up To 4.8Ghz Cache 32MB 105W AM4 [Box] - 8 Core - 100-100001582BOX - with AMD Wraith Prism Cooler",
+      "p_prcz": [
+        3990000,
+        -855000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/2/c355090e-a30a-4bf9-a507-25cb0a71d9dc.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5800XT-38Ghz-Up-To-48Ghz-Cache-32MB-105W-AM4-Box-8-Core-100-100001582BOX-with-AMD-Wraith-Prism-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 190640,
+      "p_name": "AMD Ryzen 5 3400G 3.7Ghz Up To 4.2Ghz Cache 4MB 65W AM4 [Box] - 4 Core - YD3400C5FHBOX - with AMD Wraith Spire Cooler",
+      "p_prcz": [
+        1150000,
+        120000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/2/b60f08cc-7e7c-4498-825d-dd53441f3251.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-3400G-37Ghz-Up-To-42Ghz-Cache-4MB-65W-AM4-Box-4-Core-YD3400C5FHBOX-with-AMD-Wraith-Spire-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 190653,
+      "p_name": "AMD EPYC 9334 2.7GHz Up To 3.9GHz Cache 128MB 210W SP5 [Tray] - 32 Core - 100-000000800",
+      "p_prcz": [
+        33570000,
+        -1569000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/7/b76518f8-d99b-4563-9906-366d48537bd5.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-9334-27GHz-Up-To-39GHz-Cache-128MB-210W-SP5-Tray-32-Core-100-000000800",
+      "r_type": ""
+    },
+    {
+      "p_code": 190654,
+      "p_name": "AMD EPYC 4464P 3.7GHz Up To 5.4GHz Cache 64MB 65W AM5 [Tray] - 12 Core - 100-000001478",
+      "p_prcz": [
+        9039000,
+        -96000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/7/ca16fbd5-b480-4287-9f6c-f30ee8b3482c.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-4464P-37GHz-Up-To-54GHz-Cache-64MB-65W-AM5-Tray-12-Core-100-000001478",
+      "r_type": ""
+    },
+    {
+      "p_code": 190722,
+      "p_name": "AMD Ryzen 9 9950X 4.3Ghz Up To 5.7Ghz Cache 64MB 170W AM5 [Box] - 16 Core - 100-100001277WOF",
+      "p_prcz": [
+        10950000,
+        931000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/8/20/6b4bdfe9-897b-4350-bebc-6dfc1a997887.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9950X-43Ghz-Up-To-57Ghz-Cache-64MB-170W-AM5-Box-16-Core-100-100001277WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 191622,
+      "p_name": "AMD Ryzen 7 9700X 3.8Ghz Up To 5.5Ghz Cache 32MB 65W AM5 [Tray] - 8 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        4465000,
+        -115000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/10/15/23cc3e9e-8dbc-4c9a-8947-41542e5bfff8.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9700X-38Ghz-Up-To-55Ghz-Cache-32MB-65W-AM5-Tray-8-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 191940,
+      "p_name": "Intel Core Ultra 9 285K 3.2GHz Up To 5.7GHz - Cache 36MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        9859000,
+        409000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/11/6/c2a507c8-cc5f-437c-a020-7b0c12e496a4.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-9-285K-32GHz-Up-To-57GHz-Cache-36MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 191941,
+      "p_name": "Intel Core Ultra 7 265K 3.3GHz Up To 5.5GHz - Cache 30MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        5399000,
+        260000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/10/29/997b3a75-7050-452b-a81e-ebe8aa1333df.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-7-265K-33GHz-Up-To-55GHz-Cache-30MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 191942,
+      "p_name": "Intel Core Ultra 7 265KF 3.3GHz Up To 5.5GHz - Cache 30MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        5195000,
+        105000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/10/29/c1d30832-e5a3-4433-b4fc-0c6fede3e576.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-7-265KF-33GHz-Up-To-55GHz-Cache-30MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 191943,
+      "p_name": "Intel Core Ultra 5 245K 3.6GHz Up To 5.2GHz - Cache 24MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        3899000,
+        -70000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/10/29/fc7ef5f4-d198-4be4-a102-7ccaf6b4438b.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-5-245K-36GHz-Up-To-52GHz-Cache-24MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 191944,
+      "p_name": "Intel Core Ultra 5 245KF 3.6GHz Up To 5.2GHz - Cache 24MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        3599000,
+        -76000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/2/13/e085459e-5d9c-4dbe-a79d-66adc6f984e5.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-5-245KF-36GHz-Up-To-52GHz-Cache-24MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 192071,
+      "p_name": "AMD Bristol Ridge A6-9500 (Radeon R5 Series) 3.5Ghz Up To 3.8Ghz Cache 1MB 65W Socket AM4 [Tray] - 3 Core - NEW UNIT (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led) - 1 Years Warranty Replacement",
+      "p_prcz": [
+        619000,
+        20000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/353b918ab87144b1b29c7779e00c02ae~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Bristol-Ridge-A6-9500-Radeon-R5-Series-35Ghz-Up-To-38Ghz-Cache-1MB-65W-Socket-AM4-Tray-3-Core-NEW-UNIT-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 192263,
+      "p_name": "AMD Ryzen 7 9800X3D 4.7GHz Up To 5.2GHz Cache 96MB 120W AM5 [Box] - 8 Core - 100-1000001084WOF",
+      "p_prcz": [
+        8689000,
+        450000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/11/7/042bc9a4-97fe-4c89-baf8-fa4f33eac670.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9800X3D-47GHz-Up-To-52GHz-Cache-96MB-120W-AM5-Box-8-Core-100-1000001084WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 192615,
+      "p_name": "Intel Core i7-14700F 2.1GHz Up To 5.4GHz - Cache 33MB [Tray] Socket LGA 1700 - Raptor Lake Refresh Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        4389000,
+        -406000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/036295bca4754a1dbfbaa5e10530b1e0~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-14700F-21GHz-Up-To-54GHz-Cache-33MB-Tray-Socket-LGA-1700-Raptor-Lake-Refresh-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 192829,
+      "p_name": "Intel Core i7-9700K 3.6Ghz Up To 4.9Ghz - Cache 12MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        2380000,
+        -400000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-9700K-36Ghz-Up-To-49Ghz-Cache-12MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194000,
+      "p_name": "AMD Ryzen 9 9950X 4.3GHz Up To 5.7GHz Cache 64MB 170W AM5 [Tray] - 16 Core - 100-000001277",
+      "p_prcz": [
+        9999000,
+        54000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/1/28/3e3087e5-7a22-4bcc-9136-c0a0dccca532.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9950X-43GHz-Up-To-57GHz-Cache-64MB-170W-AM5-Tray-16-Core-100-000001277",
+      "r_type": ""
+    },
+    {
+      "p_code": 194001,
+      "p_name": "AMD Ryzen 5 3400G 3.7GHz Up To 4.2GHz Cache 4MB 65W AM4 [Tray] - 4 Core - YD3400C5M4MFH",
+      "p_prcz": [
+        1130000,
+        61000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/1/28/24a405fa-1789-4084-8ede-e4323cf49e36.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-3400G-37GHz-Up-To-42GHz-Cache-4MB-65W-AM4-Tray-4-Core-YD3400C5M4MFH",
+      "r_type": ""
+    },
+    {
+      "p_code": 194115,
+      "p_name": "AMD Ryzen 5 7500F 3.7Ghz Up To 5.0Ghz Cache 32MB 65W AM5 [Tray] - 6 Core - 100-100000597",
+      "p_prcz": [
+        2449000,
+        179000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/b567b21f4a924c6ea533972c47c0e435~tplv-aphluv4xwc-resize-jpeg:800:800.jpeg?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7500F-37Ghz-Up-To-50Ghz-Cache-32MB-65W-AM5-Tray-6-Core-100-100000597",
+      "r_type": ""
+    },
+    {
+      "p_code": 194145,
+      "p_name": "Intel Core Ultra 5 235 3.4GHz Up To 5.0GHz - Cache 24MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        4260000,
+        -299000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/2/7/ae8eb270-cf17-4809-859d-70c174425d0a.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-5-235-34GHz-Up-To-50GHz-Cache-24MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194146,
+      "p_name": "Intel Core Ultra 5 225 3.3GHz Up To 4.9GHz - Cache 20MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        3389000,
+        -170000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/2/7/0a0e1ab9-2fff-4b33-9ccf-c2d5499bb5ab.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-5-225-33GHz-Up-To-49GHz-Cache-20MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194147,
+      "p_name": "Intel Core Ultra 5 225F 3.3GHz Up To 4.9GHz - Cache 20MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        2999000,
+        -286000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/2/7/af3dfc83-044a-43c2-829a-b4f4d4851e63.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-5-225F-33GHz-Up-To-49GHz-Cache-20MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194148,
+      "p_name": "Intel Core Ultra 7 265F 2.4GHz Up To 5.3GHz - Cache 30MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        5179000,
+        100000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/2/7/2c716eec-1063-4efa-92d0-a873e333aad6.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-7-265F-24GHz-Up-To-53GHz-Cache-30MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194195,
+      "p_name": "Intel Core Ultra 7 265 2.4GHz Up To 5.3GHz - Cache 30MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        5569000,
+        440000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/2/13/f3292334-dd64-4671-8044-2312a296dde6.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-7-265-24GHz-Up-To-53GHz-Cache-30MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194221,
+      "p_name": "Intel Core Ultra 9 285 2.5GHz Up To 5.6GHz - Cache 36MB [Box] Socket LGA 1851 - Arrow Lake Series",
+      "p_prcz": [
+        9779000,
+        -210000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/799fe4c4c2ee4bdc9b05b15d304e1cb8~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-9-285-25GHz-Up-To-56GHz-Cache-36MB-Box-Socket-LGA-1851-Arrow-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194355,
+      "p_name": "Intel Core i5-9600 3.1Ghz Up To 4.6Ghz - Cache 9MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1005000,
+        -5000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-9600-31Ghz-Up-To-46Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 194537,
+      "p_name": "AMD Ryzen 5 5600 3.5Ghz Up To 4.4Ghz Cache 32MB 65W AM4 [Tray] - 6 Core - 100-000000927",
+      "p_prcz": [
+        1869000,
+        49000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/810d16b0ce294862a55c240a7821e3cb~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600-35Ghz-Up-To-44Ghz-Cache-32MB-65W-AM4-Tray-6-Core-100-000000927",
+      "r_type": ""
+    },
+    {
+      "p_code": 194554,
+      "p_name": "AMD Bristol Ridge A6-9500E (Radeon R5 Series) 3.0Ghz Up to 3.4Ghz Cache 1MB 35W Socket AM4 [Tray] - 2 Core - NEW UNIT (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led) - 1 Years Warranty Replacement",
+      "p_prcz": [
+        560000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/661f71aeab444b00be99c2e3e0267dac~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Bristol-Ridge-A6-9500E-Radeon-R5-Series-30Ghz-Up-to-34Ghz-Cache-1MB-35W-Socket-AM4-Tray-2-Core-NEW-UNIT-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 194677,
+      "p_name": "AMD Ryzen 9 9950X3D 4.3GHz Up To 5.7GHz Cache 128MB 170W AM5 [Box] - 16 Core - 100-100000719WOF",
+      "p_prcz": [
+        12785000,
+        -194000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/3/13/bb874664-5665-4d30-b9b8-be31bf1c63bd.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9950X3D-43GHz-Up-To-57GHz-Cache-128MB-170W-AM5-Box-16-Core-100-100000719WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 194678,
+      "p_name": "AMD Ryzen 9 9900X3D 4.4GHz Up To 5.5GHz Cache 128MB 120W AM5 [Box] - 12 Core - 100-100001368WOF",
+      "p_prcz": [
+        10799000,
+        350000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/3/13/caaddc09-faf1-4605-9d71-34e32737e012.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9900X3D-44GHz-Up-To-55GHz-Cache-128MB-120W-AM5-Box-12-Core-100-100001368WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 194888,
+      "p_name": "AMD Ryzen 7 7800X3D 4.2GHz Up To 5.0GHz Cache 96MB 120W AM5 [Tray] - 8 Core - 100-000000910 (Garansi Lokal/AMD Indonesia)",
+      "p_prcz": [
+        5870000,
+        480000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2025/3/22/59e50679-e867-44bd-85c1-e3cd58015de0.jpg"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-7800X3D-42GHz-Up-To-50GHz-Cache-96MB-120W-AM5-Tray-8-Core-100-000000910-Garansi-LokalAMD-Indonesia",
+      "r_type": ""
+    },
+    {
+      "p_code": 195119,
+      "p_name": "AMD EPYC 9654 2.4GHz Up To 3.7GHz Cache 384MB 360W SP5 [Tray] - 96 Core - 100-000000789",
+      "p_prcz": [
+        75290000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-9654-24GHz-Up-To-37GHz-Cache-384MB-360W-SP5-Tray-96-Core-100-000000789",
+      "r_type": ""
+    },
+    {
+      "p_code": 195233,
+      "p_name": "AMD Ryzen 7 5700X 3.4Ghz Up To 4.6Ghz Cache 32MB 65W AM4 [Tray] - 8 Core - 100-000000926",
+      "p_prcz": [
+        2679000,
+        4000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/e7ca23f4399849f99ddba8c44eb6ae67~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5700X-34Ghz-Up-To-46Ghz-Cache-32MB-65W-AM4-Tray-8-Core-100-000000926",
+      "r_type": ""
+    },
+    {
+      "p_code": 195272,
+      "p_name": "Intel Core i7-10700F 2.9Ghz Up To 4.8Ghz - Cache 16MB [Tray] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        3050000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-10700F-29Ghz-Up-To-48Ghz-Cache-16MB-Tray-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 195463,
+      "p_name": "AMD Ryzen 7 8700F 4.1Ghz Up To 5.0Ghz Cache 16MB 65W AM5 [Tray] - 8 Core - NEW UNIT - 1 Years Warranty Replacement (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led)",
+      "p_prcz": [
+        2450000,
+        101000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/51effdf0f81f49dc8f8b362e66d8c0b4~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-8700F-41Ghz-Up-To-50Ghz-Cache-16MB-65W-AM5-Tray-8-Core-NEW-UNIT-1-Years-Warranty-Replacement-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led",
+      "r_type": ""
+    },
+    {
+      "p_code": 195464,
+      "p_name": "AMD Ryzen 5 8400F 4.2Ghz Up To 4.7Ghz Cache 16MB 65W AM5 [Tray] - 6 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        2015000,
+        540000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/eb8ab05f3af846bfb6aceb9fa00ed131~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-8400F-42Ghz-Up-To-47Ghz-Cache-16MB-65W-AM5-Tray-6-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 195905,
+      "p_name": "Intel Core Ultra 5 225F 3.3GHz Up To 4.9GHz - Cache 20MB [Tray] Socket LGA 1851 - Arrow Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        2890000,
+        -590000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/0729e203d152453ab9cd502b1abe7d95~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-5-225F-33GHz-Up-To-49GHz-Cache-20MB-Tray-Socket-LGA-1851-Arrow-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 195906,
+      "p_name": "Intel Core i5-14400F 2.5GHz Up To 4.7GHz - Cache 20MB [Tray] Socket LGA 1700 - Raptor Lake Refresh Series - NEW UNIT - 1 Years Warranty (Free!!! CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led)",
+      "p_prcz": [
+        2679000,
+        64000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/5c762b4e674247a8b843173100c6a100~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=my&from=1826719393"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14400F-25GHz-Up-To-47GHz-Cache-20MB-Tray-Socket-LGA-1700-Raptor-Lake-Refresh-Series-NEW-UNIT-1-Years-Warranty-Free-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led",
+      "r_type": ""
+    },
+    {
+      "p_code": 195954,
+      "p_name": "AMD Ryzen 7 9800X3D 4.7GHz Up To 5.2GHz Cache 96MB 120W AM5 [Tray] - 8 Core - 100-000001084",
+      "p_prcz": [
+        8069000,
+        350000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/a13bab79e1aa4663be474b79cd16421c~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9800X3D-47GHz-Up-To-52GHz-Cache-96MB-120W-AM5-Tray-8-Core-100-000001084",
+      "r_type": ""
+    },
+    {
+      "p_code": 195989,
+      "p_name": "AMD Ryzen 7 5700G 3.8Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Tray] - 8 Core - 100-100000263MPK - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        3619000,
+        -11000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/8ea7ec34af8f4b62bc768dfddea00216~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5700G-38Ghz-Up-To-46Ghz-Cache-16MB-65W-AM4-Tray-8-Core-100-100000263MPK-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 196033,
+      "p_name": "Intel Core i7-9700F 3.0Ghz Up To 4.7Ghz - Cache 12MB [Tray] Socket LGA 1151 - Coffeelake Series",
+      "p_prcz": [
+        1965000,
+        110000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-9700F-30Ghz-Up-To-47Ghz-Cache-12MB-Tray-Socket-LGA-1151-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 196141,
+      "p_name": "AMD EPYC 4124P 3.8GHz Up To 5.1GHz Cache 16MB 65W AM5 [Box] - 4 Core - 100-100001570WOF",
+      "p_prcz": [
+        3715000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-EPYC-4124P-38GHz-Up-To-51GHz-Cache-16MB-65W-AM5-Box-4-Core-100-100001570WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 196147,
+      "p_name": "Intel Core i7-11700 2.5Ghz Up To 4.9Ghz - Cache 16MB [Tray] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        3575000,
+        60000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-11700-25Ghz-Up-To-49Ghz-Cache-16MB-Tray-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 196241,
+      "p_name": "AMD Ryzen 5 5600GT 3.6Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - 100-000001488",
+      "p_prcz": [
+        2310000,
+        155000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/8c2816ffe42c4a758ee7862f8e3c83f6~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600GT-36Ghz-Up-To-46Ghz-Cache-16MB-65W-AM4-Tray-6-Core-100-000001488",
+      "r_type": ""
+    },
+    {
+      "p_code": 196511,
+      "p_name": "Intel Core i5-9400F 2.9Ghz Up To 4.1Ghz - Cache 9MB [Tray] Socket LGA 1151V2 - Coffeelake Series",
+      "p_prcz": [
+        1020000,
+        100000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/b1290f91f0ee47b3bbe7ea6412038941~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=maliva&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-9400F-29Ghz-Up-To-41Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 196726,
+      "p_name": "AMD Ryzen 9 9950X3D 4.3GHz Up To 5.7GHz Cache 128MB 170W AM5 [Tray] - 16 Core - 100-000000719",
+      "p_prcz": [
+        12070000,
+        -109000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/b8b50f951d844b5a93b3dc1e62c6c444~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=my2&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9950X3D-43GHz-Up-To-57GHz-Cache-128MB-170W-AM5-Tray-16-Core-100-000000719",
+      "r_type": ""
+    },
+    {
+      "p_code": 196727,
+      "p_name": "AMD Ryzen 3 3200G 3.6Ghz Up To 4.0Ghz Cache 4MB 65W AM4 [Tray] - 4 Core - YD3200C5FHMPK - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        919000,
+        19000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/b7b945d710ea42d99234f7372583fc31~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=my&from=1826719393"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-3-3200G-36Ghz-Up-To-40Ghz-Cache-4MB-65W-AM4-Tray-4-Core-YD3200C5FHMPK-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 196777,
+      "p_name": "AMD Ryzen 5 5500GT 3.6Ghz Up To 4.4Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - 100-100001489MPK - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        2135000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/98fc032ef7cc4bf9aefbd04904d34ed0~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5500GT-36Ghz-Up-To-44Ghz-Cache-16MB-65W-AM4-Tray-6-Core-100-100001489MPK-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 196823,
+      "p_name": "AMD Ryzen 5 5600XT 3.7Ghz Up To 4.7Ghz Cache 32MB 65W AM4 [Box] - 6 Core - 100-100001585BOX - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        2339000,
+        220000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/a235263120b744f882556ca3e767c690~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=my2&from=1826719393"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600XT-37Ghz-Up-To-47Ghz-Cache-32MB-65W-AM4-Box-6-Core-100-100001585BOX-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 197103,
+      "p_name": "AMD Ryzen Threadripper PRO 9995WX 2.5GHz Up To 5.4GHz Cache 384MB 350W sTR5 [BOX] - 96 Core - 100-100001361WOF",
+      "p_prcz": [
+        219990000,
+        7800000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-9995WX-25GHz-Up-To-54GHz-Cache-384MB-350W-sTR5-BOX-96-Core-100-100001361WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197105,
+      "p_name": "AMD Ryzen Threadripper PRO 9985WX 3.2GHz Up To 5.4GHz Cache 256MB 350W sTR5 [BOX] - 64 Core - 100-100000722WOF",
+      "p_prcz": [
+        149590000,
+        -6313000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/68f6294555bc40d29c14400879609033~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-9985WX-32GHz-Up-To-54GHz-Cache-256MB-350W-sTR5-BOX-64-Core-100-100000722WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197107,
+      "p_name": "AMD Ryzen Threadripper PRO 9975WX 4GHz Up To 5.4GHz Cache 128MB 350W sTR5 [BOX] - 32 Core - 100-100000723WOF",
+      "p_prcz": [
+        76290000,
+        3000000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/5de531f9871f48b0b9ad39cb2c96e7fc~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-9975WX-4GHz-Up-To-54GHz-Cache-128MB-350W-sTR5-BOX-32-Core-100-100000723WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197109,
+      "p_name": "AMD Ryzen Threadripper PRO 9965WX 4.2GHz Up To 5.4GHz Cache 128MB 350W sTR5 [BOX] - 24 Core - 100-100000724WOF",
+      "p_prcz": [
+        54290000,
+        2200000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/cf380007a1ff4510b099cb86a39a16bc~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-9965WX-42GHz-Up-To-54GHz-Cache-128MB-350W-sTR5-BOX-24-Core-100-100000724WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197110,
+      "p_name": "AMD Ryzen Threadripper PRO 9955WX 4.5GHz Up To 5.4GHz Cache 64MB 350W sTR5 [BOX] - 16 Core - 100-100000725WOF",
+      "p_prcz": [
+        30590000,
+        1500000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-PRO-9955WX-45GHz-Up-To-54GHz-Cache-64MB-350W-sTR5-BOX-16-Core-100-100000725WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197112,
+      "p_name": "AMD Ryzen Threadripper 9980X 3.2GHz Up to 5.4 GHz Cache 256MB 350W sTR5 [BOX] - 64 Core - 100-100001593WOF",
+      "p_prcz": [
+        92990000,
+        1500000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-9980X-32GHz-Up-to-54-GHz-Cache-256MB-350W-sTR5-BOX-64-Core-100-100001593WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197114,
+      "p_name": "AMD Ryzen Threadripper 9970X 4GHz Up To 5.4GHz Cache 128MB 350W sTR5 [BOX] - 32 Core - 100-100001594WOF",
+      "p_prcz": [
+        46690000,
+        -1500000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-9970X-4GHz-Up-To-54GHz-Cache-128MB-350W-sTR5-BOX-32-Core-100-100001594WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197118,
+      "p_name": "AMD Ryzen Threadripper 9960X 4.2GHz Up To 5.4GHz Cache 128MB 350W sTR5 [BOX] - 24 Core - 100-100001595WOF",
+      "p_prcz": [
+        27490000,
+        1000000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/415f5725a794427e98c64aa94195c11b~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-Threadripper-9960X-42GHz-Up-To-54GHz-Cache-128MB-350W-sTR5-BOX-24-Core-100-100001595WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 197207,
+      "p_name": "Intel Core i3-13100F 3.4GHz Up To 4.5GHz - Cache 12MB [Tray] Socket LGA 1700 - Raptor Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        830000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/cc6f0d93c9d2426a9d57929d1a0d3b8c~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-13100F-34GHz-Up-To-45GHz-Cache-12MB-Tray-Socket-LGA-1700-Raptor-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 197405,
+      "p_name": "AMD Ryzen 7 9800X3D 4.7GHz Up To 5.2GHz Cache 96MB 120W AM5 [Tray] - 8 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        7595000,
+        95000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/59152a0656294f8d8775d54a2aedd593~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9800X3D-47GHz-Up-To-52GHz-Cache-96MB-120W-AM5-Tray-8-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 197406,
+      "p_name": "AMD Ryzen 7 7800X3D 4.2GHz Up To 5.0GHz Cache 96MB 120W AM5 [Tray] - 8 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        5139000,
+        104000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/8ad7c34511034e68b7b44eb43c027128~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-7800X3D-42GHz-Up-To-50GHz-Cache-96MB-120W-AM5-Tray-8-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 197407,
+      "p_name": "AMD Ryzen 5 9600X 3.9Ghz Up To 5.4Ghz Cache 32MB 65W AM5 [Tray] - 6 Core - NEW UNIT (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led) - 1 Years Warranty Replacement",
+      "p_prcz": [
+        3285000,
+        85000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/f4c5ec73a52b4538825c9ef3f91d219a~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-9600X-39Ghz-Up-To-54Ghz-Cache-32MB-65W-AM5-Tray-6-Core-NEW-UNIT-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 197647,
+      "p_name": "Intel Core i5-11400F 2.6Ghz Up To 4.4Ghz - Cache 12MB [Tray] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        1360000,
+        150000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-11400F-26Ghz-Up-To-44Ghz-Cache-12MB-Tray-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 197679,
+      "p_name": "AMD Ryzen 5 5600GT 3.6Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - 100-100001488MPK - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        2410000,
+        160000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/a471689c2326492fa405d503c9be4ea1~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5600GT-36Ghz-Up-To-46Ghz-Cache-16MB-65W-AM4-Tray-6-Core-100-100001488MPK-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 197873,
+      "p_name": "Intel Core i3-13100 3.4GHz Up To 4.5GHz - Cache 12MB [Tray] Socket LGA 1700 - Raptor Lake Series",
+      "p_prcz": [
+        1915000,
+        46000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i3-13100-34GHz-Up-To-45GHz-Cache-12MB-Tray-Socket-LGA-1700-Raptor-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 197944,
+      "p_name": "AMD Ryzen 5 8400F 4.2Ghz Up To 4.7Ghz Cache 16MB 65W AM5 [Tray] - 6 Core - 100-000001591",
+      "p_prcz": [
+        1955000,
+        96000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/4e909ee1c00147439a4cbbd0ae0ec464~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-8400F-42Ghz-Up-To-47Ghz-Cache-16MB-65W-AM5-Tray-6-Core-100-000001591",
+      "r_type": ""
+    },
+    {
+      "p_code": 197957,
+      "p_name": "AMD Ryzen 7 5700G 3.8Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Tray] - 8 Core - 100-000000263",
+      "p_prcz": [
+        3350000,
+        260000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/318953c36abd4f049341f64d733f9b69~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-5700G-38Ghz-Up-To-46Ghz-Cache-16MB-65W-AM4-Tray-8-Core-100-000000263",
+      "r_type": ""
+    },
+    {
+      "p_code": 198001,
+      "p_name": "Intel Core i7-12700 2.1GHz Up To 4.9GHz - Cache 25MB [Tray] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        4860000,
+        210000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i7-12700-21GHz-Up-To-49GHz-Cache-25MB-Tray-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 198196,
+      "p_name": "AMD Ryzen 9 9900X 4.4Ghz Up To 5.6Ghz Cache 64MB 120W AM5 [Tray] - 12 Core - NEW UNIT - 1 Years Warranty Replacement",
+      "p_prcz": [
+        6899000,
+        200000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/3c772c541b4c47088fa51eae7726adb5~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9900X-44Ghz-Up-To-56Ghz-Cache-64MB-120W-AM5-Tray-12-Core-NEW-UNIT-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 198434,
+      "p_name": "Intel Core i5-12400F 2.5GHz Up To 4.4GHz - Cache 18MB [Tray] Socket LGA 1700 - Alder Lake Series",
+      "p_prcz": [
+        2120000,
+        30000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400F-25GHz-Up-To-44GHz-Cache-18MB-Tray-Socket-LGA-1700-Alder-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 198596,
+      "p_name": "Intel Core i5-9600K 3.7Ghz Up To 4.6Ghz - Cache 9MB [Tray] Socket LGA 1151V2- Coffeelake Series",
+      "p_prcz": [
+        1260000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-9600K-37Ghz-Up-To-46Ghz-Cache-9MB-Tray-Socket-LGA-1151V2-Coffeelake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 198672,
+      "p_name": "AMD Ryzen 5 9600 3.8GHz Up To 5.2GHz Cache 32MB 65W AM5 [Box] - 6 Core - 100-100000718BOX - with Wraith Stealth Cooler",
+      "p_prcz": [
+        4090000,
+        240000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/e3a380a1dd2a4fce80cb6e5004d62612~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-9600-38GHz-Up-To-52GHz-Cache-32MB-65W-AM5-Box-6-Core-100-100000718BOX-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 198673,
+      "p_name": "AMD Ryzen 5 7400 3.3GHz Up To 4.3GHz Cache 16MB 65W AM5 [Tray] - 6 Core - 100-000001900",
+      "p_prcz": [
+        2449000,
+        -1000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/122aaadf2ff64f358579959ae87a38f4~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7400-33GHz-Up-To-43GHz-Cache-16MB-65W-AM5-Tray-6-Core-100-000001900",
+      "r_type": ""
+    },
+    {
+      "p_code": 198674,
+      "p_name": "AMD Ryzen 9 9900X 4.4Ghz Up To 5.6Ghz Cache 64MB 120W AM5 [Tray] - 12 Core - 100-000000662",
+      "p_prcz": [
+        7089000,
+        10000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/446fc7dfe4e84a188ed464f50edc062f~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-9-9900X-44Ghz-Up-To-56Ghz-Cache-64MB-120W-AM5-Tray-12-Core-100-000000662",
+      "r_type": ""
+    },
+    {
+      "p_code": 198814,
+      "p_name": "AMD Ryzen 5 5500 3.6Ghz Up To 4.2Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - 100-100000457MPK - with Wraith Stealth Cooler",
+      "p_prcz": [
+        1510000,
+        140000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/a6264132a42f48f199c4b07d540eb9fa~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-5500-36Ghz-Up-To-42Ghz-Cache-16MB-65W-AM4-Tray-6-Core-100-100000457MPK-with-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 199042,
+      "p_name": "AMD Ryzen 5 3500X 3.6Ghz Up To 4.1Ghz Cache 32MB 65W AM4 [Tray] - 6 Core - NEW UNIT (with CUBE GAMING WIND V2 - 2 Copper Heat Pipes - Mirror RGB TOP Cover - Gaming CPU Cooler Rainbow Led) - 1 Years Warranty Replacement",
+      "p_prcz": [
+        990000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/894f7719e1aa4e09a82ba7da280d1da9~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-3500X-36Ghz-Up-To-41Ghz-Cache-32MB-65W-AM4-Tray-6-Core-NEW-UNIT-with-CUBE-GAMING-WIND-V2-2-Copper-Heat-Pipes-Mirror-RGB-TOP-Cover-Gaming-CPU-Cooler-Rainbow-Led-1-Years-Warranty-Replacement",
+      "r_type": ""
+    },
+    {
+      "p_code": 199043,
+      "p_name": "Intel Core Ultra 7 265KF 3.3GHz Up To 5.5GHz - Cache 30MB [Tray] Socket LGA 1851 - Arrow Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        4599000,
+        49000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/fdd2d160a55747f9a9ac3a78265df941~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-7-265KF-33GHz-Up-To-55GHz-Cache-30MB-Tray-Socket-LGA-1851-Arrow-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 199044,
+      "p_name": "Intel Core Ultra 7 265K 3.3GHz Up To 5.5GHz - Cache 30MB [Tray] Socket LGA 1851 - Arrow Lake Series - NEW UNIT - 1 Years Warranty",
+      "p_prcz": [
+        4700000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/4b395d46ed554592be80cee9813abcb2~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-Ultra-7-265K-33GHz-Up-To-55GHz-Cache-30MB-Tray-Socket-LGA-1851-Arrow-Lake-Series-NEW-UNIT-1-Years-Warranty",
+      "r_type": ""
+    },
+    {
+      "p_code": 199178,
+      "p_name": "AMD Ryzen 5 7600 3.8Ghz Up To 5.1Ghz Cache 32MB 65W AM5 [Tray] - 6 Core - 100-000001015",
+      "p_prcz": [
+        3209000,
+        -76000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/5d42e582439e4ce1a2b55adc8b71b541~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7600-38Ghz-Up-To-51Ghz-Cache-32MB-65W-AM5-Tray-6-Core-100-000001015",
+      "r_type": ""
+    },
+    {
+      "p_code": 199194,
+      "p_name": "AMD Athlon 3000G (Radeon Vega 3) 3.5Ghz Cache 4MB 35W Socket AM4 [BOX] - 2 Core - YD3000C6FHSBX",
+      "p_prcz": [
+        749000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/abe934caed064f2d800e668df4a20e8a~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Athlon-3000G-Radeon-Vega-3-35Ghz-Cache-4MB-35W-Socket-AM4-BOX-2-Core-YD3000C6FHSBX",
+      "r_type": ""
+    },
+    {
+      "p_code": 199252,
+      "p_name": "Intel Core i9-10900F 2.8Ghz Up To 5.2Ghz - Cache 20MB [Tray] Socket LGA 1200 - Comet Lake Series",
+      "p_prcz": [
+        3310000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-10900F-28Ghz-Up-To-52Ghz-Cache-20MB-Tray-Socket-LGA-1200-Comet-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 199478,
+      "p_name": "AMD Ryzen 7 7700 3.8GHz Up To 5.3GHz Cache 32MB 65W AM5 [Tray] - 8 Core - 100-000000592",
+      "p_prcz": [
+        3705000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/6ec45da77f554b5e9bacec7c94961a98~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-7700-38GHz-Up-To-53GHz-Cache-32MB-65W-AM5-Tray-8-Core-100-000000592",
+      "r_type": ""
+    },
+    {
+      "p_code": 199573,
+      "p_name": "Intel Core i5-12400F 2.5GHz Up To 4.4GHz - Cache 18MB [Tray] Socket LGA 1700 - Alder Lake Series - Garansi 3Thn",
+      "p_prcz": [
+        2385000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/093437f97ca24cfdac83030695f7a0a7~tplv-aphluv4xwc-resize-webp:800:800.webp?dr=15584&t=555f072d&ps=933b5bde&shp=6ce186a1&shcp=e1be8f53&idc=my&from=1826719393"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-12400F-25GHz-Up-To-44GHz-Cache-18MB-Tray-Socket-LGA-1700-Alder-Lake-Series-Garansi-3Thn",
+      "r_type": ""
+    },
+    {
+      "p_code": 199814,
+      "p_name": "Intel Core i5-14400F 2.5GHz Up To 4.7GHz - Cache 20MB [Tray] Socket LGA 1700 - Raptor Lake Refresh Series",
+      "p_prcz": [
+        2999000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/b90c5a3c04b24f508205e37c6448c887~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i5-14400F-25GHz-Up-To-47GHz-Cache-20MB-Tray-Socket-LGA-1700-Raptor-Lake-Refresh-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 199917,
+      "p_name": "AMD Ryzen 5 3400G 3.7GHz Up To 4.2GHz Cache 4MB 65W AM4 [Tray] - 4 Core - YD3400C5FHSPK - with AMD Wraith Stealth Cooler",
+      "p_prcz": [
+        1265000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/311fd4e61b9e4e09beb090de023660fa~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-3400G-37GHz-Up-To-42GHz-Cache-4MB-65W-AM4-Tray-4-Core-YD3400C5FHSPK-with-AMD-Wraith-Stealth-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 199918,
+      "p_name": "AMD Ryzen 5 3400G 3.7Ghz Up To 4.2Ghz Cache 4MB 65W AM4 [Box] - 4 Core - YD3400C5FHSBX - with AMD Wraith Spire Cooler",
+      "p_prcz": [
+        1299000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/6ca7c6061ae44e5bae709aff3fedc220~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-3400G-37Ghz-Up-To-42Ghz-Cache-4MB-65W-AM4-Box-4-Core-YD3400C5FHSBX-with-AMD-Wraith-Spire-Cooler",
+      "r_type": ""
+    },
+    {
+      "p_code": 200102,
+      "p_name": "AMD Ryzen 7 9850X3D 4.7GHz Up To 5.6GHz Cache 96MB 120W AM5 [Box] - 8 Core - 100-100001973WOF",
+      "p_prcz": [
+        9835000,
+        -130000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/10f18f425e554705b89e39700033f0d9~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9850X3D-47GHz-Up-To-56GHz-Cache-96MB-120W-AM5-Box-8-Core-100-100001973WOF",
+      "r_type": ""
+    },
+    {
+      "p_code": 200103,
+      "p_name": "AMD Ryzen 7 9850X3D 4.7GHz Up To 5.6GHz Cache 96MB 120W AM5 [Tray] - 8 Core - 100-000001973",
+      "p_prcz": [
+        9350000,
+        -30000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/e9b591f63f314bd9b9fc5416a909b334~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-7-9850X3D-47GHz-Up-To-56GHz-Cache-96MB-120W-AM5-Tray-8-Core-100-000001973",
+      "r_type": ""
+    },
+    {
+      "p_code": 200112,
+      "p_name": "Intel Core i9-11900F 2.5Ghz Up To 5.2Ghz - Cache 16MB [Tray] Socket LGA 1200 - Rocket Lake Series",
+      "p_prcz": [
+        3730000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Intel-Core-i9-11900F-25Ghz-Up-To-52Ghz-Cache-16MB-Tray-Socket-LGA-1200-Rocket-Lake-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200122,
+      "p_name": "AMD Ryzen 5 9500F 3.8GHz Up To 5.0GHz Cache 32MB 65W AM5 [Tray] - 6 Core - 100-000001406",
+      "p_prcz": [
+        3735000,
+        0
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/517615e7b00f48dcac3f16bcbb06a311~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-9500F-38GHz-Up-To-50GHz-Cache-32MB-65W-AM5-Tray-6-Core-100-000001406",
+      "r_type": ""
+    },
+    {
+      "p_code": 200281,
+      "p_name": "AMD Ryzen 5 7500X3D 4.0GHz Up To 4.5GHz Cache 96MB 65W AM5 [Tray] - 6 Core - 100-000001904",
+      "p_prcz": [
+        4335000,
+        -24000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/82c73d8a0bc74c718ae3849efeb4cda4~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "AMD-Ryzen-5-7500X3D-40GHz-Up-To-45GHz-Cache-96MB-65W-AM5-Tray-6-Core-100-000001904",
+      "r_type": ""
+    }
+  ]
+}

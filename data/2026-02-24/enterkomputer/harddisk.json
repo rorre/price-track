@@ -1,0 +1,1807 @@
+{
+  "status": true,
+  "rc": "0000",
+  "current_page": 0,
+  "description": "Success",
+  "total_records": 120,
+  "result": [
+    {
+      "p_code": 138763,
+      "p_name": "WDC 500GB SATA2 - Used & Garansi 1 Th",
+      "p_prcz": [
+        195000,
+        35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/5/13/9651507/9651507_249eea65-465d-4a1a-8405-ed89608cd13a_1667_1667"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-500GB-SATA2-Used-Garansi-1-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 138767,
+      "p_name": "WDC 1TB SATA3 64MB - Blue - WD10EZEX - Garansi 2 Th",
+      "p_prcz": [
+        1570000,
+        150000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/25/934df2b5-2d9e-4543-bcec-951553b8d89f.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 1,
+      "p_link": "WDC-1TB-SATA3-64MB-Blue-WD10EZEX-Garansi-2-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 138769,
+      "p_name": "WDC Purple 1TB For CCTV 24 Hours - WD10PURZ - Garansi 3 Th",
+      "p_prcz": [
+        1510000,
+        -70000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/b0d52f8a-6694-4096-a027-7b6bad2f4741.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-1TB-For-CCTV-24-Hours-WD10PURZ-Garansi-3-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 138773,
+      "p_name": "WDC 2TB SATA3 64MB - Black - WD2003FZEX - Garansi 5 Th",
+      "p_prcz": [
+        2435000,
+        95000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/7/13/9651507/9651507_5fd7d835-a6a5-427a-8dca-421ec0c65a1c_800_800"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-2TB-SATA3-64MB-Black-WD2003FZEX-Garansi-5-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 138799,
+      "p_name": "Seagate 320GB SATA2 - Used & Garansi 1 Tahun",
+      "p_prcz": [
+        80000,
+        -40000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2019/11/7/1157156/1157156_5b4e6417-d43c-40c4-b254-9211f331e2e0.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-320GB-SATA2-Used-Garansi-1-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 138801,
+      "p_name": "Seagate 1TB SATA3 - BarraCuda Series",
+      "p_prcz": [
+        1620000,
+        155000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/3447c3df-4b3b-44a0-b27b-2a0e6a8cf16c.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-1TB-SATA3-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138803,
+      "p_name": "Seagate Surveillance For CCTV 1TB - SkyHawk Series",
+      "p_prcz": [
+        1370000,
+        195000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/8bb89c50-f327-4a00-ab4b-11e70519ab62.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-For-CCTV-1TB-SkyHawk-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138809,
+      "p_name": "Seagate Enterprise 2TB - Exos Series",
+      "p_prcz": [
+        2590000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/22/9651507/9651507_86fc7487-60d0-4465-b562-84a006aa97fc_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-2TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138811,
+      "p_name": "Seagate Surveillance 2TB - SkyHawk Series",
+      "p_prcz": [
+        1690000,
+        15000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/162fc8cc-d854-43fd-84f4-941b598472b8.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-2TB-SkyHawk-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138812,
+      "p_name": "Seagate 2TB For NAS - IronWolf Series",
+      "p_prcz": [
+        1730000,
+        35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/7bdfe53e-f9e3-42e4-9805-1a0bd595fbaf.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-2TB-For-NAS-IronWolf-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138819,
+      "p_name": "Seagate 4TB SATA3 - 5400 RPM - BarraCuda Series",
+      "p_prcz": [
+        1890000,
+        -35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/9e091eb5-683e-4d51-bb68-c787cdf6934f.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-4TB-SATA3-5400-RPM-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138821,
+      "p_name": "Seagate Surveillance 4TB - SkyHawk Series",
+      "p_prcz": [
+        3090000,
+        1100000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/92eba854-3d5c-494f-a38b-52a498a99f73.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-4TB-SkyHawk-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138823,
+      "p_name": "Seagate 4TB For NAS - IronWolf Series",
+      "p_prcz": [
+        2190000,
+        -25000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_6efcaf27-22ea-4311-828c-a1c2a40d22bc_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-4TB-For-NAS-IronWolf-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138824,
+      "p_name": "Seagate Enterprise 4TB - Exos Series",
+      "p_prcz": [
+        3310000,
+        -35000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/7/22/9651507/9651507_5d64c9ff-a030-4191-9c41-7d4cf7942277_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-4TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138825,
+      "p_name": "Seagate Surveillance 6TB - SkyHawk Series",
+      "p_prcz": [
+        2990000,
+        25000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/5ee68ae5-d92b-48d0-bfe4-073281b72775.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-6TB-SkyHawk-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138826,
+      "p_name": "Seagate 6TB For NAS - IronWolf Series",
+      "p_prcz": [
+        3250000,
+        -30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/15/9651507/9651507_93713af8-fb24-4b18-890d-3ee933be55c5_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-6TB-For-NAS-IronWolf-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 138827,
+      "p_name": "Seagate Enterprise 6TB - Exos Series",
+      "p_prcz": [
+        4370000,
+        -110000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/13/d582329b-cd2b-4a14-a07e-6fd3d7b425ea.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-6TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 153446,
+      "p_name": "Seagate 8TB For NAS - IronWolf Series",
+      "p_prcz": [
+        4150000,
+        -100000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/12/23/c3c02d69-c3ce-43fa-990a-67ec4fc791ff.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-8TB-For-NAS-IronWolf-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 156612,
+      "p_name": "Seagate 10TB For NAS - IronWolf Series",
+      "p_prcz": [
+        5080000,
+        -30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_b6dd4ea9-bf36-4097-b0d5-c2bd77b9bd66_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-10TB-For-NAS-IronWolf-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157909,
+      "p_name": "Seagate Surveillance 8TB - SkyHawk AI Series",
+      "p_prcz": [
+        4920000,
+        770000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/5/19/78fb9f22-ec71-4f29-8f86-fec6357423ed.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-8TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157910,
+      "p_name": "Seagate Surveillance 10TB - SkyHawk AI Series",
+      "p_prcz": [
+        5370000,
+        -105000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/30/de71115a-8014-40c6-8e33-70affbcbb584.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-10TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157911,
+      "p_name": "Seagate 12TB For NAS - IronWolf Series",
+      "p_prcz": [
+        5690000,
+        -140000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/28/fc6fbb10-951f-476a-b095-59e767bf64da.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-12TB-For-NAS-IronWolf-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157913,
+      "p_name": "Seagate 4TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        2990000,
+        -30000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/6/7/ee434717-364a-4217-b67f-fc862146ae67.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-4TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157914,
+      "p_name": "Seagate 6TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        4270000,
+        -100000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/1/23/3f732e7d-d8c5-4f2b-9ad2-bda8848e7d5b.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-6TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157915,
+      "p_name": "Seagate 8TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        4820000,
+        -70000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_d549ab9e-efbc-4ce1-b984-83d46eb214a1_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-8TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157916,
+      "p_name": "Seagate 10TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        5850000,
+        -85000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/4/8/f2d3d5a2-8643-482b-b67b-ea1ee9b5fcd9.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-10TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 157917,
+      "p_name": "Seagate 12TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        7050000,
+        130000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-12TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 158881,
+      "p_name": "Seagate 8TB SATA3 - BarraCuda Series",
+      "p_prcz": [
+        3530000,
+        -60000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/9a5c49a7-6257-496f-9a4a-b65c8a1926ee.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-8TB-SATA3-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 159476,
+      "p_name": "WD Ultrastar DC HC310 4TB SATA 7200RPM 256MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        3515000,
+        320000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/1/8c3f82ae-1619-4b58-aaed-3790d396d40d.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC310-4TB-SATA-7200RPM-256MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 159477,
+      "p_name": "WD Ultrastar DC HC320 8TB SATA 7200RPM 256MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        5270000,
+        160000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/4/009168d4-6957-46e7-b499-2e3c0a35e3b0.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC320-8TB-SATA-7200RPM-256MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 159478,
+      "p_name": "WD Ultrastar DC HC520 12TB SATA 7200RPM 256MB ISE - Garansi 5 Tahun",
+      "p_prcz": [
+        7815000,
+        995000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_92777018-f961-4807-bed6-cd064726719b_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC520-12TB-SATA-7200RPM-256MB-ISE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 161046,
+      "p_name": "Toshiba 6TB SATA3 7200RPM - X300 Series",
+      "p_prcz": [
+        3730000,
+        1030000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/10/5/9651507/9651507_b8c3d6b1-59ec-4509-b217-73b4b0f7a98d_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-6TB-SATA3-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 162178,
+      "p_name": "Seagate Enterprise 10TB - Exos Series",
+      "p_prcz": [
+        6090000,
+        -165000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_48d6e0fa-22f1-48e6-9c14-fa67e209a782_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-10TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 162957,
+      "p_name": "Toshiba 4TB SATA3 5400RPM For CCTV - S300 Series",
+      "p_prcz": [
+        1425000,
+        -15000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/9/28/35cb57f8-4c59-4464-908d-283793054d3f.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-4TB-SATA3-5400RPM-For-CCTV-S300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 165415,
+      "p_name": "Seagate 500GB SATA2 - Used & Garansi 1 Th",
+      "p_prcz": [
+        210000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/8/4/9651507/9651507_18382c18-9e0d-4061-b122-41defeb6e3ce_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-500GB-SATA2-Used-Garansi-1-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 165568,
+      "p_name": "WD Ultrastar DC HC310 6TB SATA 7200RPM 256MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        4370000,
+        110000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC310-6TB-SATA-7200RPM-256MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 166329,
+      "p_name": "Toshiba 6TB SATA3 5400RPM For CCTV - S300 Series",
+      "p_prcz": [
+        2240000,
+        -70000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-6TB-SATA3-5400RPM-For-CCTV-S300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 167321,
+      "p_name": "Seagate Enterprise 8TB - Exos Series",
+      "p_prcz": [
+        5090000,
+        -120000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-8TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 167796,
+      "p_name": "Seagate Surveillance 12TB - SkyHawk AI Series",
+      "p_prcz": [
+        6290000,
+        -80000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/28/6665d3b6-e45f-4210-aa6e-9fb4e3f69464.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-12TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 167798,
+      "p_name": "Seagate Surveillance 16TB - SkyHawk AI Series",
+      "p_prcz": [
+        8690000,
+        -45000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/11/6/1ad8277e-a946-4b97-b8ab-5958a301eb65.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-16TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 167800,
+      "p_name": "Seagate 16TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        8950000,
+        -105000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-16TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 167804,
+      "p_name": "Seagate Enterprise 12TB - Exos Series",
+      "p_prcz": [
+        7430000,
+        -185000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-12TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 167806,
+      "p_name": "Seagate Enterprise 16TB - Exos Series",
+      "p_prcz": [
+        10413000,
+        -117000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/10/3/96c75855-e0f9-4f7c-921e-3be2565c1063.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-16TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 168212,
+      "p_name": "Seagate 1TB SATA3 - Used & Garansi 1 Th",
+      "p_prcz": [
+        630000,
+        10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/200/product-1/2020/10/21/9651507/9651507_d142da9b-ddb6-49fe-9573-d5a74acb9d10_700_700"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-1TB-SATA3-Used-Garansi-1-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 168941,
+      "p_name": "Toshiba 4TB SATA3 128MB 5400RPM - P300 Series",
+      "p_prcz": [
+        1640000,
+        251000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2020/11/26/606c302a-d090-4c9f-9872-0d4d9c7f0fe1.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-4TB-SATA3-128MB-5400RPM-P300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170141,
+      "p_name": "Toshiba 2TB SATA3 5400RPM For CCTV - S300 Series",
+      "p_prcz": [
+        890000,
+        -50000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/6/8cec7326-fe23-4ff1-858d-cf52368df1b4.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-2TB-SATA3-5400RPM-For-CCTV-S300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 170142,
+      "p_name": "Toshiba 4TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        3295000,
+        1175000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/2/5/a556df67-e266-4836-825d-42b3cca64509.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-4TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 171248,
+      "p_name": "WDC 2TB SATA3 256MB - 7200RPM - Blue - WD20EZBX - Garansi 2 Th",
+      "p_prcz": [
+        1680000,
+        90000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/fc27de09-f098-4864-bd88-e8c265cd2dca.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-2TB-SATA3-256MB-7200RPM-Blue-WD20EZBX-Garansi-2-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 171299,
+      "p_name": "WDC 10TB SATA3 256MB - Red Plus - WD101EFBX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        4550000,
+        -40000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/23/11cf380c-291b-4653-b8e7-65734292ebda.png"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-10TB-SATA3-256MB-Red-Plus-WD101EFBX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 171335,
+      "p_name": "Seagate 6TB SATA3 - BarraCuda Series",
+      "p_prcz": [
+        2650000,
+        -10000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/10/30/554daf6e-9f5b-4b76-abc8-8610c582ccc7.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-6TB-SATA3-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 171675,
+      "p_name": "WDC 12TB SATA3 256MB - Red Plus - WD120EFBX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        5770000,
+        40000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-12TB-SATA3-256MB-Red-Plus-WD120EFBX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 171676,
+      "p_name": "WD Ultrastar DC HC550 16TB SATA 7200RPM 512MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        9490000,
+        760000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC550-16TB-SATA-7200RPM-512MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 171677,
+      "p_name": "WD Ultrastar DC HC550 18TB SATA 7200RPM 512MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        10530000,
+        710000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC550-18TB-SATA-7200RPM-512MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 172671,
+      "p_name": "Toshiba 10TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        5160000,
+        1115000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-10TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173516,
+      "p_name": "WDC Purple Pro Surveillance 12TB - WD121PURP - Garansi 5 Th",
+      "p_prcz": [
+        6290000,
+        40000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Pro-Surveillance-12TB-WD121PURP-Garansi-5-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 173518,
+      "p_name": "Toshiba 4TB SATA3 256MB 7200RPM - X300 Series",
+      "p_prcz": [
+        3300000,
+        1325000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2021/9/28/1b8b0697-6157-415a-aa4c-5436a1eb5e2a.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-4TB-SATA3-256MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173519,
+      "p_name": "Toshiba 1TB SATA3 5700RPM For CCTV - S300 Series",
+      "p_prcz": [
+        832000,
+        87000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-1TB-SATA3-5700RPM-For-CCTV-S300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173520,
+      "p_name": "Toshiba 6TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        3730000,
+        845000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-6TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173521,
+      "p_name": "Toshiba 8TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        4175000,
+        780000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/5/33ad24da-50d4-402f-b4a9-4fc47473f0b5.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-8TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173522,
+      "p_name": "Toshiba 12TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        5915000,
+        975000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-12TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173523,
+      "p_name": "Toshiba 14TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        6350000,
+        875000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-14TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 173524,
+      "p_name": "Toshiba 16TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        6570000,
+        170000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-16TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 177356,
+      "p_name": "Seagate Surveillance 20TB - SkyHawk AI Series",
+      "p_prcz": [
+        10490000,
+        -140000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-20TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 177360,
+      "p_name": "Seagate 20TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        10750000,
+        380000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-20TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 178268,
+      "p_name": "Seagate 2TB SATA3 256MB 7200RPM - BarraCuda Series",
+      "p_prcz": [
+        1720000,
+        150000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/6/8/a3953da4-ee7e-4797-b631-dc077bdee0ec.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-2TB-SATA3-256MB-7200RPM-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 178729,
+      "p_name": "Toshiba 2TB SATA3 256MB 7200RPM - P300 Series",
+      "p_prcz": [
+        960000,
+        11000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/8/27/3cfd6ab4-a46c-4ef0-bd10-57b9e0f7b677.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-2TB-SATA3-256MB-7200RPM-P300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 178730,
+      "p_name": "Toshiba 8TB SATA3 256MB 7200RPM - X300 Series",
+      "p_prcz": [
+        4175000,
+        800000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/9/b2867eb2-e871-4275-99d3-85b50b04bb5d.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-8TB-SATA3-256MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 178731,
+      "p_name": "Toshiba 10TB SATA3 256MB 7200RPM - X300 Series",
+      "p_prcz": [
+        5270000,
+        1280000
+      ],
+      "p_imgz": [
+        "https://ecs7.tokopedia.net/img/cache/700/VqbcmM/2022/8/5/f951d50d-6c65-4f5a-8196-5f4353379706.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-10TB-SATA3-256MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 180446,
+      "p_name": "Seagate Enterprise 20TB - Exos Series",
+      "p_prcz": [
+        12190000,
+        -405000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-20TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 180514,
+      "p_name": "WDC 4TB SATA3 256MB - Red Plus - WD40EFPX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        2230000,
+        10000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/10/61219c78-3b37-4a26-bca4-d8bd3a77b279.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-4TB-SATA3-256MB-Red-Plus-WD40EFPX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 180515,
+      "p_name": "WDC 6TB SATA3 256MB - Red Plus - WD60EFPX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        3395000,
+        -20000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/10/9f8a63bd-d42a-434f-8330-8c04b6cd275e.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-6TB-SATA3-256MB-Red-Plus-WD60EFPX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 180791,
+      "p_name": "Seagate 2TB SATA3 - Used & Garansi 1 Th",
+      "p_prcz": [
+        880000,
+        110000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-2TB-SATA3-Used-Garansi-1-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 184755,
+      "p_name": "WDC 2TB SATA3 64MB - Red Plus - WD20EFPX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        1770000,
+        45000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/9/22/0630f1de-ad0d-4764-957a-59f14922e416.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-2TB-SATA3-64MB-Red-Plus-WD20EFPX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 184756,
+      "p_name": "WDC 4TB SATA3 256MB - Blue - WD40EZAX - Garansi 2 Th",
+      "p_prcz": [
+        2065000,
+        75000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/7/5/b2c38b5d-fbef-4c68-a281-3793b140fe82.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-4TB-SATA3-256MB-Blue-WD40EZAX-Garansi-2-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 185094,
+      "p_name": "WDC Purple Surveillance 2TB - WD23PURZ - Garansi 3 Th",
+      "p_prcz": [
+        1575000,
+        10000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/31/1812093d-b3c4-495e-bcc0-e640cdce1584.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Surveillance-2TB-WD23PURZ-Garansi-3-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 185095,
+      "p_name": "WDC Purple Surveillance 6TB - WD64PURZ - Garansi 3 Th",
+      "p_prcz": [
+        3220000,
+        90000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Surveillance-6TB-WD64PURZ-Garansi-3-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 186162,
+      "p_name": "WDC Purple Surveillance 1TB - WD11PURZ - Garansi 3 Th",
+      "p_prcz": [
+        1515000,
+        5000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/31/70ca3537-cf23-4c4d-8a08-6a490274c1e1.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Surveillance-1TB-WD11PURZ-Garansi3Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 187295,
+      "p_name": "WD Ultrastar DC HC330 10TB SATA 7200RPM 256MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        6950000,
+        1060000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC330-10TB-SATA-7200RPM-256MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 187896,
+      "p_name": "WDC Purple Pro Surveillance 18TB - WD181PURP - Garansi 5 Th",
+      "p_prcz": [
+        8970000,
+        35000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Pro-Surveillance-18TB-WD181PURP-Garansi-5-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 188519,
+      "p_name": "WDC 8TB SATA3 256MB - Blue - WD80EAAZ - Garansi 2 Th",
+      "p_prcz": [
+        4090000,
+        125000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/4/20/ae0cecb5-a1a0-4f1c-8781-1fd7aa557f8e.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-8TB-SATA3-256MB-Blue-WD80EAAZ-Garansi-2-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 188757,
+      "p_name": "WDC 8TB SATA3 256MB - Red Plus - WD80EFPX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        4490000,
+        160000
+      ],
+      "p_imgz": [
+        "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/20/bd2c929b-3291-405c-b84e-bbe249475a86.jpg"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-8TB-SATA3-256MB-Red-Plus-WD80EFPX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 188868,
+      "p_name": "Seagate Enterprise 24TB - Exos Series",
+      "p_prcz": [
+        14420000,
+        -370000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Enterprise-24TB-Exos-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 188869,
+      "p_name": "Seagate Surveillance 24TB - SkyHawk AI Series",
+      "p_prcz": [
+        12450000,
+        -170000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-24TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 188946,
+      "p_name": "WDC Purple Pro Surveillance 14TB - WD142PURP - Garansi 5 Th",
+      "p_prcz": [
+        7195000,
+        5000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Pro-Surveillance-14TB-WD142PURP-Garansi-5-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 190728,
+      "p_name": "WDC 1TB SATA3 - Used & Garansi 1 Th",
+      "p_prcz": [
+        595000,
+        35000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-1TB-SATA3-Used-Garansi-1-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 191156,
+      "p_name": "WDC Purple Pro Surveillance 8TB - WD8002PURP - Garansi 5 Th",
+      "p_prcz": [
+        4700000,
+        270000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Pro-Surveillance-8TB-WD8002PURP-Garansi-5-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 191520,
+      "p_name": "Seagate 24TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        12490000,
+        -225000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-24TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 191664,
+      "p_name": "WDC 4TB SATA3 256MB - Black - WD4006FZBX - Garansi 5 Th",
+      "p_prcz": [
+        3160000,
+        20000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-4TB-SATA3-256MB-Black-WD4006FZBX-Garansi5Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 192250,
+      "p_name": "WD Ultrastar DC HC580 24TB SATA 7200RPM 512MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        15220000,
+        100000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC580-24TB-SATA-7200RPM-512MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 192251,
+      "p_name": "WD Ultrastar DC HC570 22TB SATA 7200RPM 512MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        13430000,
+        240000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC570-22TB-SATA-7200RPM-512MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 192252,
+      "p_name": "WD Ultrastar DC HC560 20TB SATA 7200RPM 512MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        11320000,
+        410000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC560-20TB-SATA-7200RPM-512MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 192253,
+      "p_name": "WD Ultrastar DC HC550 14TB SATA 7200RPM 512MB SE - Garansi 5 Tahun",
+      "p_prcz": [
+        10475000,
+        2505000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Ultrastar-DC-HC550-14TB-SATA-7200RPM-512MB-SE-Garansi-5-Tahun",
+      "r_type": ""
+    },
+    {
+      "p_code": 195380,
+      "p_name": "Seagate 16TB SATA3 - BarraCuda Series",
+      "p_prcz": [
+        6750000,
+        60000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-16TB-SATA3-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 195384,
+      "p_name": "Seagate 20TB SATA3 - BarraCuda Series",
+      "p_prcz": [
+        8370000,
+        40000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-20TB-SATA3-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 195386,
+      "p_name": "Seagate 24TB SATA3 - BarraCuda Series",
+      "p_prcz": [
+        9880000,
+        -5000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-24TB-SATA3-BarraCuda-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 196373,
+      "p_name": "WDC Purple Pro Surveillance 10TB - WD102PURP - Garansi 5 Th",
+      "p_prcz": [
+        5920000,
+        310000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-Purple-Pro-Surveillance-10TB-WD102PURP-Garansi5Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 197250,
+      "p_name": "Seagate 30TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        14320000,
+        -260000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-30TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 198201,
+      "p_name": "WDC 10TB SATA3 512MB - Red Plus - WD100EFGX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        5550000,
+        990000
+      ],
+      "p_imgz": null,
+      "p_stts": 1,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-10TB-SATA3-512MB-Red-Plus-WD100EFGX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 198923,
+      "p_name": "WDC 12TB SATA3 512MB - Red Plus - WD120EFGX - Garansi 3 Th (For NAS)",
+      "p_prcz": [
+        5790000,
+        170000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WDC-12TB-SATA3-512MB-Red-Plus-WD120EFGX-Garansi-3-Th-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 198961,
+      "p_name": "Seagate 32TB For NAS - IronWolf Pro Series",
+      "p_prcz": [
+        16550000,
+        -320000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-32TB-For-NAS-IronWolf-Pro-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 199328,
+      "p_name": "Seagate Surveillance 32TB - SkyHawk AI Series",
+      "p_prcz": [
+        15490000,
+        -300000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Seagate-Surveillance-32TB-SkyHawk-AI-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 199854,
+      "p_name": "WD Purple Surveillance 4TB SATA3 128MB - WD44PURZ - Garansi 3 Th",
+      "p_prcz": [
+        2130000,
+        75000
+      ],
+      "p_imgz": [
+        "https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/f9245f07f3534b6691428334b047a655~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&from=520841845&idc=my2&ps=933b5bde&shcp=2c1af732&shp=1f0b6a75&t=555f072d"
+      ],
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Purple-Surveillance-4TB-SATA3-128MB-WD44PURZ-Garansi-3-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 199855,
+      "p_name": "WD Blue 1TB SATA3 5400RPM 64MB - WD10EARZ - Garansi 2 Th",
+      "p_prcz": [
+        1590000,
+        120000
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "WD-Blue-1TB-SATA3-5400RPM-64MB-WD10EARZ-Garansi-2-Th",
+      "r_type": ""
+    },
+    {
+      "p_code": 200081,
+      "p_name": "Toshiba 20TB SATA3 512MB 7200RPM - X300 Series",
+      "p_prcz": [
+        9170000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-20TB-SATA3-512MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200082,
+      "p_name": "Toshiba 18TB SATA3 512MB 7200RPM - X300 Series",
+      "p_prcz": [
+        7000000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-18TB-SATA3-512MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200084,
+      "p_name": "Toshiba 14TB SATA3 512MB 7200RPM - X300 Series",
+      "p_prcz": [
+        5815000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-14TB-SATA3-512MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200085,
+      "p_name": "Toshiba 12TB SATA3 256MB 7200RPM - X300 Series",
+      "p_prcz": [
+        5595000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-12TB-SATA3-256MB-7200RPM-X300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200086,
+      "p_name": "Toshiba N300 PRO 22TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        9390000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-22TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200087,
+      "p_name": "Toshiba N300 PRO 20TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        8735000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-20TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200088,
+      "p_name": "Toshiba N300 PRO 18TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        7870000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-18TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200089,
+      "p_name": "Toshiba N300 PRO 16TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        7000000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-16TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200090,
+      "p_name": "Toshiba N300 PRO 14TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        6570000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-14TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200091,
+      "p_name": "Toshiba N300 PRO 12TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        6140000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-12TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200092,
+      "p_name": "Toshiba N300 PRO 8TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        4405000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-8TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200093,
+      "p_name": "Toshiba N300 PRO 10TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        5490000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-10TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200094,
+      "p_name": "Toshiba N300 PRO 6TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        3965000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-6TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200095,
+      "p_name": "Toshiba N300 PRO 4TB SATA3 7200RPM For NAS",
+      "p_prcz": [
+        3530000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-N300-PRO-4TB-SATA3-7200RPM-For-NAS",
+      "r_type": ""
+    },
+    {
+      "p_code": 200096,
+      "p_name": "Toshiba 22TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        8950000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-22TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200097,
+      "p_name": "Toshiba 20TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        8300000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-20TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    },
+    {
+      "p_code": 200098,
+      "p_name": "Toshiba 18TB SATA3 7200RPM For NAS - N300 Series",
+      "p_prcz": [
+        7430000,
+        0
+      ],
+      "p_imgz": null,
+      "p_stts": 0,
+      "p_dtls": "",
+      "p_best": 0,
+      "p_link": "Toshiba-18TB-SATA3-7200RPM-For-NAS-N300-Series",
+      "r_type": ""
+    }
+  ]
+}
