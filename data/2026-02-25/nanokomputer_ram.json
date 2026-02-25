@@ -1,1017 +1,702 @@
 [
     {
         "title": "ACER BL.9BWWA.436",
-        "price": "Rp 6.639.000"
+        "price": "6639000",
+        "detail": null
     },
     {
         "title": "ACER BL.9BWWA.437 | HT200 32GB (2x16GB) DDR5 DRAM 5600MHz CL40 AMD EXPO & Intel XMP Memory Kit - Black",
-        "price": "Rp 6.649.000"
+        "price": "6649000",
+        "detail": null
     },
     {
         "title": "BIWIN B5DW100646030ER2G-CB013",
-        "price": "Rp 15.309.000"
+        "price": "15309000",
+        "detail": null
     },
     {
         "title": "BIWIN B5DW100646030ER2G-CW013",
-        "price": "Rp 15.309.000"
+        "price": "15309000",
+        "detail": null
     },
     {
         "title": "BIWIN BD5UD16G56C46",
-        "price": "Rp 3.479.000"
+        "price": "3479000",
+        "detail": null
     },
     {
         "title": "BIWIN BD5UD32G56C46",
-        "price": "Rp 6.639.000"
+        "price": "6639000",
+        "detail": null
     },
     {
         "title": "BIWIN BXH53260HX1-D36DB",
-        "price": "Rp 7.149.000"
+        "price": "7149000",
+        "detail": null
     },
     {
         "title": "BIWIN BXH53260HX1-D36DS",
-        "price": "Rp 7.149.000"
-    },
-    {
-        "title": "BIWIN BXL53260DW1-D28FB",
-        "price": "Rp 7.969.000"
-    },
-    {
-        "title": "BIWIN BXL53260DW1-D28FW",
-        "price": "Rp 7.969.000"
-    },
-    {
-        "title": "CORSAIR CMH128GX5M2B6400C42",
-        "price": "Rp 36.099.000",
-        "detail": "Desktop Memory, VENGEANCE RGB, 128GB (2x64GB), PC5-51200 (DDR5-6400), 42-52-52-104, 1.40V, Intel XMP 3.0 Profile Ready"
+        "price": "7149000",
+        "detail": null
     },
     {
         "title": "CORSAIR CMH32GX5M2B5200Z40K",
-        "price": "Rp 8.049.000",
+        "price": "8049000",
         "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-41600 (DDR5-5200), 40-40-40-77, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "CORSAIR CMH32GX5M2B6000C30",
-        "price": "Rp 3.399.000",
-        "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "CORSAIR CMH32GX5M2B6000Z30-WZ",
-        "price": "Rp 8.259.000",
+        "price": "8259000",
         "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH32GX5M2B6000Z30K",
-        "price": "Rp 9.489.000",
+        "price": "9489000",
         "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH32GX5M2B6000Z30W",
-        "price": "Rp 9.489.000",
+        "price": "9489000",
         "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH32GX5M2B6400Z32",
-        "price": "Rp 9.599.000",
+        "price": "9599000",
         "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 32-40-40-84, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "CORSAIR CMH32GX5M2B6400Z36",
-        "price": "Rp 9.449.000",
-        "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 36-48-48-104, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "CORSAIR CMH32GX5M2E6000Z36",
-        "price": "Rp 8.149.000",
-        "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-44-44-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "CORSAIR CMH32GX5M2E6000Z36W",
-        "price": "Rp 8.149.000",
+        "price": "8149000",
         "detail": "Desktop Memory, VENGEANCE RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-44-44-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B5200Z40K",
-        "price": "Rp 14.889.000",
+        "price": "14889000",
         "detail": "Desktop Memory, VENGEANCE RGB, 64GB (2x32GB), PC5-41600 (DDR5-5200), 40-40-40-77, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B6000C30",
-        "price": "Rp 18.569.000",
+        "price": "18569000",
         "detail": "Desktop Memory, VENGEANCE RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B6000C30W",
-        "price": "Rp 18.569.000",
+        "price": "18569000",
         "detail": "Desktop Memory, VENGEANCE RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B6000Z30",
-        "price": "Rp 18.879.000",
+        "price": "18879000",
         "detail": "Desktop Memory, VENGEANCE RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B6000Z30W",
-        "price": "Rp 18.879.000",
+        "price": "18879000",
         "detail": "Desktop Memory, VENGEANCE RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B6000Z40",
-        "price": "Rp 15.369.000",
+        "price": "15369000",
         "detail": "Desktop Memory, VENGEANCE RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 40-40-40-77, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMH64GX5M2B6600C32",
-        "price": "Rp 16.869.000",
+        "price": "16869000",
         "detail": "Desktop Memory, VENGEANCERGB, 64GB (2x32GB), PC5-52800 (DDR5-6600), 32-39-39-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "CORSAIR CMH96GX5M2B5600C40",
-        "price": "Rp 20.219.000",
-        "detail": "Desktop Memory, VENGEANCERGB, 96GB (2x48GB), PC5-44800 (DDR5-5600), 40-40-40-77, 1.25V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "CORSAIR CMH96GX5M2E6000Z36",
-        "price": "Rp 21.449.000",
+        "price": "21449000",
         "detail": "Desktop Memory, VENGEANCE RGB, 96GB (2x48GB), PC5-48000 (DDR5-6000), 36-44-44-96, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "CORSAIR CMK16GX4M2D3600C18",
-        "price": "Rp 2.459.000",
-        "detail": "Desktop Memory, VENGEANCE LPX, 16GB (2x8GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
         "title": "CORSAIR CMK16GX5M1B5600Z40",
-        "price": "Rp 3.999.000",
+        "price": "3999000",
         "detail": "Desktop Memory, VENGEANCE, 16GB (1x16GB), PC5-44800 (DDR5-5600), 40-40-40-70, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK16GX5M2B5200Z40",
-        "price": "Rp 4.319.000",
+        "price": "4319000",
         "detail": "Desktop Memory, VENGEANCE, 16GB (2x8GB), PC5-41600 (DDR5-5200), 40-40-40-77, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK32GX4M2D3600C18",
-        "price": "Rp 4.399.000",
+        "price": "4399000",
         "detail": "Desktop Memory, VENGEANCE LPX, 32GB (2x16GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0 Profile Ready"
     },
     {
-        "title": "CORSAIR CMK32GX5M2B5200C40W",
-        "price": "Rp 7.639.000",
-        "detail": "Desktop Memory, VENGEANCE, 32GB (2x16GB), PC5-41600 (DDR5-5200), 40-40-40-77, 1.25V, Intel XMP 3.0 Profile Ready"
-    },
-    {
-        "title": "CORSAIR CMK32GX5M2B5200Z40",
-        "price": "Rp 7.839.000",
-        "detail": "Desktop Memory, VENGEANCE, 32GB (2x16GB), PC5-41600 (DDR5-5200), 40-40-40-70, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "CORSAIR CMK32GX5M2B6000Z30",
-        "price": "Rp 9.189.000",
+        "price": "9189000",
         "detail": "Desktop Memory, VENGEANCE, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK32GX5M2B6000Z30W",
-        "price": "Rp 9.189.000",
+        "price": "9189000",
         "detail": "Desktop Memory, VENGEANCE, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK32GX5M2E6000Z36",
-        "price": "Rp 7.949.000",
+        "price": "7949000",
         "detail": "Desktop Memory, VENGEANCE, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-44-44-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK32GX5M2E6000Z36W",
-        "price": "Rp 7.949.000",
+        "price": "7949000",
         "detail": "Desktop Memory, VENGEANCE, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-44-44-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "CORSAIR CMK48GX5M2B6000Z30",
-        "price": "Rp 3.709.000",
-        "detail": "Desktop Memory, VENGEANCE, 48GB (2x24GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "CORSAIR CMK64GX5M2B5200C40W",
-        "price": "Rp 14.649.000"
+        "price": "14649000",
+        "detail": null
     },
     {
         "title": "CORSAIR CMK64GX5M2B5200Z40",
-        "price": "Rp 14.959.000",
+        "price": "14959000",
         "detail": "Desktop Memory, VENGEANCE, 64GB (2x32GB), PC5-41600 (DDR5-5200), 40-40-40-77, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK64GX5M2B6000Z30",
-        "price": "Rp 18.729.000",
+        "price": "18729000",
         "detail": "Desktop Memory, VENGEANCE, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMK64GX5M2B6000Z30W",
-        "price": "Rp 18.729.000",
+        "price": "18729000",
         "detail": "Desktop Memory, VENGEANCE, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "CORSAIR CMK64GX5M2B6000Z40",
-        "price": "Rp 14.199.000",
-        "detail": "Desktop Memory, VENGEANCE, 64GB (2x32GB), PC5-48000 (DDR5-6000), 40-40-40-77, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "CORSAIR CMK64GX5M2X6600C32",
-        "price": "Rp 16.699.000"
-    },
-    {
-        "title": "CORSAIR CMK96GX5M2B5600C40",
-        "price": "Rp 11.339.000",
-        "detail": "Desktop Memory, VENGEANCE, 96GB (2x48GB), PC5-44800 (DDR5-5600), 40-40-40-77, 1.25V, Intel XMP 3.0 Profile Ready"
+        "price": "16699000",
+        "detail": null
     },
     {
         "title": "CORSAIR CMK96GX5M2E6000Z36",
-        "price": "Rp 21.249.000",
+        "price": "21249000",
         "detail": "Desktop Memory, VENGEANCE, 96GB (2x48GB), PC5-48000 (DDR5-6000), 36-44-44-96, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMP32GX5M2B6000C30W",
-        "price": "Rp 11.039.000",
+        "price": "11039000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "CORSAIR CMP32GX5M2B6000Z30",
-        "price": "Rp 11.349.000",
+        "price": "11349000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMP32GX5M2B6000Z30W",
-        "price": "Rp 11.349.000",
+        "price": "11349000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "CORSAIR CMP32GX5M2X6600C32",
-        "price": "Rp 7.219.000",
-        "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 32GB (2x16GB), PC5-52800 (DDR5-6600), 32-39-39-76, 1.40V, Intel XMP 3.0 Profile Ready"
-    },
-    {
-        "title": "CORSAIR CMP32GX5M2X6600C32W",
-        "price": "Rp 7.219.000",
-        "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 32GB (2x16GB), PC5-52800 (DDR5-6600), 32-39-39-76, 1.40V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "CORSAIR CMP64GX5M2B6000C30W",
-        "price": "Rp 21.869.000",
+        "price": "21869000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "CORSAIR CMP64GX5M2B6000Z30",
-        "price": "Rp 22.169.000",
+        "price": "22169000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMP64GX5M2B6000Z30W",
-        "price": "Rp 22.169.000",
+        "price": "22169000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMP64GX5M2X6600C32",
-        "price": "Rp 18.569.000",
+        "price": "18569000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 64GB (2x32GB), PC5-52800 (DDR5-6600), 32-39-39-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "CORSAIR CMP96GX5M2B6000Z30",
-        "price": "Rp 28.149.000",
+        "price": "28149000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 96GB (2x48GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "CORSAIR CMP96GX5M2B6000Z30W",
-        "price": "Rp 28.149.000",
+        "price": "28149000",
         "detail": "Desktop Memory, DOMINATOR TITANIUM RGB, 96GB (2x48GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "Crucial Classic DDR5 128GB Kit (64GBx2) 5600 MT/s CL46",
-        "price": "Rp 17.899.000",
-        "detail": "Desktop Memory, Classic, 128GB (2x64GB), PC5-44800 (DDR5-5600), 46-45-45, 1.1V, JEDEC Standard"
-    },
-    {
-        "title": "Crucial DDR5 32GB (1 x 32GB) 5600 MT/s CL46 SODIMM",
-        "price": "Rp 4.499.000",
-        "detail": "Laptop Memory, Classic, 32GB (1x32GB), PC5-44800 (DDR5-5600), 46-45-45, 1.1V"
-    },
-    {
         "title": "Crucial Pro Overclocking DDR5 16GB (1 x 16GB) 6000 MT/s CL36 Black",
-        "price": "Rp 3.619.000",
+        "price": "3619000",
         "detail": "Desktop Memory, Pro Overclocking, 16GB (1x16GB), PC5-48000 (DDR5-6000), 36-38-38-80, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "Crucial Pro Overclocking DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL36 Black",
-        "price": "Rp 7.019.000",
+        "price": "7019000",
         "detail": "Desktop Memory, Pro Overclocking, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-38-38-80, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "Crucial Pro Overclocking DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL36 White",
-        "price": "Rp 7.129.000",
+        "price": "7129000",
         "detail": "Desktop Memory, Pro Overclocking, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-38-38-80, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "Crucial Pro Overclocking DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL38 Black",
-        "price": "Rp 7.129.000",
+        "price": "7129000",
         "detail": "Desktop Memory, Pro Overclocking, 32GB (1x32GB), PC5-51200 (DDR5-6400), 38-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "Crucial Pro Overclocking DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL38 White",
-        "price": "Rp 7.219.000",
+        "price": "7219000",
         "detail": "Desktop Memory, Pro Overclocking, 32GB (2x16GB), PC5-51200 (DDR5-6400), 38-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "Crucial Pro Overclocking DDR5 64GB Kit (2 x 32GB) 6400 MT/s CL40 Black",
-        "price": "Rp 14.239.000",
+        "price": "14239000",
         "detail": "Desktop Memory, Pro Overclocking, 64GB (2x32GB), PC5-51200 (DDR5-6400), 40-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "Crucial Pro Overclocking DDR5 64GB Kit (2 x 32GB) 6400 MT/s CL40 White",
-        "price": "Rp 14.449.000",
+        "price": "14449000",
         "detail": "Desktop Memory, Pro Overclocking, 64GB (2x32GB), PC5-51200 (DDR5-6400), 40-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-5600J3636D32GX2-FX5",
-        "price": "Rp 11.299.000",
+        "price": "11299000",
         "detail": "Desktop Memory, Flare X5, 64GB (2x32GB), PC5-44800 (DDR5-5600), 36-36-36-89, 1.25V, AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-5600J4040C16GX2-RS5K",
-        "price": "Rp 6.759.000",
+        "price": "6759000",
         "detail": "Desktop Memory, Ripjaws S5, 32GB (2x16GB), PC5-44800 (DDR5-5600), 40-40-40-89, 1.20V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "G.SKILL F5-5600J4040D24GX2-TZ5RK",
-        "price": "Rp 9.049.000",
+        "price": "9049000",
         "detail": "Desktop Memory, Trident Z5 RGB, 48GB (2x24GB), PC5-44800 (DDR5-5600), 40-48-48-96, 1.25V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "G.SKILL F5-5600J4040D48GX2-TZ5NR",
-        "price": "Rp 18.899.000",
+        "price": "18899000",
         "detail": "Desktop Memory, Trident Z5 Neo RGB, 96GB (2x48GB), PC5-44800 (DDR5-5600), 40-40-40-89, 1.25V, AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-5600J4040D48GX2-TZ5RK",
-        "price": "Rp 18.399.000",
+        "price": "18399000",
         "detail": "Desktop Memory, Trident Z5 RGB, 96GB (2x48GB), PC5-44800 (DDR5-5600), 40-40-40-89, 1.25V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "G.SKILL F5-5600J4645A32GX2-FX5",
-        "price": "Rp 11.299.000"
-    },
-    {
         "title": "G.SKILL F5-6000J2636H32GX2-TR5NG",
-        "price": "Rp 18.199.000",
+        "price": "18199000",
         "detail": "Desktop Memory, Trident Z5 Royal Neo, 64GB (2x32GB), PC5-48000 (DDR5-6000), 26-36-36-96, 1.45V, AMD EXPO Profile Ready"
     },
     {
-        "title": "G.SKILL F5-6000J3036F48GX2-TZ5NR",
-        "price": "Rp 13.109.000",
-        "detail": "Desktop Memory, Trident Z5 Neo RGB, 96GB (2x48GB), PC5-48000 (DDR5-6000), 30-36-36-96, 1.35V, AMD EXPO Profile Ready"
-    },
-    {
-        "title": "G.SKILL F5-6000J3036G32GX2-TR5NS",
-        "price": "Rp 18.199.000",
-        "detail": "Desktop Memory, Trident Z5 Royal Neo, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-36-36-96, 1.45V, AMD EXPO Profile Ready"
-    },
-    {
         "title": "G.SKILL F5-6000J3636F16GX1-RS5K",
-        "price": "Rp 4.699.000",
+        "price": "4699000",
         "detail": "Desktop Memory, Ripjaws S5, 16GB (1x16GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "G.SKILL F5-6000J3636F16GX2-RS5K",
-        "price": "Rp 6.699.000",
-        "detail": "Desktop Memory, Ripjaws S5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "G.SKILL F5-6000J3636F16GX2-TZ5NR",
-        "price": "Rp 7.099.000",
+        "price": "7099000",
         "detail": "Desktop Memory, Trident Z5 Neo RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3636F16GX2-TZ5RK",
-        "price": "Rp 6.989.000",
+        "price": "6989000",
         "detail": "Desktop Memory, Trident Z5 RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3636F16GX2-TZ5RW",
-        "price": "Rp 6.989.000",
+        "price": "6989000",
         "detail": "Desktop Memory, Trident Z5 RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3636F32GX2-RM5NRK",
-        "price": "Rp 12.139.000",
-        "detail": "Desktop Memory, Ripjaws M5 Neo RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "G.SKILL F5-6000J3636F32GX2-RM5NRW",
-        "price": "Rp 12.139.000",
+        "price": "12139000",
         "detail": "Desktop Memory, Ripjaws M5 Neo RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3636F32GX2-RS5K",
-        "price": "Rp 11.909.000",
+        "price": "11909000",
         "detail": "Desktop Memory, Ripjaws S5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "G.SKILL F5-6000J3636F32GX2-TZ5NR",
-        "price": "Rp 13.119.000",
-        "detail": "Desktop Memory, Trident Z5 Neo RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "G.SKILL F5-6000J3636F32GX2-TZ5NRW",
-        "price": "Rp 13.119.000",
+        "price": "13119000",
         "detail": "Desktop Memory, Trident Z5 Neo RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3636F32GX2-TZ5RK",
-        "price": "Rp 12.549.000",
+        "price": "12549000",
         "detail": "Desktop Memory, Trident Z5 RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3636F32GX2-TZ5RW",
-        "price": "Rp 12.549.000",
+        "price": "12549000",
         "detail": "Desktop Memory, Trident Z5 RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 36-36-36-96, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3644D64GX2-TZ5NR",
-        "price": "Rp 29.019.000",
+        "price": "29019000",
         "detail": "Desktop Memory, Trident Z5 Neo RGB, 128GB (2x64GB), PC5-48000 (DDR5-6000), CL 36, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3648D16GX2-FX5",
-        "price": "Rp 6.929.000",
+        "price": "6929000",
         "detail": "Desktop Memory, Flare X5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-48-48-96, 1.25V, AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J3648D16GX2-RS5W",
-        "price": "Rp 6.819.000",
+        "price": "6819000",
         "detail": "Desktop Memory, Ripjaws S5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-48-48-96, 1.25V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J4048F24GX2-FX5",
-        "price": "Rp 8.129.000"
+        "price": "8129000",
+        "detail": null
     },
     {
         "title": "G.SKILL F5-6000J4048F24GX2-RS5K",
-        "price": "Rp 8.589.000",
+        "price": "8589000",
         "detail": "Desktop Memory, Ripjaws S5, 48GB (2x24GB), PC5-48000 (DDR5-6000), 40-48-48-96, 1.35V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J4048F24GX2-TZ5NR",
-        "price": "Rp 8.819.000",
+        "price": "8819000",
         "detail": "Desktop Memory, Trident Z5 Neo RGB, 48GB (2x24GB), PC5-48000 (DDR5-6000), 40-48-48-96, 1.35V, AMD EXPO Profile Ready"
     },
     {
         "title": "G.SKILL F5-6000J4048F24GX2-TZ5RK",
-        "price": "Rp 9.279.000",
+        "price": "9279000",
         "detail": "Desktop Memory, Trident Z5 RGB, 48GB (2x24GB), PC5-48000 (DDR5-6000), 40-48-48-96, 1.35V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "G.SKILL F5-6000R3036G32GQ4-ZR5NK",
-        "price": "Rp 25.789.000",
-        "detail": "Desktop Memory, Zeta R5 Neo, 128GB (4x32GB), PC5-48000 (DDR5-6000), 30-36-36-96, 1.35V, AMD EXPO Profile Ready"
-    },
-    {
         "title": "G.SKILL F5-6000R3036G48GQ4-G5N",
-        "price": "Rp 164.949.000"
+        "price": "164949000",
+        "detail": null
     },
     {
         "title": "G.SKILL F5-6400J3239F48GX2-TZ5RW",
-        "price": "Rp 21.099.000",
+        "price": "21099000",
         "detail": "Desktop Memory, Trident Z5 RGB, 96GB (2x48GB), PC5-51200 (DDR5-6400), 32-39-39-102, 1.35V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "G.SKILL F5-6400J3239G32GX2-TR5S",
-        "price": "Rp 18.199.000",
+        "price": "18199000",
         "detail": "Desktop Memory, Trident Z5 Royal, 64GB (2x32GB), PC5-51200 (DDR5-6400), 32-39-39-102, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "G.SKILL F5-6400J3648G24GX2-RS5K",
-        "price": "Rp 9.619.000",
-        "detail": "Desktop Memory, Ripjaws S5, 48GB (2x24GB), PC5-51200 (DDR5-6400), 36-48-48-102, 1.40V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "G.SKILL F5-6400J3648G24GX2-TZ5RK",
-        "price": "Rp 9.799.000",
+        "price": "9799000",
         "detail": "Desktop Memory, Trident Z5 RGB, 48GB (2x24GB), PC5-51200 (DDR5-6400), 36-48-48-102, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "G.SKILL F5-6800R3445G32GQ4-ZR5NK",
-        "price": "Rp 33.499.000"
-    },
-    {
         "title": "GSKILL F4-3200C16S-16GVK",
-        "price": "Rp 2.449.000",
+        "price": "2449000",
         "detail": "Desktop Memory, Ripjaws V, 16GB (1x16GB), PC4-25600 (DDR4-3200), 16-18-18-38, 1.35V, Intel XMP 2.0 Profile Ready"
     },
     {
-        "title": "KingBank Classic Heatsink DDR4 16GB Kit (2 x 8GB) 3200 MT/s CL16 Silver",
-        "price": "Rp 1.939.000",
-        "detail": "Desktop Memory, Classic Heatsink, 16GB (2x8GB), PC4-25600 (DDR4-3200), 16-20-20-38, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
-        "title": "KingBank Classic Heatsink DDR4 32GB Kit (2 x 16GB) 3200 MT/s CL16 Silver",
-        "price": "Rp 3.099.000",
-        "detail": "Desktop Memory, Classic Heatsink, 32GB (2x16GB), PC4-25600 (DDR4-3200), 16-20-20-38, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
-        "title": "KingBank Classic Heatsink DDR5 8GB (1 x 8GB) 6000 MT/s CL30 Silver",
-        "price": "Rp 2.139.000",
-        "detail": "Desktop Memory, Classic Heatsink, 8GB (1x8GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Dark DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL28 Black A-Die",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, DDR5 Dark Heatsink, 32GB (2x16GB), PC5-48000 (DDR5-6000), 28-35-35-76, 1.45V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "KingBank Dark DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL28 White A-Die",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, DDR5 White Heatsink, 32GB (2x16GB), PC5-48000 (DDR5-6000), 28-35-35-76, 1.45V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "KingBank Dark DDR5 96GB Kit (2 x 48GB) 6400 MT/s CL32 Black M-Die",
-        "price": "Rp 8.499.000",
-        "detail": "Desktop Memory, DDR5 Dark Heatsink, 96GB (2x48GB), PC5-51200 (DDR5-6400), 32-39-39-96, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Heatsink DDR4 16GB (1 x1 6GB) 3200 MT/s CL16 Silver",
-        "price": "Rp 1.489.000",
-        "detail": "Desktop Memory, SIlver Heatsink, 16GB (1x16GB), PC4-25600 (DDR4-3200), 16-20-20-38, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
-        "title": "KingBank Heatsink DDR4 8GB (1 x 8GB) 3200 MT/s CL16 Silver",
-        "price": "Rp 939.000",
-        "detail": "Desktop Memory, SIlver Heatsink, 8GB (1x8GB), PC4-25600 (DDR4-3200), 16-20-20-38, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
         "title": "KingBank Sharp Blade RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL28 Grey A-Die",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, Sharp Blade RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 28-35-35-76, 1.45V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "KingBank Sharp Blade RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL28 White A-Die",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, Sharp Blade RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 28-35-35-76, 1.45V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "KingBank Sharp Blade RGB DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL30 Grey A-Die",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, Sharp Blade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 30-39-39-102, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Sharp Blade RGB DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL30 White A-Die",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, Sharp Blade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 30-39-39-102, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR4 16GB Kit (2 x 8GB) 3200 MT/s CL16 Grey",
-        "price": "Rp 1.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 16GB (2x8GB), PC4-25600 (DDR4-3200), 16-20-20-38, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR4 16GB Kit (2 x 8GB) 3200 MT/s CL16 White",
-        "price": "Rp 1.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 16GB (2x8GB), PC4-25600 (DDR4-3200), 16-20-20-38, 1.35V, Intel XMP 2.0 Profile Ready"
     },
     {
         "title": "KingBank Soarblade RGB DDR4 16GB Kit (2 x 8GB) 3600 MT/s CL18 Grey",
-        "price": "Rp 2.099.000",
+        "price": "2099000",
         "detail": "Desktop Memory, Soarblade RGB, 16GB (2x8GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0 Profile Ready"
     },
     {
         "title": "KingBank Soarblade RGB DDR4 16GB Kit (2 x 8GB) 3600 MT/s CL18 White",
-        "price": "Rp 2.099.000",
+        "price": "2099000",
         "detail": "Desktop Memory, Soarblade RGB, 16GB (2x8GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0 Profile Ready"
     },
     {
-        "title": "KingBank Soarblade RGB DDR4 32GB Kit (2 x 16GB) 3600 MT/s CL18 Grey",
-        "price": "Rp 3.599.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
         "title": "KingBank Soarblade RGB DDR4 32GB Kit (2 x 16GB) 3600 MT/s CL18 White",
-        "price": "Rp 3.599.000",
+        "price": "3599000",
         "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0 Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB (2 x 16GB) 6400 MT/s CL32 White M-Die",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 32-39-39-80, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL30 Grey M-Die",
-        "price": "Rp 5.579.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL30 White M-Die",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-36-36-76, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL36 Grey CMXT",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), CL 36, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL36 White CMXT",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), CL 36, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL32 Grey A-Die",
-        "price": "Rp 6.909.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 32-39-39-80, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL32 Grey M-Die",
-        "price": "Rp 6.999.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 32-39-39-80, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "KingBank Soarblade RGB DDR5 32GB Kit (2 x 16GB) 6400 MT/s CL32 White A-Die",
-        "price": "Rp 6.999.000",
+        "price": "6909000",
         "detail": "Desktop Memory, Soarblade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 32-39-39-80, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "KINGSTON FURY Renegade RGB 32GB (2x16GB) DDR5 6400MHz CL32",
-        "price": "Rp 7.439.000",
+        "price": "7439000",
         "detail": "Desktop Memory, Renegade RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), 32, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "KINGSTON KF556C36BBEK2-16",
-        "price": "Rp 4.009.000"
-    },
-    {
-        "title": "KINGSTON KF560C36BBE2-32",
-        "price": "Rp 4.329.000",
-        "detail": "Desktop Memory, Soarblade RGB, 32GB (1x32GB), PC5-48000 (DDR5-6000), 36, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "PATRIOT PVER532G60C36KT",
-        "price": "Rp 3.989.000",
-        "detail": "Desktop Memory, Viper Elite 5 RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-36-36-76, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "PATRIOT PVER548G60C42KW",
-        "price": "Rp 9.049.000",
-        "detail": "Desktop Memory, Viper Elite 5 RGB, 48GB (2x24GB), PC5-48000 (DDR5-6000), 42-42-42-82, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "PATRIOT PVER548G66C34KT",
-        "price": "Rp 9.849.000",
-        "detail": "Desktop Memory, Viper Elite 5 RGB, 48GB (2x24GB), PC5-52800 (DDR5-6600), 34-40-40-84, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
+        "price": "4009000",
+        "detail": null
     },
     {
         "title": "PATRIOT PVVR532G600C36K",
-        "price": "Rp 6.719.000",
+        "price": "6719000",
         "detail": "Desktop Memory, Viper Venom RGB DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-36-36-76, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "PATRIOT PVXR548G76C36K",
-        "price": "Rp 4.299.000",
-        "detail": "Desktop Memory, Viper Xtreme 5 RGB, 48GB (2x24GB), PC5-60800 (DDR5-7600), 36-48-48-84, 1.45V, Intel XMP 3.0 Profile Ready"
-    },
-    {
-        "title": "PATRIOT PVXR548G80C38K",
-        "price": "Rp 5.209.000",
-        "detail": "Desktop Memory, Viper Xtreme 5 RGB, 48GB (2x24GB), PC5-64000 (DDR5-8000), 38-48-48-84, 1.45V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "PREDATOR BL.9BWWR.327",
-        "price": "Rp 8.269.000",
+        "price": "8269000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.35V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR BL.9BWWR.331",
-        "price": "Rp 8.169.000",
+        "price": "8169000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-51200 (DDR5-6400), CL32-39-39-102, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR BL.9BWWR.334",
-        "price": "Rp 16.329.000",
+        "price": "16329000",
         "detail": "Desktop Memory, Vesta II RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR BL.9BWWR.359",
-        "price": "Rp 8.269.000",
+        "price": "8269000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-52800 (DDR5-6600), CL34-40-40-105, 1.40V, Intel XMP 3.0 EXPO Profile Ready"
     },
     {
-        "title": "PREDATOR BL.9BWWR.361",
-        "price": "Rp 8.369.000",
-        "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-54400 (DDR5-6800), 34-45-45-108, 1.40V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "PREDATOR BL.9BWWR.366",
-        "price": "Rp 8.269.000",
+        "price": "8269000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "PREDATOR BL.9BWWR.368",
-        "price": "Rp 8.269.000",
+        "price": "8269000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-52800 (DDR5-6600), 34-40-40-105, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR BL.9BWWR.371",
-        "price": "Rp 16.329.000",
+        "price": "16329000",
         "detail": "Desktop Memory, Vesta II RGB, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "PREDATOR BL.9BWWR.630",
-        "price": "Rp 8.479.000",
-        "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), CL28-35-35-72, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "PREDATOR BL.9BWWR.631",
-        "price": "Rp 8.479.000",
-        "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 28-35-35-72, 1.40V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "PREDATOR BL.9BWWR.650",
-        "price": "Rp 7.659.000"
-    },
-    {
-        "title": "PREDATOR BL.9BWWR.651",
-        "price": "Rp 7.659.000"
+        "price": "7659000",
+        "detail": null
     },
     {
         "title": "PREDATOR Vesta II RGB 32GB (2x16GB) DDR5 6000MHz CL32 Black",
-        "price": "Rp 8.069.000",
+        "price": "8069000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 32-38-38-76, 1.35V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR Vesta II RGB 32GB (2x16GB) DDR5 6000MHz CL32 Silver",
-        "price": "Rp 8.069.000",
+        "price": "8069000",
         "detail": "Desktop Memory, Vesta II RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 32-38-38-76, 1.35V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR Vesta II RGB 64GB (2x32GB) DDR5 6400MHz CL32 Black",
-        "price": "Rp 16.539.000",
+        "price": "16539000",
         "detail": "Desktop Memory, Vesta II RGB, 64GB (2x32GB), PC5-51200 (DDR5-6400), 32-39-39-102, 1.40V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "PREDATOR Vesta II RGB 64GB (2x32GB) DDR5 6400MHz CL32 Silver",
-        "price": "Rp 16.539.000",
+        "price": "16539000",
         "detail": "Desktop Memory, Vesta II RGB, 64GB (2x32GB), PC5-51200 (DDR5-6400), 32, 1.40V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM CTCCD532G5600HC46DC01",
-        "price": "Rp 7.129.000",
+        "price": "7839000",
         "detail": "Desktop Memory, T-CREATE CLASSIC DDR5, 32GB (2x16GB), PC5-44800 (DDR5-5600), 46-46-46-90, 1.1V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM CTCCD532G6000HC48DC01",
-        "price": "Rp 7.179.000",
+        "price": "7899000",
         "detail": "Desktop Memory, T-CREATE CLASSIC DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 48-48-48-96, 1.1V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM CTCCD564G5600HC46DC01",
-        "price": "Rp 14.199.000",
+        "price": "15999000",
         "detail": "Desktop Memory, T-CREATE CLASSIC DDR5, 64GB (2x32GB), PC5-44800 (DDR5-5600), 46-46-46-90, 1.1V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM CTCCD564G6000HC48DC01",
-        "price": "Rp 14.289.000",
-        "detail": "Desktop Memory, T-CREATE CLASSIC DDR5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 48-48-48-96, 1.1V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM CTCED532G6400HC40BDC01",
-        "price": "Rp 8.879.000",
+        "price": "9769000",
         "detail": "Desktop Memory, T-CREATE EXPERT DDR5, 32GB (2x16GB), PC5-51200 (DDR5-6400), 40-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM CTCED564G6400HC40BDC01",
-        "price": "Rp 16.779.000",
+        "price": "18449000",
         "detail": "Desktop Memory, T-CREATE EXPERT DDR5, 64GB (2x32GB), PC5-51200 (DDR5-6400), 40-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM CTCWD532G6400HC40BDC01",
-        "price": "Rp 8.879.000",
+        "price": "9769000",
         "detail": "Desktop Memory, T-CREATE EXPERT DDR5, 32GB (2x16GB), PC5-51200 (DDR5-6400), 40-40-40-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM FF2D564G6000HC38JDC01",
-        "price": "Rp 16.819.000",
+        "price": "18499000",
         "detail": "Desktop Memory, DELTA RGB ECO DDR5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 38-46-46-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM FF3D516G5600HC40BDC01",
-        "price": "Rp 4.289.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 16GB (2x8GB), PC5-44800 (DDR5-5600), 40-40-40-84, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "TEAM FF3D516G6000HC38ADC01",
-        "price": "Rp 4.289.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 16GB (2x8GB), PC5-48000 (DDR5-6000), 38-38-38-78, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM FF3D532G5600HC36BDC01",
-        "price": "Rp 7.999.000",
+        "price": "8799000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 16GB (2x8GB), PC5-44800 (DDR5-5600), 36-36-36-76, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM FF3D532G6000HC38JDC01",
-        "price": "Rp 8.419.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 38-46-46-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM FF3D564G6000HC38ADC01",
-        "price": "Rp 16.819.000",
+        "price": "18499000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 38-38-38-78, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM FF3D564G6000HC38JDC01",
-        "price": "Rp 16.819.000"
-    },
-    {
-        "title": "TEAM FF4D516G5600HC40BDC01",
-        "price": "Rp 4.289.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 16GB (2x8GB), PC5-44800 (DDR5-5600), 40-40-40-84, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "TEAM FF4D516G6000HC38ADC01",
-        "price": "Rp 4.289.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 16GB (2x8GB), PC5-48000 (DDR5-6000), 38-38-38-78, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
+        "price": "16819000",
+        "detail": null
     },
     {
         "title": "TEAM FF4D532G5600HC36BDC01",
-        "price": "Rp 7.999.000",
+        "price": "8799000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 16GB (2x8GB), PC5-44800 (DDR5-5600), 36-36-36-76, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM FF4D532G6000HC38JDC01",
-        "price": "Rp 8.419.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 38-46-46-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM FF4D532G6400HC38JDC01",
-        "price": "Rp 8.889.000",
+        "price": "9779000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 32GB (2x16GB), PC5-51200 (DDR5-6400), 38-46-46-84, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM FF4D564G6000HC38ADC01",
-        "price": "Rp 16.819.000",
+        "price": "18499000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 38-38-38-78, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM FFPD532G7600HC36FDC01",
-        "price": "Rp 10.089.000",
+        "price": "11099000",
         "detail": "Desktop Memory, T-FORCE XTREEM DDR5, 32GB (2x16GB), PC5-60800 (DDR5-7600), 36-45-45-84, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM FFXD532G7600HC36FDC01",
-        "price": "Rp 10.089.000",
+        "price": "11099000",
         "detail": "Desktop Memory, T-FORCE XTREEM DDR5, 32GB (2x16GB), PC5-60800 (DDR5-7600), 36-45-45-84, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM FFXD548G7600HC36EDC01",
-        "price": "Rp 14.389.000",
-        "detail": "Desktop Memory, T-FORCE XTREEM DDR5, 48GB (2x24GB), PC5-60800 (DDR5-7600), 36-47-47-84, 1.4V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM TF3D416G3200HC16CDC01",
-        "price": "Rp 2.599.000",
+        "price": "2859000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 16GB (2x8GB), PC4-25600 (DDR4-3200), 16-18-18-38, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF3D416G3600HC18JDC01",
-        "price": "Rp 2.679.000",
+        "price": "2939000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 16GB (2x8GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF3D432G3200HC16FDC01",
-        "price": "Rp 4.849.000",
+        "price": "5329000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 32GB (2x16GB), PC4-25600 (DDR4-3200), 16-20-20-40, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF3D432G3600HC18JDC01",
-        "price": "Rp 4.919.000",
+        "price": "5399000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 32GB (2x16GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM TF3D464G3200HC16CDC01",
-        "price": "Rp 7.819.000",
-        "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 64GB (2x32GB), PC4-25600 (DDR4-3200), 16-18-18-38, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM TF3D464G3600HC18JDC01",
-        "price": "Rp 7.819.000",
+        "price": "8599000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 64GB (2x32GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF4D416G3200HC16CDC01",
-        "price": "Rp 2.599.000",
+        "price": "2859000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 16GB (2x8GB), PC4-25600 (DDR4-3200), 16-18-18-38, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF4D416G3600HC18JDC01",
-        "price": "Rp 2.679.000",
+        "price": "2939000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 16GB (2x8GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF4D432G3200HC16FDC01",
-        "price": "Rp 4.849.000",
+        "price": "5329000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 32GB (2x16GB), PC4-25600 (DDR4-3200), 16-20-20-40, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF4D432G3600HC18JDC01",
-        "price": "Rp 4.919.000",
+        "price": "5399000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 32GB (2x16GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF4D464G3200HC16CDC01",
-        "price": "Rp 7.819.000",
+        "price": "8599000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB DDR4, 64GB (2x32GB), PC4-25600 (DDR4-3200), 16-18-18-38, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "TEAM TF4D464G3600HC18JDC01",
-        "price": "Rp 7.819.000",
+        "price": "8599000",
         "detail": "Desktop Memory, T-FORCE DELTA RGB, 64GB (2x32GB), PC4-28800 (DDR4-3600), 18-22-22-42, 1.35V, Intel XMP 2.0"
     },
     {
-        "title": "TEAM TPBD516G5600HC46DC01",
-        "price": "Rp 3.579.000",
-        "detail": "Desktop Memory, ELITE PLUS DDR5, 16GB (2x8GB), PC5-44800 (DDR5-5600), 46-46-46-90, 1.1V, Intel XMP 3.0 Profile Ready"
-    },
-    {
         "title": "TEAM TPBD532G5600HC46DC01",
-        "price": "Rp 7.699.000",
+        "price": "8469000",
         "detail": "Desktop Memory, ELITE PLUS DDR5, 32GB (2x16GB), PC5-44800 (DDR5-5600), 46-46-46-90, 1.1V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "TEAM TPBD532G6000HC48DC01",
-        "price": "Rp 7.699.000",
+        "price": "8469000",
         "detail": "Desktop Memory, ELITE PLUS DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 48-48-48-96, 1.1V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "TEAM TPBD532G6400HC52DC01",
-        "price": "Rp 7.699.000",
+        "price": "8469000",
         "detail": "Desktop Memory, ELITE PLUS DDR5, 32GB (2x16GB), PC5-51200 (DDR5-6400), 52-52-52-103, 1.1V, Intel XMP 3.0 Profile Ready"
     },
     {
         "title": "TEAM TPD432G3200HC22DC01",
-        "price": "Rp 4.919.000",
+        "price": "5399000",
         "detail": "Desktop Memory, ELITE PLUS DDR4, 32GB (2x16GB), PC4-25600 (DDR4-3200), 22-22-22-52, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
-        "title": "TEAM TPD464G3200HC22DC01",
-        "price": "Rp 9.769.000",
-        "detail": "Desktop Memory, ELITE PLUS DDR4, 64GB (2x32GB), PC4-25600 (DDR4-3200), 22-22-22-52, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM TPRD416G3200HC2202",
-        "price": "Rp 2.469.000",
+        "price": "2469000",
         "detail": "Desktop Memory, Eltie Plus Red, 16GB (1x16GB), PC4-25600 (DDR4-3200), 22-22-22-52, 1.20V"
     },
     {
         "title": "TEAM TPSD564G5600HC46DC01",
-        "price": "Rp 14.199.000",
+        "price": "15599000",
         "detail": "Desktop Memory, ELITE PLUS DDR5, 64GB (2x32GB), PC5-44800 (DDR5-5600), 46-46-46-90, 1.1V, Intel XMP 3.0 Profile Ready"
     },
     {
-        "title": "TEAM TPSD58G4800HC40016",
-        "price": "Rp 939.000",
-        "detail": "Desktop Memory, ELITE PLUS DDR5, 8GB (1x8GB), PC5-38400 (DDR5-4800), 40-40-40-77, 1.1V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
         "title": "TEAM TTCCD416G3200HC22DC01",
-        "price": "Rp 2.499.000",
+        "price": "2769000",
         "detail": "Desktop Memory, T-CREATE CLASSIC DDR4, 16GB (2x8GB), PC4-25600 (DDR4-3200), 22-22-22-52, 1.2V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "v-color Manta XFinity RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL30 Black",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, Manta XFinity RGB DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "v-color Manta XFinity RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL36 Black",
-        "price": "Rp 6.719.000",
+        "price": "6719000",
         "detail": "Desktop Memory, Manta XFinity RGB DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 36-38-38-76, 1.25V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "v-color Manta XFinity RGB DDR5 64GB Kit (2 x 32GB) 6000 MT/s CL30 Black",
-        "price": "Rp 12.379.000",
-        "detail": "Desktop Memory, Manta XFinity RGB DDR5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
-    },
-    {
-        "title": "v-color Manta XFinity RGB DDR5 64GB Kit (2 x 32GB) 6000 MT/s CL30 Black",
-        "price": "Rp 12.389.000",
+        "price": "12379000",
         "detail": "Desktop Memory, Manta XFinity RGB DDR5, 64GB (2x32GB), PC5-48000 (DDR5-6000), 30-38-38-76, 1.35V, Intel XMP 3.0 & AMD EXPO Profile Ready"
     },
     {
         "title": "v-color Manta XSky RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL26 Black",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, Manta XSky RGB DDR5, 32GB (2x16GB), PC5-48000 (DDR5-6000), 26-36-36-96, 1.40V, AMD EXPO Profile Ready"
     },
     {
         "title": "v-color Manta XSky RGB DDR5 32GB Kit (2 x 16GB) 6000 MT/s CL30 Black",
-        "price": "Rp 6.919.000",
+        "price": "6919000",
         "detail": "Desktop Memory, Manta XSky RGB, 32GB (2x16GB), PC5-48000 (DDR5-6000), 30-38-38-96, 1.25V, AMD EXPO Profile Ready"
     },
     {
         "title": "v-color OC R-DIMM DDR5 128GB Kit (4 x 32GB) 6000 MT/s CL32",
-        "price": "Rp 72.179.000",
+        "price": "72179000",
         "detail": "Workstation Memory, OC R-DIMM, 128GB (4x32GB), PC5-48000 (DDR5-6000), 32-38-38-96, 1.25V, AMD EXPO Profile Ready"
     }
 ]
