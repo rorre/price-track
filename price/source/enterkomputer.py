@@ -9,7 +9,9 @@ import httpx
 from playwright.sync_api import sync_playwright
 from pydantic import BaseModel, Field
 
+from price.data import save_data_to_json
 from price.shared import CATEGORIES, ProductCategory, result_to_product_info
+from price.source.generic import GenericData
 
 SIMULATION_API_URL = "https://enterkomputer.com/jeanne/v2/simulation"
 SIMULATION_URL = "https://enterkomputer.com/simulasi/"
@@ -84,20 +86,44 @@ def get_token_and_cookies():
     return token, signature, cookie_header
 
 
+MAX_RETRIES = 3
+
+
 def fetch_simulation(
     client: httpx.Client, category: str, token: str, signature: str
-) -> EnterKomputerResponse:
-    response = client.post(
-        SIMULATION_API_URL,
-        json={
-            "RSTGE": category,
-            "MSTGE": category,
-            "token": token,
-            "signature": signature,
-        },
-    )
-    response.raise_for_status()
-    return EnterKomputerResponse.model_validate(response.json())
+) -> EnterKomputerResponse | None:
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.post(
+                SIMULATION_API_URL,
+                json={
+                    "RSTGE": category,
+                    "MSTGE": category,
+                    "token": token,
+                    "signature": signature,
+                },
+            )
+            response.raise_for_status()
+            data = EnterKomputerResponse.model_validate(response.json())
+            print(f"{category}: OK ({len(data.result)} products)")
+            return data
+        except Exception as e:
+            if attempt < MAX_RETRIES:
+                print(f"{category}: RETRY ({attempt}/{MAX_RETRIES}) ({e})")
+            else:
+                print(f"{category}: SKIP ({e})")
+                return None
+
+
+def to_generic_data(data: list[Result]) -> list[GenericData]:
+    return [
+        GenericData(
+            title=item.p_name,
+            price=str(item.p_prcz[0]),
+            detail=item.p_dtls or None,
+        )
+        for item in data
+    ]
 
 
 def get_all_data(data: list[Result], category: ProductCategory):
@@ -110,30 +136,16 @@ def get_all_data(data: list[Result], category: ProductCategory):
             yield x
 
 
-def get_from_date(date: date, category: ProductCategory):
-    data_path = (
-        Path("data") / date.isoformat() / "enterkomputer" / f"{category.value}.json"
-    )
-    if not data_path.exists():
-        raise FileNotFoundError(f"No data found for {date} and category {category}")
-    data = EnterKomputerResponse.model_validate_json(data_path.read_text())
-    return list(get_all_data(data.result, category))
-
-
 def main():
     token, signature, cookies = get_token_and_cookies()
     headers = {**API_HEADERS, "cookie": cookies}
-    out_dir = Path("data") / date.today().isoformat() / "enterkomputer"
-    out_dir.mkdir(parents=True, exist_ok=True)
     with httpx.Client(headers=headers) as client:
         for category in CATEGORIES:
             data = fetch_simulation(client, category, token, signature)
-            print(f"Category: {category}")
-            for item in data.result:
-                print(f"  Product: {item.p_name}, Price: {item.p_prcz[0]}")
-
-            # save to data/<date>/{category}.json
-            (out_dir / f"{category}.json").write_text(data.model_dump_json(indent=2))
+            if data is not None:
+                save_data_to_json(
+                    ProductCategory(category), "enterkomputer", to_generic_data(data.result)
+                )
 
 
 if __name__ == "__main__":
