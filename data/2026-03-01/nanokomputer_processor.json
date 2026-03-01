@@ -1,0 +1,387 @@
+[
+    {
+        "title": "AMD EPYC 4464P",
+        "price": "9099000",
+        "detail": null
+    },
+    {
+        "title": "AMD Ryzen 3 3200G Desktop Processor",
+        "price": "980000",
+        "detail": "Ryzen 3000 Series, Ryzen 3, 4 Cores 4 Threads, Up to 4 GHz, 4 MB, 65W W, integrated GPU, Socket AMD AM4"
+    },
+    {
+        "title": "AMD Ryzen 5 5500 Desktop Processor",
+        "price": "1609000",
+        "detail": "Ryzen 5000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 4.2 GHz, 16 MB, 65W W, Non-integrated GPU, Socket AMD AM4"
+    },
+    {
+        "title": "AMD Ryzen 5 5500GT Desktop Processor",
+        "price": "2169000",
+        "detail": "Ryzen 5000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 4.4 GHz, 16 MB, 65 W, Integrated GPU, Socket AMD AM4"
+    },
+    {
+        "title": "AMD Ryzen 5 5600 Desktop Processor",
+        "price": "2169000",
+        "detail": "Ryzen 5000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 4.4 GHz, 32 MB, 65W W, Non-integrated GPU, Socket AMD AM4"
+    },
+    {
+        "title": "AMD Ryzen 5 5600G Desktop Processor",
+        "price": "2639000",
+        "detail": "Ryzen 5000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 4.4 GHz, 16 MB, 65 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 5600GT Desktop Processor",
+        "price": "2339000",
+        "detail": "Ryzen 5000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 4.6 GHz, 16 MB, 65 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 7500F Desktop Processor",
+        "price": "2309000",
+        "detail": "Ryzen 7000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 5 GHz, 32 MB, 65W W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 7500X3D Desktop Processor | Ryzen 5 7000 Series AM5",
+        "price": "4239000",
+        "detail": null
+    },
+    {
+        "title": "AMD Ryzen 5 7600 Desktop Processor",
+        "price": "3329000",
+        "detail": null
+    },
+    {
+        "title": "AMD Ryzen 5 7600X Desktop Processor",
+        "price": "3599000",
+        "detail": "Ryzen 7000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 5.3 GHz, 32 MB, 105W, integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 8400F Processor",
+        "price": "2029000",
+        "detail": "Ryzen 8000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 4.7 GHz, 16 MB, 65W W, Non-integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 8500G Desktop Processor",
+        "price": "2739000",
+        "detail": "Ryzen 8000 Series, Ryzen 5, 8 Cores 16 Threads, Up to 5.5 GHz, 32 MB, 65 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 8600G Desktop Processor",
+        "price": "3449000",
+        "detail": "Ryzen 8000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 5 GHz, 16 MB, 65 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 5 9600X Desktop Processor",
+        "price": "3809000",
+        "detail": "Ryzen 9000 Series, Ryzen 5, 6 Cores 12 Threads, Up to 5.4 GHz, 32 MB, 65W W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 5700G Desktop Processor",
+        "price": "3329000",
+        "detail": "Ryzen 5000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 4.6 GHz, 16 MB, 65W W, Integrated GPU, Socket AMD AM4"
+    },
+    {
+        "title": "AMD Ryzen 7 5700X Desktop Processor",
+        "price": "2699000",
+        "detail": "Ryzen 5000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 4.6 GHz, 32 MB, 65W W, Non-integrated GPU, Socket AMD AM4"
+    },
+    {
+        "title": "AMD Ryzen 7 7700X Desktop Processor",
+        "price": "6049000",
+        "detail": "Ryzen 7000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5.4 GHz, 32 MB, 105 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 7800X3D Desktop Processor",
+        "price": "5979000",
+        "detail": "Ryzen 7000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5.0 GHz, 96 MB, 120W W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 8700F Desktop Processor",
+        "price": "3209000",
+        "detail": "Ryzen 8000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5 GHz, 16 MB, 65 W, Not Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 8700G Desktop Processor",
+        "price": "5089000",
+        "detail": "Ryzen 8000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5.1 GHz, 16 MB, 65 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 9700X Desktop Processors",
+        "price": "4899000",
+        "detail": "Ryzen 9000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5.5 GHz, 32 MB, 65 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 9800X3D Desktop Processor",
+        "price": "8119000",
+        "detail": "Ryzen 9000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5.2 GHz, 96 MB, 120 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 7 9850X3D Desktop Processor",
+        "price": "9549000",
+        "detail": "Ryzen 9000 Series, Ryzen 7, 8 Cores 16 Threads, Up to 5.6 GHz, 96 MB, 120 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 9 7900X Desktop Processor",
+        "price": "6959000",
+        "detail": "Ryzen 7000 Series, Ryzen 9, 12 Cores 24 Threads, Up to 5.6 GHz, 64 MB, 170 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 9 9900X Desktop Processor",
+        "price": "7169000",
+        "detail": "Ryzen 9000 Series, Ryzen 9, 12 Cores 24 Threads, Up to 5.6 GHz, 64 MB, 120 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 9 9900X3D Desktop Processor",
+        "price": "11019000",
+        "detail": "Ryzen 9000 Series, Ryzen 9, 12 Cores 24 Threads, Up to 5.5 GHz, 128 MB, 120 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 9 9950X Desktop Processor",
+        "price": "10129000",
+        "detail": "Ryzen 9000 Series, Ryzen 9, 16 Cores 32 Threads, Up to 5.7 GHz, 64 MB, 170 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen 9 9950X3D Desktop Processor",
+        "price": "12159000",
+        "detail": "Ryzen 9000 Series, Ryzen 9, 16 Cores 32 Threads, up to 5.70 GHz, 128 MB, 170 W, Integrated GPU, Socket AMD AM5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper 7970X",
+        "price": "47990000",
+        "detail": "Ryzen Threadripper 7000 Series, Ryzen Threadripper, 32 Cores 64 Threads, Up to 5.3 GHz, 128 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper 7980X",
+        "price": "96690000",
+        "detail": "Ryzen Threadripper 7000 Series, Ryzen Threadripper, 64 Cores 128 Threads, Up to 5.1 GHz, 256 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper 9960X",
+        "price": "27829000",
+        "detail": "Ryzen Threadripper 9000 Series, Ryzen Threadripper, 24 Cores 48 Threads, Up to 5.4 GHz, 128 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper 9970X",
+        "price": "46899000",
+        "detail": "Ryzen Threadripper 9000 Series, Ryzen Threadripper, 32 Cores 64 Threads, Up to 5.4 GHz, 128 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper 9980X",
+        "price": "93719000",
+        "detail": "Ryzen Threadripper 9000 Series, Ryzen Threadripper, 64 Cores 128 Threads, Up to 5.4 GHz, 256 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 7965WX",
+        "price": "50799000",
+        "detail": "Ryzen Threadripper PRO 7000 WX-Series, Ryzen Threadripper PRO, 24 Cores 48 Threads, Up to 5.3 GHz, 128 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 7985WX",
+        "price": "143199000",
+        "detail": "Ryzen Threadripper PRO 7000 WX-Series, Ryzen Threadripper PRO, 64 Cores 128 Threads, Up to 5.1 GHz, 256 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 7995WX",
+        "price": "185900000",
+        "detail": "Ryzen Threadripper PRO 7000 WX-Series, Ryzen Threadripper PRO, 96 Cores 192 Threads, Up to 5.1 GHz, 384 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 9955WX",
+        "price": "30919000",
+        "detail": "Ryzen Threadripper PRO 9000 WX-Series, Ryzen Threadripper PRO, 16 Cores 32 Threads, Up to 5.4 GHz, 64 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 9965WX",
+        "price": "54119000",
+        "detail": "Ryzen Threadripper PRO 9000 WX-Series, Ryzen Threadripper PRO, 24 Cores 48 Threads, Up to 5.4 GHz, 128 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 9975WX",
+        "price": "76799000",
+        "detail": "Ryzen Threadripper PRO 9000 WX-Series, Ryzen Threadripper PRO, 32 Cores 64 Threads, Up to 5.4 GHz, 128 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 9985WX",
+        "price": "153990000",
+        "detail": "Ryzen Threadripper PRO 9000 WX-Series, Ryzen Threadripper PRO, 64 Cores 128 Threads, Up to 5.4 GHz, 256 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "AMD Ryzen Threadripper PRO 9995WX",
+        "price": "219079000",
+        "detail": "Ryzen Threadripper PRO 9000 WX-Series, Ryzen Threadripper PRO, 96 Cores 192 Threads, Up to 5.4 GHz, 384 MB, 350W W, Non-integrated GPU, Socket AMD sTR5"
+    },
+    {
+        "title": "INTEL CORE I3 12100F",
+        "price": "1549000",
+        "detail": "Intel 12th Gen Series, Intel Core i3, 4 Cores 8 Threads, up to 4.30 GHz, 12 MB, 58 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I3 13100F",
+        "price": "1549000",
+        "detail": "Intel 13th Gen Series, Intel Core i3, 4 Cores 8 Threads, up to 4.50 GHz, 12 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i3 14100",
+        "price": "2789000",
+        "detail": "Intel 14th Gen Series, Intel Core i3, 4 Cores 8 Threads, up to 4.7 GHz, 12 MB, 60 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i3 14100F",
+        "price": "1739000",
+        "detail": "Intel 14th Gen Series, Intel Core i3, 4 Cores 8 Threads, up to 4.7 GHz, 12 MB, 58 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5 12400",
+        "price": "3519000",
+        "detail": "Intel 12th Gen Series, Intel Core i5, 6 Cores 12 Threads, up to 4.40 GHz, 18 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5 12400F",
+        "price": "2479000",
+        "detail": "Intel 12th Gen Series, Intel Core i5, 6 Cores 12 Threads, up to 4.40 GHz, 18 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5 12600K",
+        "price": "4049000",
+        "detail": "Intel 12th Gen Series, Intel Core i5, 10 Cores 16 Threads, up to 4.90 GHz, 20 MB, 125 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5 12600KF",
+        "price": "2989000",
+        "detail": "Intel 12th Gen Series, Intel Core i5, 10 Cores 16 Threads, up to 4.90 GHz, 20 MB, 125 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i5 14400",
+        "price": "4129000",
+        "detail": "Intel 14th Gen Series, Intel Core i5, 10 Cores 16 Threads, up to 4.7 GHz, 20 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i5 14400F",
+        "price": "3929000",
+        "detail": "Intel 14th Gen Series, Intel Core i5, 10 Cores 16 Threads, up to 4.7 GHz, 20 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5 14600K",
+        "price": "4719000",
+        "detail": "Intel 14th Gen Series, Intel Core i5, 14 Cores 20 Threads, up to 5.3 GHz, 24 MB, 125 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5 14600KF",
+        "price": "4469000",
+        "detail": "Intel 14th Gen Series, Intel Core i5, 14 Cores 20 Threads, up to 5.3 GHz, 24 MB, 125 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I5-13400F",
+        "price": "3619000",
+        "detail": "Intel 13th Gen Series, Intel Core i5, 10 Cores 16 Threads, up to 4.60 GHz, 20 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i7 14700",
+        "price": "7429000",
+        "detail": "Intel 14th Gen Series, Intel Core i7, 20 Cores 28 Threads, up to 5.4 GHz, 33 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i7 14700F",
+        "price": "6309000",
+        "detail": "Intel 14th Gen Series, Intel Core i7, 20 Cores 28 Threads, up to 5.4 GHz, 33 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I7 14700KF",
+        "price": "6839000",
+        "detail": "Intel 14th Gen Series, Intel Core i7, 20 Cores 28 Threads, up to 5.6 GHz, 33 MB, 125 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL Core i7-12700F Processor",
+        "price": "5189000",
+        "detail": "Intel 12th Gen Series, Intel Core i7, 12 Cores 20 Threads, up to 4.90 GHz, 25 MB Intel Smart Cache, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL Core i7-12700KF Processor",
+        "price": "5259000",
+        "detail": "Intel 12th Gen Series, Intel Core i7, 12 Cores 20 Threads, up to 5.00 GHz, 25 MB Intel Smart Cache, 125 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I9 12900F",
+        "price": "6589000",
+        "detail": "Intel 12th Gen Series, Intel Core i9, 16 Cores 24 Threads, up to 5.10 GHz, 30 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I9 12900K",
+        "price": "7009000",
+        "detail": "Intel 12th Gen Series, Intel Core i9, 16 Cores 24 Threads, up to 5.20 GHz, 30 MB, 125 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I9 12900KF",
+        "price": "6509000",
+        "detail": "Intel 12th Gen Series, Intel Core i9, 16 Cores 24 Threads, up to 5.20 GHz, 30 MB, 125 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I9 13900",
+        "price": "10629000",
+        "detail": "Intel 13th Gen Series, Intel Core i9, 24 Cores 32 Threads, up to 5.60 GHz, 36 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i9 14900",
+        "price": "10629000",
+        "detail": "Intel 14th Gen Series, Intel Core i9, 24 Cores 32 Threads, up to 5.8 GHz, 36 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE i9 14900F",
+        "price": "10169000",
+        "detail": "Intel 14th Gen Series, Intel Core i9, 24 Cores 32 Threads, up to   5.8 GHz, 36 MB, 65 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I9 14900K",
+        "price": "9929000",
+        "detail": "Intel 14th Gen Series, Intel Core i9, 24 Cores 32 Threads, up to 6 GHz, 36 MB, 125 W, Integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE I9 14900KF",
+        "price": "9379000",
+        "detail": "Intel 14th Gen Series, Intel Core i9, 24 Cores 32 Threads, up to 6 GHz, 36 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1700"
+    },
+    {
+        "title": "INTEL CORE Ultra 5 Processor 225",
+        "price": "3099000",
+        "detail": "Intel Ultra Series 2, Ultra 5, 10 Cores 10 Threads, up to 4.9 GHz, 20 MB, 65 W, Integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL CORE Ultra 5 Processor 225F",
+        "price": "3069000",
+        "detail": "Intel Ultra Series 2, Ultra 5, 10 Cores 10 Threads, up to 4.9 GHz, 20 MB, 65 W, Non-integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL CORE Ultra 5 Processor 235",
+        "price": "5219000",
+        "detail": "Intel Ultra Series 2, Ultra 5, 14 Cores 14 Threads, up to 5 GHz, 24 MB, 65 W, Integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL Core Ultra 5 Processor 245K",
+        "price": "4349000",
+        "detail": "Intel Ultra Series 2, Ultra 5, 14 Cores 14 Threads, up to 5.2 GHz, 24 MB, 125 W, Integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL Core Ultra 5 Processor 245KF",
+        "price": "4009000",
+        "detail": "Intel Ultra Series 2, Ultra 5, 14 Cores 14 Threads, up to 5.2 GHz, 24 MB, 125 W, Non-integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL Core Ultra 7 265F",
+        "price": "6579000",
+        "detail": "Intel Ultra Series 2, Ultra 7, 4 Cores 8 Threads, up to 5.3 GHz, 30 MB, 65 W, Integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL Core Ultra 7 Processor 265KF",
+        "price": "5899000",
+        "detail": "Intel Ultra Series 2, Ultra 7, 20 Cores 20 Threads, up to 5.5 GHz, 30 MB, 125 W, Non-integrated GPU, Socket Intel LGA 1200"
+    },
+    {
+        "title": "Intel Core Ultra 9 Processor 285",
+        "price": "11529000",
+        "detail": "Intel Ultra Series 2, Ultra 9, 24 Cores 24 Threads, up to 5.6 GHz, 36 MB, 65 W, Integrated GPU, Socket Intel LGA 1851"
+    },
+    {
+        "title": "INTEL Core Ultra 9 Processor 285K",
+        "price": "12489000",
+        "detail": "Intel Ultra Series 2, Ultra 9, 24 Cores 24 Threads, up to 5.70 GHz, 36 MB Intel Smart Cache, 125 W, Integrated GPU, Socket Intel LGA 1851"
+    }
+]

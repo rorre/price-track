@@ -1,0 +1,622 @@
+[
+    {
+        "title": "1STPLAYER NGDP 1000W ATX 3.1 GOLD",
+        "price": "2199000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "1STPLAYER NGDP 1000W ATX 3.1 Platinum",
+        "price": "2609000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1000W, 80 Plus Platinum, Form Factor ATX, 140 x 150 x 86 mm"
+    },
+    {
+        "title": "1STPLAYER NGDP 1300W ATX 3.1 Platinum",
+        "price": "3189000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1300W, 80 Plus Platinum, Form Factor ATX, 140 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS Prime 650W Bronze",
+        "price": "699000",
+        "detail": "Non Modular PSU, , Input Range 100-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS Prime 750W Gold",
+        "price": "1849000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS Prime 850W Gold",
+        "price": "2259000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS ROG LOKI SFX-L 1200W Titanium",
+        "price": "5099000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1200W, 80 Plus Titanium, Form Factor SFX-L, 125 x 125 x 63.5 mm"
+    },
+    {
+        "title": "ASUS ROG STRIX 1000W Platinum",
+        "price": "3329000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Platinum, Form Factor ATX, 150 x 160 x 86 mm"
+    },
+    {
+        "title": "ASUS ROG STRIX 1200W Platinum",
+        "price": "4259000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1200W, 80 Plus Platinum, Form Factor ATX, 150 x 160 x 86 mm"
+    },
+    {
+        "title": "ASUS ROG STRIX 850W Gold Aura Edition",
+        "price": "3259000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 180 x 86 mm"
+    },
+    {
+        "title": "ASUS ROG Thor 1000W Platinum III",
+        "price": "6719000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Platinum, Form Factor ATX, 150 x 190 x 86 mm"
+    },
+    {
+        "title": "ASUS ROG Thor 1200W Platinum III",
+        "price": "6399000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1200W, 80 Plus Platinum, Form Factor ATX, 150 x 190 x 86 mm"
+    },
+    {
+        "title": "ASUS ROG Thor 1600W Titanium III",
+        "price": "12019000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1600W, 80 Plus Titanium, Form Factor ATX, 150 x 200 x 86 mm"
+    },
+    {
+        "title": "ASUS TUF Gaming 1000W Gold",
+        "price": "2959000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS TUF Gaming 1000W Gold White Edition",
+        "price": "3239000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS TUF Gaming 750W Gold",
+        "price": "2329000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "ASUS TUF Gaming 850W Gold",
+        "price": "2449000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "COOLER MASTER M2000 Platinum",
+        "price": "5899000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 200-240VAC, Total Power 2000W, 80 Plus Platinum, Form Factor ATX, 180 x 150 x 86mm"
+    },
+    {
+        "title": "COOLER MASTER MWE Gold 1250 V2 ATX 3.1",
+        "price": "2919000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1250W, 80 Plus Gold, Form Factor ATX, 180 x 150 x 86mm"
+    },
+    {
+        "title": "COOLER MASTER V850 GOLD - V2 WHITE EDITION",
+        "price": "1599000",
+        "detail": "Fully Modular PSU, ATX 2.52, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 160 x 150 x 86 mm"
+    },
+    {
+        "title": "CORSAIR CX550 (CP-9020277-EU)",
+        "price": "799000",
+        "detail": "Non Modular PSU, ATX 2.31, Input Range 100-240VAC, Total Power 550W, 80 Plus Bronze, Form Factor ATX"
+    },
+    {
+        "title": "CORSAIR CX650 (CP-9020278-EU)",
+        "price": "899000",
+        "detail": "Non Modular PSU, ATX 2.31, Input Range 100-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX"
+    },
+    {
+        "title": "CORSAIR CX750 (CP-9020279-EU)",
+        "price": "999000",
+        "detail": "Non Modular PSU, ATX 2.31, Input Range 100-240VAC, Total Power 750W, 80 Plus Bronze, Form Factor ATX"
+    },
+    {
+        "title": "CORSAIR HX1000i SHIFT (CP-9020265-EU)",
+        "price": "5099000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1000W, Cybenetics Efficiency Platinum, Form Factor ATX, 180 x 150 x 86mm"
+    },
+    {
+        "title": "CORSAIR HX1200i SHIFT (CP-9020267-EU)",
+        "price": "5829000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1200W, Cybenetics Efficiency Platinum, Form Factor ATX, 200 x 150 x 86 mm"
+    },
+    {
+        "title": "CORSAIR RM1000e (CP-9020297-EU)",
+        "price": "3119000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM1000e White (CP-9020294-EU)",
+        "price": "3369000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM1200x White SHIFT (CP-9020276-EU)",
+        "price": "4269000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1200W, Cybenetics Efficiency Gold, Form Factor ATX"
+    },
+    {
+        "title": "CORSAIR RM650e (CP-9020302-EU)",
+        "price": "1349000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 650W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM750e (CP-9020295-EU)",
+        "price": "1899000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM750e White (CP-9020292-EU)",
+        "price": "2099000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM750x White SHIFT (CP-9020273-EU)",
+        "price": "2499000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 750W, Cybenetics Efficiency Gold, Form Factor ATX"
+    },
+    {
+        "title": "CORSAIR RM850e (CP-9020296-EU)",
+        "price": "2369000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM850e White (CP-9020293-EU)",
+        "price": "2519000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, Cybenetics Efficiency Gold, Form Factor ATX, Dimensions 140x150x86 mm"
+    },
+    {
+        "title": "CORSAIR RM850X (CP-9020270-EU)",
+        "price": "2399000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 160 x 150 x 86 mm"
+    },
+    {
+        "title": "CORSAIR SF1000 (CP-9020257-EU)",
+        "price": "4199000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, Cybenetics Efficiency Platinum, Form Factor SFX"
+    },
+    {
+        "title": "CORSAIR SF750 (CP-9020284-EU)",
+        "price": "2999000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, Cybenetics Efficiency Platinum, Form Factor SFX"
+    },
+    {
+        "title": "CORSAIR SF850 (CP-9020256-EU)",
+        "price": "3399000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, Cybenetics Efficiency Platinum, Form Factor SFX"
+    },
+    {
+        "title": "DARKFLASH EMT 650W",
+        "price": "589000",
+        "detail": null
+    },
+    {
+        "title": "DARKFLASH EMT 750W",
+        "price": "649000",
+        "detail": null
+    },
+    {
+        "title": "DARKFLASH EMT 850W",
+        "price": "729000",
+        "detail": null
+    },
+    {
+        "title": "DARKFLASH PMT 1050W",
+        "price": "1749000",
+        "detail": null
+    },
+    {
+        "title": "DARKFLASH PMT 1250W",
+        "price": "1939000",
+        "detail": null
+    },
+    {
+        "title": "DARKFLASH PMT 750W",
+        "price": "1059000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "DARKFLASH PMT 850W",
+        "price": "1249000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "EZDIY-FAB 16AWG PCI-e 5.0 12VHPWR Male to Male PSU Sleeved Cable",
+        "price": "149000",
+        "detail": "16AWG PCI-e 5.0 12VHPWR PSU Sleeved Cable, 600W 12+4 Pin Male to 12+4 Pin Male Cable for RTX 3090Ti/4070Ti/4080/4090, 60cm/23.62in"
+    },
+    {
+        "title": "EZDIY-FAB 16AWG PCIe 5.0 12VHPWR Male to Female GPU Power Sleeved Cable",
+        "price": "119000",
+        "detail": "16pin (12+4) 12VHPWR PCIe 5.0 GPU Power Sleeved Cable Extension, Male to Female, Compatible with RTX 5080, 5070, 4090, 4080, 4070,16AWG with Cable Combs"
+    },
+    {
+        "title": "EZDIY-FAB 16AWG PCIe 5.0 12VHPWR Male to Female Power Supply Cable Extension",
+        "price": "299000",
+        "detail": "12VHPWR PSU Cable Extension Kit for RTX 50/40 Series,16AWG PCIE 5.0 Power Supply Cable Extension- 1x 24 Pin ATX /2X 8Pin (4+4) EPS / 1x12+4 Pin GPU,Sleeve Cable 300MM with Combs"
+    },
+    {
+        "title": "EZDIY-FAB 16AWG PCIe 5.0 12VHPWR Male to Male PSU Cable Extension",
+        "price": "299000",
+        "detail": "16AWG, PET Sleeves, cable comb inside package 24Pin*1/12VHPWR Male to Male*1/EPS 4+4Pin*2"
+    },
+    {
+        "title": "EZDIY-FAB 16AWG PSU Cable Extension 6 Cables V2",
+        "price": "269000",
+        "detail": "PSU Cable Extension Kit,16AWG Power Supply Extension Cable,1x24Pin/2x4+4 EPS/3x6+2 PCI-E,Custom PC Sleeve Cable 300MM with Combs"
+    },
+    {
+        "title": "FRACTAL DESIGN Ion 3 Gold 1000W",
+        "price": "2799000",
+        "detail": "Fully Modular PSU, ATX12V 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "FRACTAL DESIGN Ion 3 Gold 750W",
+        "price": "2099000",
+        "detail": "Fully Modular PSU, ATX12V 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "FRACTAL DESIGN Ion 3 Gold 850W",
+        "price": "2399000",
+        "detail": "Fully Modular PSU, ATX12V 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "FSP DAGGER PRO 650W",
+        "price": "1549000",
+        "detail": "Fully Modular PSU, Input Range 100-240VAC, Total Power 650W, 80 Plus Gold, Form Factor SFX, 100 x 125 x 63.5 mm"
+    },
+    {
+        "title": "FSP Dagger PRO 850W ATX 3.1",
+        "price": "1999000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 650W, 80 Plus Gold, Form Factor SFX, 100 x 125 x 63.5 mm"
+    },
+    {
+        "title": "FSP Dagger PRO 850W ATX 3.1 White",
+        "price": "217900",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 650W, 80 Plus Gold, Form Factor SFX, 100 x 125 x 63.5 mm"
+    },
+    {
+        "title": "FSP Hydro PTM PRO 1350W ATX3.1",
+        "price": "3729000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1350W, 80 Plus Platinum, Form Factor ATX, 150 x 180 x 86 mm"
+    },
+    {
+        "title": "FSP Hydro PTM PRO 1650W ATX3.1",
+        "price": "4449000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1650W, 80 Plus Platinum, Form Factor ATX, 150 x 180 x 86 mm"
+    },
+    {
+        "title": "FSP VIC GD 650W",
+        "price": "819000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 650W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VIC GD 750W",
+        "price": "949000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA BD 550W",
+        "price": "679000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 200-240VAC, Total Power 550W, 80 Plus Bronze, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA BD 650W",
+        "price": "719000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 200-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GD 650W",
+        "price": "989000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 650W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GM 1000W",
+        "price": "1799000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GM 1000W White",
+        "price": "2329000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GM 750W",
+        "price": "1509000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GM 750W White",
+        "price": "1699000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GM 850W",
+        "price": "1759000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "FSP VITA GM 850W White",
+        "price": "1799000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "GALAX OMEGA GL650S",
+        "price": "599000",
+        "detail": "Non Modular PSU, ATX 2.51, Input Range 100-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX, 140 x 150 x 86 mm"
+    },
+    {
+        "title": "GALAX OMEGA GLX850",
+        "price": "1459000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "GIGABYTE P650SS",
+        "price": "649000",
+        "detail": "Non Modular PSU, ATX 3.0, Input Range 155-240VAC, Total Power 650W, 80 Plus Silver, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "LIAN LI RB 550B",
+        "price": "739000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 550W, 80 Plus Bronze, Form Factor ATX, 150 x 86 x 150 mm"
+    },
+    {
+        "title": "LIAN LI RB 650B",
+        "price": "859000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX, 150 x 86 x 150 mm"
+    },
+    {
+        "title": "LIAN LI SP1000P",
+        "price": "3019000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Platinum, Form Factor SFX, 125 x 64 x 100 mm"
+    },
+    {
+        "title": "LIAN LI SP850P",
+        "price": "2689000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Platinum, Form Factor SFX, 125 x 64 x 100 mm"
+    },
+    {
+        "title": "MONTECH BETA 550 BRONZE",
+        "price": "689000",
+        "detail": "Non Modular PSU, ATX12V, Input Range100-240VAC, Total Power 550W, 80 Plus Bronze, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH BETA 650 BRONZE",
+        "price": "739000",
+        "detail": "Non Modular PSU, ATX12V, Input Range100-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH CENTURY 650W GOLD",
+        "price": "1379000",
+        "detail": "Fully Modular PSU, ATX12V, Input Range100-240VAC, Total Power 650W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH CENTURY 850W GOLD",
+        "price": "1449000",
+        "detail": "Fully Modular PSU, ATX12V, Input Range100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH CENTURY G5 750W",
+        "price": "1359000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH CENTURY G5 850W",
+        "price": "1449000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH CENTURY II 850W",
+        "price": "1679000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "MONTECH TITAN PLA 1000W",
+        "price": "3419000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1000W, Cybenetics Efficiency 80 Plus Platinum, Form Factor ATX, 160 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH TITAN PLA 1200W",
+        "price": "3879000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1200W, Cybenetics Efficiency 80 Plus Platinum, Form Factor ATX, 160 x 150 x 86mm"
+    },
+    {
+        "title": "MONTECH TITAN PLA 850W",
+        "price": "2969000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 850W, Cybenetics Efficiency 80 Plus Platinum, Form Factor ATX, 160 x 150 x 86mm"
+    },
+    {
+        "title": "MSI MAG A1000GL PCIE5",
+        "price": "2229000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86mm"
+    },
+    {
+        "title": "MSI MAG A1000GLS PCIE5",
+        "price": "2279000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1000W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A1250GL PCIE5",
+        "price": "3169000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1250W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A550BN",
+        "price": "649000",
+        "detail": "Non Modular PSU, ATX 2.4, Input Range 100-240VAC, Total Power 605W, 80 Plus Bronze, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "MSI MAG A650BN",
+        "price": "699000",
+        "detail": "Non Modular PSU, Input Range 100-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A650BNL White",
+        "price": "859000",
+        "detail": "Non Modular PSU, Input Range110-240VAC, Total Power 650W, 80 Plus Bronze, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A650GL",
+        "price": "1389000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range100-240VAC, Total Power 650W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A650GLS PCIE5",
+        "price": "1339000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 650W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A750BN PCIE5",
+        "price": "799000",
+        "detail": "Non Modular PSU, ATX 3.0, Input Range100-240VAC, Total Power 750W, 80 Plus Bronze, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A750BN PCIE5 III",
+        "price": "849000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Bronze, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "MSI MAG A750GL PCIE5",
+        "price": "1629000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 750W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A750GLS PCIE5",
+        "price": "1329000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 750W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A850GL PCIE5",
+        "price": "1619000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 850W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A850GL PCIE5 WHITE",
+        "price": "1799000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 850W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MAG A850GLS PCIE5",
+        "price": "1859000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 850W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MEG Ai1300P PCIE5",
+        "price": "4499000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1300W, Cybenetics Efficiency 80 Plus Platinum, Form Factor ATX"
+    },
+    {
+        "title": "MSI MEG Ai1600T PCIE5",
+        "price": "8359000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1600W, Cybenetics Efficiency 80 Plus Platinum, Form Factor ATX"
+    },
+    {
+        "title": "MSI MPG A1000GS PCIE5",
+        "price": "2569000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1000W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "MSI MPG A1250GS PCIE5",
+        "price": "3259000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range100-240VAC, Total Power 1250W, Cybenetics Efficiency 80 Plus Gold, Form Factor ATX,"
+    },
+    {
+        "title": "NZXT C1000 Gold ATX 3.1",
+        "price": "2779000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 160 x 86 mm"
+    },
+    {
+        "title": "NZXT C1000 Gold Core",
+        "price": "2249000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "NZXT C1200 Gold ATX 3.1",
+        "price": "2989000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1200W, 80 Plus Gold, Form Factor ATX, 150 x 160 x 86 mm"
+    },
+    {
+        "title": "NZXT C1500 Platinum ATX 3.1",
+        "price": "5219000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1500W, 80 Plus Platinum, Form Factor ATX, 150 x 180 x 86 mm"
+    },
+    {
+        "title": "NZXT C750 Bronze",
+        "price": "919000",
+        "detail": "Non Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Bronze, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "NZXT C750 Bronze (2023)",
+        "price": "879000",
+        "detail": "Non Modular PSU, ATX 2.53, Input Range 100-240VAC, Total Power 750W, 80 Plus Bronze, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "NZXT C750 Gold Core",
+        "price": "1599000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Gold, Form Factor ATX, 150 x 150 x 86 mm"
+    },
+    {
+        "title": "NZXT C850 Gold ATX 3.1",
+        "price": "2319000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Gold, Form Factor ATX, 150 x 160 x 86 mm"
+    },
+    {
+        "title": "OCYPUS Delta P750",
+        "price": "729000",
+        "detail": null
+    },
+    {
+        "title": "OCYPUS Gamma P550",
+        "price": "469000",
+        "detail": null
+    },
+    {
+        "title": "OCYPUS Gamma P650",
+        "price": "519000",
+        "detail": null
+    },
+    {
+        "title": "PARADOX GAMING LEGEND 750W",
+        "price": "539000",
+        "detail": "Fully Modular PSU, ATX 3.0, Input Range 230VAC, Total Power 750W, 80 Plus Bronze, Form Factor ATX, 150 x 140 x 86 mm"
+    },
+    {
+        "title": "PCCOOLER KN650",
+        "price": "759000",
+        "detail": null
+    },
+    {
+        "title": "PCCOOLER KN750",
+        "price": "929000",
+        "detail": null
+    },
+    {
+        "title": "PCCOOLER KN850",
+        "price": "1189000",
+        "detail": null
+    },
+    {
+        "title": "PHANTEKS AMP GH 1000W",
+        "price": "1999000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1000W, 80 Plus Platinum, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "PHANTEKS AMP GH 1200W",
+        "price": "2499000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 1200W, 80 Plus Platinum, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "PHANTEKS AMP GH 750W",
+        "price": "1439000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 750W, 80 Plus Platinum, Form Factor ATX, 140 x 150 x 86mm"
+    },
+    {
+        "title": "PHANTEKS AMP GH 850W",
+        "price": "1659000",
+        "detail": "Fully Modular PSU, ATX 3.1, Input Range 100-240VAC, Total Power 850W, 80 Plus Platinum, Form Factor ATX, 140 x 150 x 86mm"
+    }
+]

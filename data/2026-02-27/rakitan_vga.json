@@ -1,0 +1,2787 @@
+[
+    {
+        "title": "Afox GeForce GT 240 1GB DDR3",
+        "price": "260000",
+        "detail": null
+    },
+    {
+        "title": "Afox GeForce GTX 1050 Ti 4GB GDDR5 128 Bit",
+        "price": "1820000",
+        "detail": null
+    },
+    {
+        "title": "Afox Geforce GTX 1660 TI 6GB GDDR6",
+        "price": "2765000",
+        "detail": null
+    },
+    {
+        "title": "Afox GeForce GTX 750 TI 4GB DDR5 128Bit",
+        "price": "1010000",
+        "detail": null
+    },
+    {
+        "title": "Afox Radeon HD 7670 2GB DDR3 128 Bit DVI HDMI ATX SINGLE FAN",
+        "price": "490000",
+        "detail": null
+    },
+    {
+        "title": "AFOX Radeon RX 580 8GB GDDR5 2048SP Edition",
+        "price": "1790000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel ARC A380 6GB GDDR6 - Challenger ITX 6GB OC",
+        "price": "2510000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel ARC A380 6GB GDDR6 - Low Profile 6GB",
+        "price": "2125000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel ARC A750 8GB GDDR6 - Challenger D 8GB OC",
+        "price": "3900000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel ARC B570 10GB GDDR6 - Challenger 10GB OC",
+        "price": "4366000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel ARC B580 12GB GDDR6 - Challenger 12GB OC",
+        "price": "5386000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel ARC B580 12GB GDDR6 - Steel Legend 12GB OC",
+        "price": "5695000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Intel Arc Pro B60 24GB GDDR6 Creator",
+        "price": "12325000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon AI PRO R9700 32GB GDDR6 Creator",
+        "price": "27335000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 550 4GB GDDR5 - Low Profile 4G",
+        "price": "1330000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 550 4GB GDDR5 - Phantom Gaming 4G",
+        "price": "1235000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 6500 XT 4GB - Phantom Gaming D 4G OC",
+        "price": "2480000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 6750 XT 12GB DDR6 - Challenger Pro 12G OC",
+        "price": "6550000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 7600 8GB GDDR6 - Challenger 8G OC",
+        "price": "5185000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 7600 8GB GDDR6 - Steel Legend 8G OC",
+        "price": "5305000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 7700 XT 12GB GDDR6 - Phantom Gaming 12G OC",
+        "price": "6745000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 7700 XT 12GB GDDR6 - Steel Legend 12G OC",
+        "price": "7180000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 7800 XT 16GB GDDR6 - Challenger 16G OC",
+        "price": "9150000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 7900 XTX 24GB GDDR6 - Phantom Gaming 24G OC",
+        "price": "16780000",
+        "detail": null
+    },
+    {
+        "title": "Asrock Radeon RX 7900 XTX Taichi White 24GB OC",
+        "price": "18360000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9060 XT 16GB GDDR6 Challenger OC",
+        "price": "8656000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9060 XT 16GB GDDR6 Steel Legend OC",
+        "price": "8956000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9060 XT 8GB GDDR6 Challenger OC",
+        "price": "5440000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9060 XT 8GB GDDR6 Steel Legend OC",
+        "price": "5835000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 16GB GDDR6 Challenger",
+        "price": "12425000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 16GB GDDR6 Steel Legend OC",
+        "price": "12525000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 XT 16GB GDDR6 Challenger",
+        "price": "13515000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 XT 16GB GDDR6 Monster Hunter Wilds Edition",
+        "price": "13925000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 XT 16GB GDDR6 Steel Legend",
+        "price": "13925000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 XT 16GB GDDR6 Steel Legend Dark",
+        "price": "13925000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Radeon RX 9070 XT 16GB GDDR6 Taichi OC",
+        "price": "14740000",
+        "detail": null
+    },
+    {
+        "title": "Asrock Radeon RX 9070 XT Taichi White 16GB OC",
+        "price": "15351000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce GT 1030 2GB Silent GDDR5 - GT1030-SL-2G-BRK",
+        "price": "1290000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce GT 710 2GB DDR5 EVO - GT710-SL-2GD5-BRK-EVO",
+        "price": "810000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce GT 730 Silent 2GB DDR5 64 Bit - GT730-SL-2GD5-BRK",
+        "price": "750000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce GTX 1650 4GB DDR6-P EVO - Dual OC Edition (DUAL-GTX1650-O4GD6-P-EVO)",
+        "price": "3009000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce GTX 1650 OC 4GB DDR6-P - Dual-V2 Edition (DUAL-GTX1650-O4GD6-P-V2)",
+        "price": "3050000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 3050 6GB GDDR6 - Dual OC Edition (DUAL-RTX3050-O6G)",
+        "price": "4125000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 3050 6GB GDDR6 - Low Profile OC Edition (RTX3050-O6G-LP-BRK)",
+        "price": "2975000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 3050 OC 8GB GDDR6 - Dual V2 (DUAL-RTX3050-O8G-V2)",
+        "price": "4700000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 3060 OC 12GB GDDR6 - Dual V2 (DUAL-RTX3060-O12G-V2)",
+        "price": "4865000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4060 Ti 8GB GDDR6 - PRIME OC Edition (PRIME-RTX4060TI-O8G)",
+        "price": "7070000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4060 Ti 8GB GDDR6 - ROG Strix OC Edition (ROG-STRIX-RTX4060TI-O8G-GAMING)",
+        "price": "8470000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 12GB GDDR6 - Dual EVO OC Edition (DUAL-RTX4070-O12GD6-EVO)",
+        "price": "10300000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 12GB GDDR6X - Dual EVO OC Edition (DUAL-RTX4070-O12G-EVO)",
+        "price": "10200000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 12GB GDDR6X - Dual OC Edition (DUAL-RTX4070-O12G)",
+        "price": "10085000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 12GB GDDR6X - PRIME OC Edition (PRIME-RTX4070-O12G)",
+        "price": "10310000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 12GB GDDR6X - ProArt OC Edition (PROART-RTX4070-O12G)",
+        "price": "10470000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 OC 12GB GDDR6X - Dual White (DUAL-RTX4070-O12G-WHITE)",
+        "price": "9996000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 SUPER 12GB GDDR6X - Dual OC Edition ( DUAL-RTX4070S-O12G )",
+        "price": "11300000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 SUPER 12GB GDDR6X - Dual OC White Edition ( DUAL-RTX4070S-O12G-WHITE )",
+        "price": "11300000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 SUPER 12GB GDDR6X - ProArt OC Edition ( PROART-RTX4070S-O12G )",
+        "price": "13329000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 SUPER 12GB GDDR6X - ROG Strix OC Edition ( ROG-STRIX-RTX4070S-O12G-GAMING )",
+        "price": "14499000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 4070 SUPER 12GB GDDR6X - TUF Gaming OC Edition  ( TUF-RTX4070S-O12G-GAMING )",
+        "price": "13050000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5050 8GB GDDR6 Dual OC Edition (DUAL-RTX5050-O8G)",
+        "price": "4890000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5050 8GB GDDR6 PRIME OC Edition (PRIME-RTX5050-O8G)",
+        "price": "5160000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 8GB GDDR7 Dual OC Edition (DUAL-RTX5060-O8G)",
+        "price": "6920000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 8GB GDDR7 Dual White OC Edition (DUAL-RTX5060-O8G-WHITE)",
+        "price": "7075000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 8GB GDDR7 PRIME OC Edition (PRIME-RTX5060-O8G)",
+        "price": "6690000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 8GB GDDR7 TUF Gaming OC Edition (TUF-RTX5060-O8G-GAMING)",
+        "price": "7370000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 16GB GDDR7 Dual OC Edition (DUAL-RTX5060TI-O16G)",
+        "price": "11250000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 16GB GDDR7 Dual White OC Edition - DUAL-RTX5060TI-O16G-WHITE",
+        "price": "8535000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 16GB GDDR7 PRIME (PRIME-RTX5060TI-16G)",
+        "price": "9445000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 16GB GDDR7 PRIME OC Edition (PRIME-RTX5060TI-O16G)",
+        "price": "9487000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 16GB GDDR7 TUF Gaming OC Edition (TUF-RTX5060TI-O16G-GAMING)",
+        "price": "10360000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 8GB GDDR7 Dual OC Edition - DUAL-RTX5060TI-O8G",
+        "price": "7525000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 8GB GDDR7 PRIME (PRIME-RTX5060TI-8G)",
+        "price": "7670000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 8GB GDDR7 PRIME OC Edition (PRIME-RTX5060TI-O8G)",
+        "price": "7755000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5060 Ti 8GB GDDR7 TUF Gaming OC Edition (TUF-RTX5060TI-O8G-GAMING)",
+        "price": "8110000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 12GB GDDR7 - PRIME Edition (PRIME-RTX5070-12G)",
+        "price": "11850000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 12GB GDDR7 - TUF Gaming OC Edition (TUF-RTX5070-O12G-GAMING)",
+        "price": "13400000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 12GB GDDR7 Dual OC Edition - DUAL-RTX5070-O12G",
+        "price": "10145000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 12GB GDDR7 PRIME OC Edition (PRIME-RTX5070-O12G)",
+        "price": "12850000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 12GB GDDR7 PRIME White OC Edition - PRIME-RTX5070-O12G-WHITE",
+        "price": "12095000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 12GB GDDR7 ROG Strix OC Edition (ROG-STRIX-RTX5070-O12G-GAMING)",
+        "price": "13970000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 TI 16GB GDDR7 - PRIME Edition - PRIME-RTX5070TI-16G",
+        "price": "19000000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 TI 16GB GDDR7 - PRIME OC Edition - PRIME-RTX5070TI-O16G",
+        "price": "19500000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 TI 16GB GDDR7 - TUF Gaming OC Edition - TUF-RTX5070TI-O16G-GAMING",
+        "price": "18199000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 Ti 16GB GDDR7 ROG Strix OC Edition - ROG-STRIX-RTX5070TI-O16G-GAMING",
+        "price": "19725000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 Ti 16GB GDDR7 TUF Gaming White OC Edition - TUF-RTX5070TI-O16G-WHITE-GAMING",
+        "price": "18555000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5070 Ti 16GB ProArt OC Edition GDDR7 - PROART-RTX5070TI-O16G",
+        "price": "17890000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5080 16GB GDDR7 - PRIME Edition (PRIME-RTX5080-16G)",
+        "price": "20620000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5080 16GB GDDR7 - PRIME OC Edition (PRIME-RTX5080-O16G)",
+        "price": "21430000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5080 16GB GDDR7 - ROG Astral OC Edition (ROG-ASTRAL-RTX5080-O16G-GAMING)",
+        "price": "31000000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5080 16GB GDDR7 - TUF Gaming OC Edition (TUF-RTX5080-O16G-GAMING)",
+        "price": "24975000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5080 16GB Noctua OC Edition GDDR7 - RTX5080-O16G-NOCTUA",
+        "price": "27560000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5080 16GB ProArt OC Edition GDDR7 - PROART-RTX5080-O16G",
+        "price": "27150000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5090 32GB GDDR7 - ROG Astral LC OC Edition (ROG-ASTRAL-LC-RTX5090-O32G-GAMING)",
+        "price": "59345000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5090 32GB GDDR7 - ROG Astral OC Edition (ROG-ASTRAL-RTX5090-O32G-GAMING)",
+        "price": "55825000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5090 32GB GDDR7 - TUF Gaming Edition (TUF-RTX5090-32G-GAMING)",
+        "price": "42800000",
+        "detail": null
+    },
+    {
+        "title": "Asus GeForce RTX 5090 32GB GDDR7 - TUF Gaming OC Edition (TUF-RTX5090-O32G-GAMING)",
+        "price": "50500000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 7600 8GB GDDR6 Dual EVO OC Edition - DUAL-RX7600-O8G-EVO",
+        "price": "4300000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 7600 8GB GDDR6 Dual-V2 OC Edition - DUAL-RX7600-O8G-V2",
+        "price": "4345000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 7800 XT 16GB GDDR6 Dual OC Edition - DUAL-RX7800XT-O16G",
+        "price": "8925000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 7800 XT 16GB GDDR6 TUF Gaming OC - TUF-RX7800XT-O16G-GAMING",
+        "price": "9770000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 7900 XT 20GB GDDR6 TUF Gaming OC Edition - TUF-RX7900XT-O20G-GAMING",
+        "price": "15030000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9060 XT 16GB GDDR6 Dual - DUAL-RX9060XT-16G",
+        "price": "7575000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9060 XT 16GB GDDR6 Dual White - DUAL-RX9060XT-16G-WHITE",
+        "price": "7675000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9060 XT 16GB GDDR6 PRIME OC Edition - PRIME-RX9060XT-O16G",
+        "price": "7610000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9060 XT 16GB GDDR6 TUF Gaming OC Edition - TUF-RX9060XT-O16G-GAMING",
+        "price": "7985000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9060 XT 8GB GDDR6 Dual OC Edition - DUAL-RX9060XT-8G",
+        "price": "5800000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9060 XT 8GB GDDR6 PRIME OC Edition - PRIME-RX9060XT-O8G",
+        "price": "5870000",
+        "detail": null
+    },
+    {
+        "title": "Asus Radeon RX 9070 XT 16GB GDDR6 PRIME OC Edition",
+        "price": "13620000",
+        "detail": null
+    },
+    {
+        "title": "Biostar GeForce GT 1030 4GB DDR4",
+        "price": "950000",
+        "detail": null
+    },
+    {
+        "title": "Biostar Radeon RX 550 4GB 128Bit DDR5",
+        "price": "1023000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce GT 1030 2GB V3-V DDR5",
+        "price": "1250000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce GT 1030 2GB V5-V DDR5",
+        "price": "1250000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce GT 1030 4GB DDR4 - 4G-V",
+        "price": "1820000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce GT 710 2Gb DDR3",
+        "price": "675000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 3050 8GB GDDR6 NB DUO V2-V",
+        "price": "4775000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 3060 12GB GDDR6 NB DUO 12G V2 L-V",
+        "price": "4500000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 3060 12GB GDDR6 NB DUO 12G V4 L-V",
+        "price": "5645000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 4060 8GB GDDR6 NB DUO 8GB V5-V",
+        "price": "5201000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5050 8GB GDDR6 Battle AX DUO 8GB-V",
+        "price": "5590000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5060 8GB GDDR7 Battle AX DUO 8GB-V",
+        "price": "6520000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5060 8GB GDDR7 GAMING DUO 8GB-V",
+        "price": "6520000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5060 Ti 16GB GDDR7 Battle AX DUO 16GB-V",
+        "price": "11285000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5060 Ti 16GB GDDR7 Gaming DUO 16GB-V",
+        "price": "11285000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5060 Ti 16GB GDDR7 NB DUO 16GB-V",
+        "price": "8000000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5060 Ti 8GB GDDR7 NB DUO 8GB-V",
+        "price": "7950000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5070 12GB GDDR7 Gaming 12GB-V",
+        "price": "12100000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5070 12GB GDDR7 NB EX 12GB-V",
+        "price": "12100000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5070 Ti 16GB GDDR7 Battle AX 16GB-V",
+        "price": "18975000",
+        "detail": null
+    },
+    {
+        "title": "Colorful GeForce RTX 5070 Ti 16GB GDDR7 NB EX 16GB-V",
+        "price": "18975000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 3050 8GB GDDR6 Ultra W DUO OC V2-V",
+        "price": "4980000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5050 8GB GDDR6 Ultra W DUO OC 8GB-V",
+        "price": "5845000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5060 8GB GDDR7 Ultra W DUO OC 8GB-V",
+        "price": "6875000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5060 8GB GDDR7 Ultra W OC 8GB-V",
+        "price": "7130000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5060 Ti 16GB GDDR7 Ultra W DUO OC 16GB-V",
+        "price": "11795000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5060 Ti 8GB GDDR7 Ultra W DUO OC 8GB-V",
+        "price": "8150000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5060 Ti 8GB GDDR7 Ultra W OC 8GB-V",
+        "price": "8415000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5070 12GB GDDR7 Ultra W OC 12GB-V",
+        "price": "12567000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5070 12GB GDDR7 Vulcan OC 12GB-V",
+        "price": "14875000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5070 Ti 16GB GDDR7 Vulcan OC 16GB-V",
+        "price": "17435000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5070 Ti Ultra W OC 16GB-V",
+        "price": "19482000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5080 16GB GDDR7 Advanced OC 16GB-V",
+        "price": "24605000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5080 16GB GDDR7 Neptune OC 16GB-V",
+        "price": "26145000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5080 16GB GDDR7 Ultra W OC 16GB-V",
+        "price": "23585000",
+        "detail": null
+    },
+    {
+        "title": "Colorful iGame GeForce RTX 5080 Vulcan OC 16GB-V",
+        "price": "26655000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce GT 1030 4GB DDR4 64BIT",
+        "price": "1150000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce GT 610 2gb 64bit DDR3",
+        "price": "420000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce GT 730 4GB DDR3 128 Bit",
+        "price": "595000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce GT 740 4GB DDR3 128 Bit",
+        "price": "650000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce GTX 1050 4GB GDDR5 128BIT",
+        "price": "1480000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce gtx 1660 super 6Gb gddr6 192bit - Dual Fan",
+        "price": "2910000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce GTX 750 Ti 4GB DDR5",
+        "price": "1200000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance GeForce RTX 2060 6GB DDR6 OC 192Bit DVI HDMI DP",
+        "price": "3115000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 3050 Pegasus 6GB GDDR6",
+        "price": "3010000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5050 8GB GDDR6 - Ghost",
+        "price": "4650000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5050 8GB GDDR6 - Pegasus",
+        "price": "4335000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5060 8GB GDDR7 - Ghost",
+        "price": "5645000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5060 Ti 16GB GDDR7 - Ghost OC",
+        "price": "8190000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5060 Ti 8GB GDDR7 - Ghost",
+        "price": "6735000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5060 Ti Python III 16GB GDDR7",
+        "price": "8550000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5060 Ti Python III OC 16GB GDDR7",
+        "price": "9800000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5070 12GB GDDR7 - Python III",
+        "price": "10150000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5070 Ti 16GB GDDR7 - Phoenix-S",
+        "price": "14645000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5080 16GB GDDR7 - Phoenix",
+        "price": "19000000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5080 Phantom 16GB GDDR7",
+        "price": "19950000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5090 32GB GDDR7 - Phantom",
+        "price": "40300000",
+        "detail": null
+    },
+    {
+        "title": "Gainward GeForce RTX 5090 32GB GDDR7 - Phantom GS",
+        "price": "40905000",
+        "detail": null
+    },
+    {
+        "title": "GALAX Geforce GT 1030 2GB DDR5",
+        "price": "1280000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce GT 710 2GB DDR3 64BIT",
+        "price": "575000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce GT 730 4GB DDR3",
+        "price": "710000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 3050 6GB GDDR6 EX (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+        "price": "3800000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 3060 12GB GDDR6 (1-Click OC) - DUAL FAN",
+        "price": "5550000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5050 8GB GDDR6 (1-Click OC) - Lighting EFFECT - DUAL FAN - Garansi 3 Thn",
+        "price": "4845000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 8GB GDDR7 (1-Click OC) - DUAL FAN - Garansi 3 Thn",
+        "price": "6040000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 8GB GDDR7 (1-Click OC) WHITE - DUAL FAN - Garansi 3 Thn",
+        "price": "6215000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 8GB GDDR7 EX (1-Click OC) - ARGB LIGHTING OVERHAUL - DUAL FAN - Garansi 3 Thn",
+        "price": "7050000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 8GB GDDR7 EX (1-Click OC) WHITE EDITION - ARGB LIGHTING OVERHAUL - DUAL FAN - Garansi 3 Thn",
+        "price": "6250000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 Ti 16GB GDDR7 (1-Click OC) - Lighting EFFECT - DUAL FAN - Garansi 3 Thn",
+        "price": "9070000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 Ti 8GB GDDR7 (1-Click OC) - Lighting EFFECT - DUAL FAN - Garansi 3 Thn",
+        "price": "7500000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 Ti 8GB GDDR7 (1-Click OC) WHITE EDITION - Lighting EFFECT - DUAL FAN - Garansi 3 Thn",
+        "price": "7950000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 Ti 8GB GDDR7 EX (1-Click OC) - ARGB LIGHTING OVERHAUL - DUAL FAN - Garansi 3 Thn",
+        "price": "8150000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5060 Ti 8GB GDDR7 EX (1-Click OC) WHITE EDITION - ARGB LIGHTING OVERHAUL - DUAL FAN - Garansi 3 Thn",
+        "price": "8250000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5070 12GB GDDR7 (1-Click OC) - Lighting EFFECT - DUAL FAN - Garansi 3 Thn",
+        "price": "10965000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5070 Ti 16GB GDDR7 (1-Click OC) - ARGB LIGHTING OVERHAUL - TRIPLE FAN - Garansi 3 Thn",
+        "price": "16200000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5070 Ti 16GB GDDR7 EX GAMER (1-Click OC) WHITE EDITION - ARGB LIGHTING OVERHAUL - TRIPLE FAN - Garansi 3 Thn",
+        "price": "16749000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5070 Ti 16GB GDDR7 HOF WHITE EDITION - ARGB EFFECT - TRIPLE FAN - Garansi 3 Thn",
+        "price": "17500000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5080 16GB GDDR7 (1-Click OC) - ARGB LIGHTING OVERHAUL - TRIPLE FAN - Garansi 3 Thn",
+        "price": "19100000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5080 16GB GDDR7 HOF BLACK EDITION - ARGB EFFECT - TRIPLE FAN with HOF Extreme Cooling - Garansi 3 Thn",
+        "price": "24175000",
+        "detail": null
+    },
+    {
+        "title": "GALAX GeForce RTX 5080 16GB GDDR7 WHITE (1-Click OC) - ARGB LIGHTING OVERHAUL - TRIPLE FAN - Garansi 3 Thn",
+        "price": "22800000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Geforce GT 1030 2GB DDR4 - GV-N1030D4-2GL",
+        "price": "1130000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce GT 1030 2GB DDR5 - GV-N1030D5-2GL",
+        "price": "980000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce GT 710 2048MB DDR3 - GV-N710D3-2GL",
+        "price": "550000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce GT 710 2048MB DDR5 - GV-N710D5-2GIL",
+        "price": "540000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 6GB GDDR6 Low Profile - GV-N3050OC-6GL",
+        "price": "3265000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 6GB GDDR6 Windforce OC - GV-N3050WF2OC-6GD",
+        "price": "2980000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 6GB GDDR6 Windforce OC V2 - GV-N3050WF2OCV2-6GD",
+        "price": "3890000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 6GB GDDR6 Windforce V2 - GV-N3050WF2V2-6GD",
+        "price": "3735000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 8GB GDDR6 Eagle OC - GV-N3050EAGLE OC-8GD",
+        "price": "3840000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 8GB GDDR6 Windforce OC V2 - GV-N3050WF2OCV2-8GD",
+        "price": "4850000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 3050 8GB GDDR6 Windforce V2 - GV-N3050WF2V2-8GD",
+        "price": "4690000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 AERO OC - GV-N4060AERO OC-8GD",
+        "price": "6015000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 Aorus Elite - GV-N4060AORUS E-8GD",
+        "price": "6430000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 Eagle OC - GV-N4060EAGLE OC-8GD",
+        "price": "5470000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 Eagle OC ICE - GV-N4060EAGLEOC ICE-8GD",
+        "price": "5685000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 Gaming OC - GV-N4060GAMING OC-8GD",
+        "price": "5815000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 OC Low Profile - GV-N4060OC-8GL",
+        "price": "6150000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 8GB GDDR6 Windforce OC - GV-N4060WF2OC-8GD",
+        "price": "5310000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 Ti 16GB GDDR6 AERO OC - GV-N406TAERO OC-16GD",
+        "price": "9025000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 Ti 16GB GDDR6 Gaming OC - GV-N406TGAMING OC-16GD",
+        "price": "8765000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 AERO OC - GV-N406TAERO OC-8GD",
+        "price": "7530000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Aorus Elite - GV-N406TAORUS E-8GD",
+        "price": "8715000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Eagle OC - GV-N406TEAGLE OC-8GD",
+        "price": "7150000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 4060 Ti 8GB GDDR6 Gaming OC - GV-N406TGAMING OC-8GD",
+        "price": "6860000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5050 8GB GDDR6 Gaming OC - GV-N5050GAMING OC-8GD",
+        "price": "5953000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5050 8GB GDDR6 OC Low Profile - GV-N5050OC-8GL",
+        "price": "5630000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5050 8GB GDDR6 WindForce OC - GV-N5050WF2OC-8GD",
+        "price": "5725000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 Aero OC - GV-N5060AERO OC-8GD",
+        "price": "6650000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 Aorus Elite - GV-N5060AORUS E-8GD",
+        "price": "6845000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 Eagle OC - GV-N5060EAGLE OC-8GD",
+        "price": "6770000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 Eagle OC ICE - GV-N5060EAGLEOC ICE-8GD",
+        "price": "6265000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 Gaming OC - GV-N5060GAMING OC-8GD",
+        "price": "6260000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 OC Low Profile - GV-N5060OC-8GL",
+        "price": "6115000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 WindForce - GV-N5060WF2-8GD",
+        "price": "6650000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 WindForce Max OC - GV-N5060WF2MAX OC-8GD",
+        "price": "6890000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 8GB GDDR7 WindForce OC - GV-N5060WF2OC-8GD",
+        "price": "6850000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 Aero OC - GV-N506TAERO OC-16GD",
+        "price": "9550000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 Aorus Elite - GV-N506TAORUS E-16GD",
+        "price": "9925000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 Eagle OC - GV-N506TEAGLE OC-16GD",
+        "price": "8890000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 Eagle OC ICE - GV-N506TEAGLEOC ICE-16GD",
+        "price": "12250000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 Gaming OC - GV-N506TGAMING OC-16GD",
+        "price": "9340000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 WindForce - GV-N506TWF2-16GD",
+        "price": "11250000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 16GB GDDR7 WindForce OC - GV-N506TWF2OC-16GD",
+        "price": "8458000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 8GB GDDR7 Aero OC - GV-N506TAERO OC-8GD",
+        "price": "8790000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 8GB GDDR7 Eagle OC - GV-N506TEAGLE OC-8GD",
+        "price": "8142000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 8GB GDDR7 Eagle OC ICE - GV-N506TEAGLEOC ICE-8GD",
+        "price": "8450000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 8GB GDDR7 Gaming OC - GV-N506TGAMING OC-8GD",
+        "price": "8342000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 8GB GDDR7 WindForce - GV-N506TWF2-8GD",
+        "price": "7844000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5060 Ti 8GB GDDR7 WindForce OC - GV-N506TWF2OC-8GD",
+        "price": "7900000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 12GB GDDR7 Aorus Master - GV-N5070AORUS M-12GD",
+        "price": "14015000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 12GB GDDR7 Eagle OC ICE SFF - GV-N5070EAGLEOC ICE-12GD",
+        "price": "11959000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 12GB GDDR7 Eagle OC SFF - GV-N5070EAGLE OC-12GD",
+        "price": "13190000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 12GB GDDR7 Gaming OC - GV-N5070GAMING OC-12GD",
+        "price": "13187000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 12GB GDDR7 Windforce OC SFF - GV-N5070WF3OC-12GD",
+        "price": "12550000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 12GB GDDR7 WindForce SFF - GV-N5070WF3-12GD",
+        "price": "10520000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 Aero OC - GV-N507TAERO OC-16GD",
+        "price": "18740000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 Aorus Master - GV-N507TAORUS M-16GD",
+        "price": "20890000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 Eagle OC ICE SFF - GV-N507TEAGLEOC ICE-16GD",
+        "price": "16945000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 Eagle OC SFF - GV-N507TEAGLE OC-16GD",
+        "price": "17450000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 Gaming OC - GV-N507TGAMING OC-16GD",
+        "price": "18250000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 WindForce OC SFF - GV-N507TWF3OC-16GD",
+        "price": "15470000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5070 Ti 16GB GDDR7 WindForce SFF - GV-N507TWF3-16GD",
+        "price": "15050000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5080 16GB GDDR7 Aero OC SFF - GV-N5080AERO OC-16GD",
+        "price": "25665000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5080 16GB GDDR7 Aorus Master - GV-N5080AORUS M-16GD",
+        "price": "26460000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5080 16GB GDDR7 Aorus Master ICE - GV-N5080AORUSM ICE-16GD",
+        "price": "28050000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5080 16GB GDDR7 Aorus Xtreme WaterForce - GV-N5080AORUSX W-16GD",
+        "price": "28815000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5080 16GB GDDR7 Gaming OC - GV-N5080GAMING OC-16GD",
+        "price": "26550000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5080 16GB GDDR7 WindForce OC SFF - GV-N5080WF3OC-16GD",
+        "price": "20390000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 Aorus Master - GV-N5090AORUS M-32GD",
+        "price": "55650000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 Aorus Master Ice - GV-N5090AORUSM ICE-32GD",
+        "price": "52150000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 Aorus Xtreme WaterForce - GV-N5090AORUSX W-32GD",
+        "price": "57805000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 Aorus Xtreme WaterForce WaterBlock - GV-N5090AORUSX WB-32GD",
+        "price": "58090000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 Gaming OC - GV-N5090GAMING OC-32GD",
+        "price": "53590000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 WindForce - GV-N5090WF3-32GD",
+        "price": "42850000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GeForce RTX 5090 32GB GDDR7 WindForce OC - GV-N5090WF3OC-32GD",
+        "price": "44950000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Intel ARC A380 6GB GDDR6 Windforce OC",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7600 8GB GDDR6 Gaming OC - GV-R76GAMING OC-8GD",
+        "price": "5850000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7800 XT 16GB GDDR6 Gaming OC - GV-R78XTGAMING OC-16GD",
+        "price": "8945000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7900 GRE 16GB GDDR6 Gaming OC - GV-R79GREGAMING OC-16GD",
+        "price": "10130000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7900 XT 20GB GDDR6 Gaming OC - GV-R79XTGAMING OC-20GD",
+        "price": "16983000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7900 XTX 24GB GDDR6 - GV-R79XTX-24GC-B",
+        "price": "18455000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7900 XTX 24GB GDDR6 Aorus Elite - GV-R79XTXAORUS E-24GD",
+        "price": "19815000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 7900 XTX 24GB GDDR6 Gaming OC - GV-R79XTXGAMING OC-24GD",
+        "price": "19455000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9060 XT 16GB GDDR6 Gaming OC - GV-R9060XTGAMING OC-16GD",
+        "price": "8950000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9060 XT 8GB GDDR6 Gaming - GV-R9060XTGAMING-8GD",
+        "price": "6950000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9060 XT 8GB GDDR6 Gaming OC - GV-R9060XTGAMING OC-8GD",
+        "price": "6790000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9070 16GB GDDR6 GAMING OC - GV-R9070GAMING OC-16GD",
+        "price": "12610000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9070 XT 16GB GDDR6 Aorus Elite - GV-R9070XTAORUS E-16GD",
+        "price": "13795000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9070 XT 16GB GDDR6 Gaming - GV-R9070XTGAMING-16GD",
+        "price": "12549000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Radeon RX 9070 XT 16GB GDDR6 GAMING OC - GV-R9070XTGAMING OC-16GD",
+        "price": "14150000",
+        "detail": null
+    },
+    {
+        "title": "Hose GeForce GT 610 2GB ddr3 LP",
+        "price": "300000",
+        "detail": null
+    },
+    {
+        "title": "Hose GeForce GTX 750 2GB DDR5",
+        "price": "1085000",
+        "detail": null
+    },
+    {
+        "title": "Hose GeForce GTX 750 TI 4GB DDR5",
+        "price": "1110000",
+        "detail": null
+    },
+    {
+        "title": "Hose Radeon R7 240 2GB ddr5",
+        "price": "850000",
+        "detail": null
+    },
+    {
+        "title": "Hose Radeon R7 240 4GB ddr3",
+        "price": "825000",
+        "detail": null
+    },
+    {
+        "title": "Hose Radeon R7 240 4GB ddr5",
+        "price": "825000",
+        "detail": null
+    },
+    {
+        "title": "Hose Radeon R7 350 2GB ddr5",
+        "price": "1000000",
+        "detail": null
+    },
+    {
+        "title": "Hose Radeon R7 350 4GB ddr5",
+        "price": "1150000",
+        "detail": null
+    },
+    {
+        "title": "Hose Radeon RX 550 4GB ddr5 - RX550-4GD5",
+        "price": "1030000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 3050 6GB GDDR6 TWIN X2 V2 - DUAL FAN",
+        "price": "3210000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 3050 8GB GDDR6 Twin X2",
+        "price": "3490000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 3060 12GB GDDR6 Twin X2 Dual Fan",
+        "price": "4575000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 5050 8GB GDDR6 TWIN X2 - Dual Fan",
+        "price": "4650000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 5060 8GB GDDR7 TWIN X2 OC - DUAL FAN",
+        "price": "7010000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 5060 Ti 16GB GDDR7 TWIN X2 OC - DUAL FAN - Garansi 3 Thn",
+        "price": "10650000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 5060 Ti 16GB GDDR7 TWIN X2 OC WHITE - DUAL FAN - Garansi 3 Thn",
+        "price": "8150000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 5070 Ti 16GB GDDR7 X3 - Enormous Cooler with TRIPLE FAN - Garansi 3 Thn",
+        "price": "15540000",
+        "detail": null
+    },
+    {
+        "title": "Inno 3D GeForce RTX 5080 16GB GDDR7 X3 - Enormous Cooler with TRIPLE FAN - Garansi 3 Thn",
+        "price": "21570000",
+        "detail": null
+    },
+    {
+        "title": "Inno3D GeForce RTX 5070 Ti 16GB GDDR7 X3 OC - Enormous Cooler with TRIPLE FAN - Garansi 3 Thn",
+        "price": "16800000",
+        "detail": null
+    },
+    {
+        "title": "Intel Arc A750 Limited Edition 8GB GDDR6",
+        "price": "3900000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek NVIDIA DGX Spark Founders Edition AI Performance",
+        "price": "95500000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX 4000 ADA Gen 20GB GDDR6",
+        "price": "27685000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX 4000 SFF ADA Gen 20GB GDDR6",
+        "price": "28150000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX 5000 ADA Gen 32GB GDDR6",
+        "price": "91290000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX 6000 Ada Gen 48GB GDDR6",
+        "price": "164500000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX A1000 8GB GDDR6",
+        "price": "8550000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX A2000 12GB GDDR6",
+        "price": "13100000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX A400 4GB GDDR6",
+        "price": "4365000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX A5000 24GB GDDR6",
+        "price": "45390000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX PRO 6000 96GB GDDR7 Blackwell Max-Q Workstation Edition",
+        "price": "217150000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro RTX PRO 6000 96GB GDDR7 Blackwell Workstation Edition",
+        "price": "209500000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro Sync II Card for LED Wall Virtual Production",
+        "price": "16050000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro T1000 4GB GDDR6",
+        "price": "6395000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro T1000 8GB GDDR6",
+        "price": "8120000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek Quadro T400 4GB GDDR6",
+        "price": "2820000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek RTX PRO 2000 Blackwell 16GB GDDR7",
+        "price": "16590000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek RTX PRO 4000 Blackwell 24GB GDDR7",
+        "price": "34320000",
+        "detail": null
+    },
+    {
+        "title": "Leadtek RTX PRO 5000 Blackwell 48GB GDDR7",
+        "price": "100800000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 3050 6GB GDDR6 - Nebula Dual Fan",
+        "price": "3585000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 3060 12GB DDR6 192Bit LHR",
+        "price": "4305000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5050 8GB GDDR6 Nebula Dual Fan",
+        "price": "4641000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5050 8GB GDDR6 Polar Fox OC Dual Fan",
+        "price": "4680000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 8GB GDDR7 - Nebula Dual Fan",
+        "price": "6350000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 8GB GDDR7 - Nebula OC Dual Fan",
+        "price": "6250000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 8GB GDDR7 Polar Fox OC Dual Fan",
+        "price": "6500000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 Ti 16GB GDDR7 - Nebula Dual Fan",
+        "price": "10090000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 Ti 8GB GDDR7 - Nebula Dual Fan",
+        "price": "8650000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 Ti OC 16GB GDDR7 - Polar Fox White",
+        "price": "8005000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5060 Ti OC 8GB GDDR7 - Polar Fox White",
+        "price": "6855000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5070 12GB GDDR7 - Nebula Triple Fan",
+        "price": "12640000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5070 12GB GDDR7 - Polar Fox OC Triple Fan",
+        "price": "9895000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5070 Ti 16GB GDDR7 Nebula Triple Fan",
+        "price": "13922000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5070 Ti 16GB GDDR7 Polar Fox OC Triple Fan",
+        "price": "14215000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5080 16GB GDDR7 - Gallardo OC",
+        "price": "24276000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5080 16GB GDDR7 - Polar Fox OC",
+        "price": "17951000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5080 16GB GDDR7 - Stellar OC",
+        "price": "19380000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5090 32GB GDDR7 - Gallardo OC",
+        "price": "42750000",
+        "detail": null
+    },
+    {
+        "title": "Manli GeForce RTX 5090 32GB GDDR7 - Stellar OC",
+        "price": "40600000",
+        "detail": null
+    },
+    {
+        "title": "Midasforce GeForce G210 1GB DDR3 64BIT",
+        "price": "315000",
+        "detail": null
+    },
+    {
+        "title": "Midasforce GeForce GT 730 4GB DDR3 128BIT",
+        "price": "630000",
+        "detail": null
+    },
+    {
+        "title": "Midasforce GeForce GT610 2GB DDR3 64BIT",
+        "price": "350000",
+        "detail": null
+    },
+    {
+        "title": "Midasforce GeForce GTX 1050 Ti 4GB DDR5",
+        "price": "2150000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce GT 1030 4GB DDR4 - AERO ITX 4GD4 OC",
+        "price": "1960000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce GT 710 2GB DDR3 - N710-2GD3H LP",
+        "price": "1088000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce GTX 1650 4GB GDDR6 - Ventus XS OC V3",
+        "price": "2700000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 3050 6GB GDDR6 - Ventus 2X E OC",
+        "price": "4050000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 3050 6GB GDDR6 - Ventus 2X OC",
+        "price": "3600000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 3050 8GB - Ventus 2X XS 8G OC",
+        "price": "5010000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 3060 12GB GDDR6 - Ventus 2X OC",
+        "price": "5450000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 8GB GDDR6 - Gaming X 8G",
+        "price": "5790000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 8GB GDDR6 - Gaming X 8G MLG EDITION",
+        "price": "6020000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 8GB GDDR6 - Gaming X NV EDITION 8G",
+        "price": "5865000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 8GB GDDR6 - Ventus 2X BLACK 8G OC",
+        "price": "5750000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 8GB GDDR6 - Ventus 2X WHITE 8G OC",
+        "price": "5910000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 Ti 16GB GDDR6 - Gaming X Slim 16G",
+        "price": "8980000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Gaming X 8G",
+        "price": "7345000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Ventus 2X BLACK 8G OC",
+        "price": "7480000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 4060 Ti 8GB GDDR6 - Ventus 3X E 8G OC",
+        "price": "7550000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5050 8GB GDDR6 - Gaming OC",
+        "price": "6055000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5050 8GB GDDR6 - Shadow 2X OC",
+        "price": "5795000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5050 8GB GDDR6 - Ventus 2X OC",
+        "price": "5895000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Gaming OC",
+        "price": "7345000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Gaming TRIO OC",
+        "price": "7640000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Gaming TRIO OC White",
+        "price": "7750000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Inspire 2X OC",
+        "price": "7030000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Shadow 2X OC",
+        "price": "6800000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Ventus 2X OC",
+        "price": "6900000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Ventus 2X OC White",
+        "price": "7010000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 8GB GDDR7 - Ventus 3X OC",
+        "price": "7130000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Gaming OC",
+        "price": "9100000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Gaming TRIO OC",
+        "price": "12250000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Gaming TRIO OC White",
+        "price": "12250000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Inspire 2X OC",
+        "price": "8955000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Shadow 2X OC Plus",
+        "price": "12200000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Vanguard SOC",
+        "price": "10205000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Ventus 2X OC PLUS",
+        "price": "12200000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Ventus 2X PLUS",
+        "price": "8215000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 16GB GDDR7 - Ventus 3X OC",
+        "price": "12200000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Gaming OC",
+        "price": "8990000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Gaming TRIO OC",
+        "price": "9108000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Gaming TRIO OC White",
+        "price": "9207000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Inspire 2X OC",
+        "price": "8670000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Shadow 2X OC Plus",
+        "price": "8290000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Ventus 2X OC PLUS",
+        "price": "8420000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Ventus 2X OC White PLUS",
+        "price": "8517000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Ventus 2X PLUS",
+        "price": "8290000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5060 Ti 8GB GDDR7 - Ventus 3X OC",
+        "price": "8590000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Gaming TRIO OC",
+        "price": "13667000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Gaming TRIO OC White",
+        "price": "13885000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Inspire 3X OC",
+        "price": "13145000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Shadow 2X OC",
+        "price": "12490000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Shadow 3X OC",
+        "price": "12850000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Vanguard SOC",
+        "price": "14277000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Vanguard SOC Launch Edition",
+        "price": "13650000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Ventus 2X OC",
+        "price": "12590000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Ventus 2X OC White",
+        "price": "12850000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 12GB GDDR7 - Ventus 3X OC",
+        "price": "13050000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Expert OC",
+        "price": "19380000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Gaming TRIO OC",
+        "price": "19350000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Gaming TRIO OC PLUS",
+        "price": "19377000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Gaming TRIO OC White",
+        "price": "19545000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Inspire 3X OC",
+        "price": "19350000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Shadow 3X OC",
+        "price": "19350000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Vanguard SOC",
+        "price": "18820000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Vanguard SOC Launch Edition",
+        "price": "19135000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Ventus 3X OC",
+        "price": "19325000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5070 Ti 16GB GDDR7 - Ventus 3X PZ OC",
+        "price": "18860000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Expert OC",
+        "price": "27540000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Gaming TRIO OC",
+        "price": "27275000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Gaming TRIO OC White",
+        "price": "27470000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Inspire 3X OC",
+        "price": "26300000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Shadow 3X OC",
+        "price": "26050000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Suprim Liquid SOC",
+        "price": "25415000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Suprim SOC",
+        "price": "26860000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Vanguard SOC",
+        "price": "25355000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Vanguard SOC Launch Edition",
+        "price": "25355000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Ventus 3X OC",
+        "price": "22290000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Ventus 3X OC PLUS",
+        "price": "26110000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5080 16GB GDDR7 - Ventus 3X OC White",
+        "price": "26300000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 - Gaming TRIO OC",
+        "price": "56599000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 - Suprim Liquid SOC",
+        "price": "61538000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 - Suprim SOC",
+        "price": "59990000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 - Vanguard SOC",
+        "price": "52675000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 - Vanguard SOC Launch Edition",
+        "price": "52095000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 - Ventus 3X OC",
+        "price": "56490000",
+        "detail": null
+    },
+    {
+        "title": "MSI GeForce RTX 5090 32GB GDDR7 Lightning Z",
+        "price": "101885000",
+        "detail": null
+    },
+    {
+        "title": "Neo Forza GeForce GT 710 4GB DDR3",
+        "price": "610000",
+        "detail": null
+    },
+    {
+        "title": "Neo Forza GeForce RTX 3080 10GB GDDR6X LHRGD6",
+        "price": "9570000",
+        "detail": null
+    },
+    {
+        "title": "nVidia Quadro Sync Card II",
+        "price": "16320000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 3050 6GB GDDR6 StormX",
+        "price": "3680000",
+        "detail": null
+    },
+    {
+        "title": "PALIT GeForce RTX 3050 Dual 8GB GDDR6 128Bit",
+        "price": "4000000",
+        "detail": null
+    },
+    {
+        "title": "PALIT GeForce RTX 3060 Dual 12GB GDDR6 192bit",
+        "price": "4655000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 4060 8GB GDDR6 Infinity 2",
+        "price": "5095000",
+        "detail": null
+    },
+    {
+        "title": "PALIT GeForce RTX 4070 12GB Dual GDDR6X",
+        "price": "9265000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 4070 SUPER 12GB GDDR6X Dual",
+        "price": "10620000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5050 8GB GDDR6 Dual",
+        "price": "4950000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5050 8GB GDDR6 StormX",
+        "price": "4750000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 8GB GDDR7 Dual",
+        "price": "5392000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 8GB GDDR7 Infinity 2 OC",
+        "price": "6690000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 8GB GDDR7 White OC",
+        "price": "6850000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 Ti 16GB GDDR7 Infinity 3",
+        "price": "10390000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 Ti 16GB GDDR7 Infinity 3 OC",
+        "price": "10725000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 Ti 16GB GDDR7 White OC",
+        "price": "8290000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 Ti 8GB GDDR7 Dual",
+        "price": "7830000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5060 Ti 8GB GDDR7 White OC",
+        "price": "8020000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5070 12GB GDDR7 GamingPro",
+        "price": "13350000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5070 12GB GDDR7 Infinity 3",
+        "price": "12190000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5070 Ti 16GB GDDR7 GameRock",
+        "price": "14215000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5070 Ti 16GB GDDR7 GamingPro",
+        "price": "14129000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5070 Ti 16GB GDDR7 GamingPro-S",
+        "price": "14450000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5080 16GB GDDR7 GameRock",
+        "price": "23030000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5080 16GB GDDR7 GamingPro",
+        "price": "20720000",
+        "detail": null
+    },
+    {
+        "title": "Palit GeForce RTX 5090 32GB GDDR7 GameRock",
+        "price": "58990000",
+        "detail": null
+    },
+    {
+        "title": "PNY Geforce RTX 3050 6GB GDDR6 VERTO Dual Fan",
+        "price": "3264000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 4060 8GB GDDR6 VERTO Dual Fan",
+        "price": "5285000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 4060 8GB GDDR6 XLR8 Gaming VERTO OC White Dual Fan - VCG40608DFWXPB1",
+        "price": "5355000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 4060 8GB XLR8 Gaming VERTO EPIC-X RGB Triple Fan",
+        "price": "5510000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 4070 SUPER 12GB GDDR6X VERTO OC Dual Fan - VCG4070S12DFXPB1-O",
+        "price": "9700000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 4070 SUPER 12GB GDDR6X XLR8 Gaming VERTO EPIC-X RGB OC Triple Fan - VCG4070S12TFXXPB1-O",
+        "price": "10305000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 4070 Ti 12GB GDDR6X XLR8 Gaming VERTO EPIC-X RGB OC Triple Fan",
+        "price": "12750000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5050 8GB GDDR6 Dual Fan",
+        "price": "5250000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5060 8GB GDDR7 ARGB EPIC-X RGB OC Triple Fan",
+        "price": "6345000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5060 8GB GDDR7 OC Dual Fan",
+        "price": "5940000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5060 Ti 16GB GDDR7 Dual Fan",
+        "price": "9690000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5060 Ti 16GB GDDR7 OC Dual Fan",
+        "price": "10098000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5060 Ti 8GB GDDR7 OC Dual Fan",
+        "price": "7650000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5070 12GB GDDR7 ARGB EPIC-X RGB OC Triple Fan - VCG507012TFXXPB1-O",
+        "price": "10890000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5070 12GB GDDR7 Triple Fan - VCG507012TFXPB1",
+        "price": "11220000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5080 16GB GDDR7 ARGB EPIC-X RGB OC Triple Fan",
+        "price": "24075000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5080 16GB GDDR7 OC Triple Fan",
+        "price": "23770000",
+        "detail": null
+    },
+    {
+        "title": "PNY GeForce RTX 5090 32GB GDDR7 ARGB EPIC-X RGB OC Triple Fan",
+        "price": "60486000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon R7 240 2GB DDR5",
+        "price": "475000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon R7 250 2GB DDR3 128 Bit",
+        "price": "485000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9060 XT 16GB GDDR6 Hellhound",
+        "price": "8365000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9060 XT 16GB GDDR6 Reaper",
+        "price": "7950000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9060 XT 8GB GDDR6 Hellhound",
+        "price": "8450000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9070 16GB GDDR6 Reaper",
+        "price": "10506000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9070 GRE 12GB GDDR6 Hellhound",
+        "price": "9435000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9070 GRE 12GB GDDR6 Reaper",
+        "price": "9160000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9070 XT 16GB GDDR6 Hellhound OC",
+        "price": "13260000",
+        "detail": null
+    },
+    {
+        "title": "PowerColor Radeon RX 9070 XT 16GB GDDR6 Hellhound Spectral White",
+        "price": "14485000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty GeForce GT 610 2GB DDR3 64BIT",
+        "price": "425000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty GeForce GT 730 4GB DDR3 128BIT",
+        "price": "575000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty GeForce GTX 1660 TI 6GB DDR6",
+        "price": "3000000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty GeForce GTX 750 TI 4GB DDR5 128BIT",
+        "price": "1130000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty Radeon RX 580 8GB DDR5 256Bit",
+        "price": "1480000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon AI Pro R9700 32GB GDDR6 Lite",
+        "price": "27870000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon Pro W7800 48GB GDDR6 Lite",
+        "price": "36590000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 6400 4GB DDR6 Pulse",
+        "price": "2150000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7600 8GB GDDR6 Pulse Gaming OC",
+        "price": "5540000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7600 XT 16GB GDDR6 Pulse Gaming OC",
+        "price": "6740000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7700 XT 12GB GDDR6 NITRO+ Gaming OC",
+        "price": "7840000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7700 XT 12GB GDDR6 Pulse Gaming",
+        "price": "6945000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7700 XT 12GB GDDR6 PURE FROSTPUNK 2 Limited Edition",
+        "price": "7490000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7700 XT 12GB GDDR6 Pure Gaming OC",
+        "price": "7300000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7800 XT 16GB GDDR6 Nitro+ Gaming OC",
+        "price": "9490000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7800 XT 16GB GDDR6 Pulse Gaming",
+        "price": "8690000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7800 XT 16GB GDDR6 Pure Gaming OC",
+        "price": "8900000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7900 XT 20GB GDDR6 NITRO+ Gaming OC Vapor-X",
+        "price": "14280000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7900 XT 20GB GDDR6 PULSE Gaming OC",
+        "price": "13280000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7900 XTX 24GB GDDR6 NITRO+ Gaming OC Vapor-X",
+        "price": "20950000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 7900 XTX 24GB GDDR6 PULSE",
+        "price": "19370000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9060 XT 16GB GDDR6 Gaming OC - NITRO+ TRIPLE FAN - Garansi 2 Thn",
+        "price": "9255000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9060 XT 16GB GDDR6 Gaming OC - PULSE DUAL FAN - Garansi 2 Thn",
+        "price": "8630000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9060 XT 16GB GDDR6 Gaming OC - PURE DUAL FAN - Garansi 2 Thn",
+        "price": "9060000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9060 XT 8GB GDDR6 Gaming OC - PULSE DUAL FAN - Garansi 2 Thn",
+        "price": "5750000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9070 16GB GDDR6 Gaming - PULSE DUAL FAN - Garansi 2 Thn",
+        "price": "12700000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9070 16GB GDDR6 Gaming OC - NITRO+ TRIPLE FAN - Garansi 2 Thn",
+        "price": "13710000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9070 16GB GDDR6 Gaming OC - PURE TRIPLE FAN - Garansi 2 Thn",
+        "price": "13100000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9070 XT 16GB GDDR6 Gaming - PULSE TRIPLE FAN - Garansi 2 Thn",
+        "price": "14130000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9070 XT 16GB GDDR6 Gaming OC - NITRO+ TRIPLE FAN - Garansi 2 Thn",
+        "price": "15670000",
+        "detail": null
+    },
+    {
+        "title": "Sapphire Radeon RX 9070 XT 16GB GDDR6 Gaming OC - PURE TRIPLE FAN - Garansi 2 Thn",
+        "price": "14580000",
+        "detail": null
+    },
+    {
+        "title": "Venom RX GeForce GT 610 2GB DDR3",
+        "price": "500000",
+        "detail": null
+    },
+    {
+        "title": "Venom RX GeForce GT 730 2GB DDR3",
+        "price": "535000",
+        "detail": null
+    },
+    {
+        "title": "Venom RX GeForce GT 730 4GB DDR3",
+        "price": "700000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX GeForce GTX 1660 SUPER 6GB GDDR6",
+        "price": "3150000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX GeForce GTX 750 Ti 4GB DDR5",
+        "price": "1175000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX GT 740 4GB DDR3",
+        "price": "580000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX Radeon RX 580 8GB DDR5",
+        "price": "2015000",
+        "detail": null
+    },
+    {
+        "title": "Vurrion GeForce GT 610 2GB DDR3",
+        "price": "280000",
+        "detail": null
+    },
+    {
+        "title": "Vurrion GeForce GT 710 2GB DDR3",
+        "price": "575000",
+        "detail": null
+    },
+    {
+        "title": "Vurrion GeForce GT 730 4gb DDR3 64Bit",
+        "price": "520000",
+        "detail": null
+    },
+    {
+        "title": "Vurrion GeForce GT 740 LP 2GB DDR3 128 Bit",
+        "price": "500000",
+        "detail": null
+    },
+    {
+        "title": "Vurrion Radeon RX 550 4GB DDR5 128Bit",
+        "price": "1700000",
+        "detail": null
+    },
+    {
+        "title": "Vurrion Radeon RX 550 ART PRO 4GB DDR5 128Bit",
+        "price": "1320000",
+        "detail": null
+    },
+    {
+        "title": "XFX Radeon RX 580 8GB DDR5 GTS XXX OC+ Dual Fan - RX-580P8DFD6",
+        "price": "1836000",
+        "detail": null
+    },
+    {
+        "title": "Yeston Radeon RX 6800 16GB GDDR6 PB Triple Fan",
+        "price": "8109000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 3050 6GB GDDR6 LP - Dual Fan",
+        "price": "3115000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 3050 6GB GDDR6 Solo",
+        "price": "3010000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 3050 6GB GDDR6 Twin Edge OC",
+        "price": "2799000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 3050 8GB GDDR6 Eco Solo",
+        "price": "3800000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 4060 8GB GDDR6 Twin Edge OC White",
+        "price": "5510000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 4060 Ti 8GB GDDR6 Twin Edge",
+        "price": "5650000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 4060 Ti 8GB GDDR6 Twin Edge OC White",
+        "price": "5920000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5050 8GB GDDR6 Twin Edge OC",
+        "price": "4467000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 8GB GDDR7 AMP",
+        "price": "5508000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 8GB GDDR7 SOLO",
+        "price": "5450000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 8GB GDDR7 Twin Edge OC",
+        "price": "6500000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 8GB GDDR7 Twin Edge OC White",
+        "price": "5560000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 Ti 16GB GDDR7 Twin Edge",
+        "price": "7595000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 Ti 16GB GDDR7 Twin Edge OC",
+        "price": "7790000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 Ti 16GB GDDR7 Twin Edge OC White",
+        "price": "8160000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 Ti 8GB GDDR7 Twin Edge",
+        "price": "6669000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5060 Ti 8GB GDDR7 Twin Edge OC",
+        "price": "6630000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 12GB GDDR7 AMP White",
+        "price": "10100000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 12GB GDDR7 Solid",
+        "price": "10050000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 12GB GDDR7 Solid OC",
+        "price": "10150000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 12GB GDDR7 Twin Edge OC",
+        "price": "9995000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 Ti 16GB GDDR7 AMP Extreme Infinity",
+        "price": "15530000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 Ti 16GB GDDR7 Solid Core OC",
+        "price": "15100000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 Ti 16GB GDDR7 Solid OC",
+        "price": "14995000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5070 Ti 16GB GDDR7 SOLID SFF OC",
+        "price": "17150000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5080 16GB GDDR7 AMP Extreme Infinity",
+        "price": "20400000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5080 16GB GDDR7 SOLID CORE OC",
+        "price": "19300000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5080 16GB GDDR7 Solid OC",
+        "price": "19559000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5080 16GB GDDR7 SOLID OC White",
+        "price": "19890000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5090 32GB GDDR7 AMP Extreme INFINITY",
+        "price": "49190000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5090 32GB GDDR7 SOLID OC",
+        "price": "43655000",
+        "detail": null
+    },
+    {
+        "title": "Zotac GeForce RTX 5090 32GB GDDR7 SOLID OC White",
+        "price": "43350000",
+        "detail": null
+    }
+]

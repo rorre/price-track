@@ -1,0 +1,2887 @@
+[
+    {
+        "title": "ADATA SU800 256GB SATA III ( R/W  Up to 560 / 520MB/s )",
+        "price": "895000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SU800 512GB SATA III ( R/W  Up to 560 / 520MB/s )",
+        "price": "1359000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SA510 SATA SSD 250GB SATA III - R 555MB/s W 440MB/s",
+        "price": "1190000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SA510 SATA SSD 500GB SATA III - R 560MB/s W 510MB/s",
+        "price": "2225000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SA510 SSD SATA 1TB SATA III - R 560MB/s W 520MB/s",
+        "price": "4140000",
+        "detail": null
+    },
+    {
+        "title": "Kingston SSD Now SA400 SA400S37/240G SATA3",
+        "price": "1120000",
+        "detail": null
+    },
+    {
+        "title": "WD My Passport SSD 1TB USB 3.2 Gen 2",
+        "price": "2320000",
+        "detail": null
+    },
+    {
+        "title": "WD My Passport SSD 2TB USB 3.2 Gen 2",
+        "price": "3590000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk SSD Ultra 3D 1TB",
+        "price": "2015000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk SSD Ultra 3D 500GB",
+        "price": "1530000",
+        "detail": null
+    },
+    {
+        "title": "Team MS30 M.2 2280 SATA SSD 1TB - TM8PS7001T0C101 - R 530MB/s & W 480MB/s",
+        "price": "1950000",
+        "detail": null
+    },
+    {
+        "title": "Team MS30 M.2 2280 SATA SSD 512GB - TM8PS7512G0C101 - R 530MB/s & W 430MB/s",
+        "price": "1120000",
+        "detail": null
+    },
+    {
+        "title": "Team MS30 M.2 2280 SATA SSD 256GB - TM8PS7256G0C101 - R 500MB/s & W 400MB/s",
+        "price": "800000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 230S 128GB SSD 2.5 SATA3",
+        "price": "690000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 230S 512GB SSD 2.5 SATA3",
+        "price": "2420000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS128GMTE110S NVMe PCIe Gen3 x4 M.2 128GB",
+        "price": "560000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS256GMTE110S NVMe PCIe Gen3 x4 M.2 256GB",
+        "price": "960000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS512GMTE110S NVMe PCIe Gen3 x4 M.2 512GB",
+        "price": "1610000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 230S 256GB SSD 2.5 SATA3",
+        "price": "1360000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 230S 1TB SSD 2.5 SATA3",
+        "price": "4450000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 128GB",
+        "price": "445000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 256GB",
+        "price": "869000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 512GB",
+        "price": "1609000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS256GMTE220S NVMe PCIe Gen3 x4 M.2 256GB",
+        "price": "655000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS512GMTE220S NVMe PCIe Gen3 x4 M.2 512GB",
+        "price": "925000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 128GB - Hyper Series",
+        "price": "495000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 256GB - Hyper Series",
+        "price": "905000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 512GB - Hyper Series",
+        "price": "1675000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 1TB - Hyper Series",
+        "price": "3295000",
+        "detail": null
+    },
+    {
+        "title": "Team GX2 SSD SATA 128GB - T253X2128G0C101 - R 500MB/s & W 320MB/s",
+        "price": "530000",
+        "detail": null
+    },
+    {
+        "title": "Team GX2 SSD SATA 256GB - T253X2256G0C101 - R 500MB/s & W 400MB/s",
+        "price": "1335000",
+        "detail": null
+    },
+    {
+        "title": "Team GX2 SSD SATA 512GB - T253X2512G0C101 - R 530MB/s & W 430MB/s",
+        "price": "1520000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE220S NVMe PCIe Gen3 x4 M.2 1TB",
+        "price": "1545000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTS830 256GB M.2 SATA III",
+        "price": "1110000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTS830 512GB M.2 SATA III",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "Team GX2 SSD SATA 1TB - T253X2001T0C101 - R 530MB/s & W 480MB/s",
+        "price": "2445000",
+        "detail": null
+    },
+    {
+        "title": "Team GX2 SSD SATA 2TB - T253X2002T0C101 - R 530MB/s & W 500MB/s",
+        "price": "4020000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 230S 2TB SSD 2.5 SATA3",
+        "price": "7900000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SSD 2.5 SATA III 128GB - LNS100-128RB",
+        "price": "710000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NS100 SSD 2.5 SATA III 256GB - LNS100-256RB",
+        "price": "1030000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NS100 SSD 2.5 SATA III 512GB - LNS100-512RB",
+        "price": "1720000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 1TB",
+        "price": "3200000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NS100 SSD 2.5 SATA III 1TB - LNS100-1TRB",
+        "price": "3075000",
+        "detail": null
+    },
+    {
+        "title": "Team MS30 M.2 2280 SATA SSD 2TB - TM8PS7002T0C101 - R 550MB/s & W 500MB/s",
+        "price": "3205000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD RGB CRAS C700 240GB PCIE GEN3X4 - K240GM2SP0-C7R - Controllable RGB (ASUS AURA , GIGABYTE RGB FUSION, MSI MYSTIC LIGHT , ASROCK POLYCHROME RGB, and RAZER Chroma)",
+        "price": "680000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD RGB CRAS C700 480GB PCIE GEN3X4 - K480GM2SP0-C7R - Controllable RGB (ASUS AURA , GIGABYTE RGB FUSION, MSI MYSTIC LIGHT , ASROCK POLYCHROME RGB, and RAZER Chroma)",
+        "price": "1089000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 256GB M.2 PCIe 3.0 x4 - TM8FP6256G0C101 - R 1600MB/s & W 1000 MB/s",
+        "price": "1195000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 512GB M.2 PCIe 3.0 x4 - TM8FP6512G0C101 - R 1700MB/s & W 1400MB/s",
+        "price": "1490000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 1TB M.2 PCIe 3.0 x4 - TM8FP6001T0C101 - R 1800MB/s & W 1500MB/s",
+        "price": "2550000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SU800 1TB SATA III ( R/W Up to 560 / 520MB/s )",
+        "price": "2410000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 2TB",
+        "price": "5790000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 2TB - Hyper Series",
+        "price": "5989000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 NVMe PCIe Gen4 x4 1TB - Tsunami Series",
+        "price": "3449000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 NVMe PCIe Gen4 x4 2TB - Tsunami Series",
+        "price": "6390000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SA500 NAS SATA SSD 500GB SATA III - R 560MB/s W 530MB/s",
+        "price": "2835000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SA500 NAS SATA SSD 1TB SATA III - R 560MB/s W 530MB/s",
+        "price": "4935000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SA510 SATA SSD 2TB SATA III - R 560MB/s W 520MB/s",
+        "price": "8320000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SA500 NAS SATA SSD 2TB SATA III - R 560MB/s W 520MB/s",
+        "price": "9990000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SA500 NAS SATA SSD 4TB SATA III - R 560MB/s W 520MB/s",
+        "price": "17490000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE220S NVMe PCIe Gen3 x4 M.2 2TB",
+        "price": "2870000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD 128GB",
+        "price": "445000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD 512GB",
+        "price": "1609000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD 256GB",
+        "price": "869000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T7 Portable 1TB USB 3.2 External SSD - Grs 3th",
+        "price": "3110000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T7 Portable 2TB USB 3.2 External SSD - Grs 3th",
+        "price": "5630000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD 1TB",
+        "price": "3200000",
+        "detail": null
+    },
+    {
+        "title": "Team CX2 SSD SATA 256GB - T253X6256G0C101 - R 520MB/s & W 430MB/s",
+        "price": "1105000",
+        "detail": null
+    },
+    {
+        "title": "Team CX2 SSD SATA 512GB - T253X6512G0C101 - R 530MB/s & W 470MB/s",
+        "price": "1445000",
+        "detail": null
+    },
+    {
+        "title": "Team CX2 SSD SATA 1TB - T253X6001T0C101 - R 540MB/s & W 490MB/s",
+        "price": "2360000",
+        "detail": null
+    },
+    {
+        "title": "Team CX2 SSD SATA 2TB - T253X6002T0C101 - R 540MB/s & W 490MB/s",
+        "price": "4050000",
+        "detail": null
+    },
+    {
+        "title": "Seagate One Touch SSD 1TB",
+        "price": "2100000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS2280P4 512GB M.2 NVME PCIe 3.0 x4",
+        "price": "1419000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD 2TB",
+        "price": "5790000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 870 EVO 250GB - Grs 5th",
+        "price": "1240000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 870 EVO 500GB - Grs 5th",
+        "price": "1820000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 870 EVO 1TB - Grs 5th",
+        "price": "2980000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM620 NVMe M.2 PCIe Gen3x4 1TB - LNM620X001T",
+        "price": "2880000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Extreme Pro Portable V2 2TB",
+        "price": "3715000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Extreme Pro Portable V2 1TB",
+        "price": "2350000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 870 EVO 2TB - Grs 5th",
+        "price": "5985000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 870 EVO 4TB - Grs 5th",
+        "price": "11920000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 980 M.2 PCIe Gen3 x4 500GB MZ-V8V500B - Grs 5th",
+        "price": "1735000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM620 NVMe M.2 PCIe Gen3x4 256GB - LNM620X256G",
+        "price": "1090000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM620 NVMe M.2 PCIe Gen3x4 512GB - LNM620X512G",
+        "price": "1985000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 2TB M.2 PCIe 3.0 x4 - TM8FP6002T0C101 - R 1800MB/s & W 1500MB/s",
+        "price": "3765000",
+        "detail": null
+    },
+    {
+        "title": "Seagate One Touch SSD 2TB",
+        "price": "3730000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS2280P4U 512GB M.2 NVME PCIe 3.0 x4",
+        "price": "1590000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 PRO 1TB M.2 PCIe 3.0 x4 - TM8FPD001T0C101 - R 3500MB/s & W 3000MB/s",
+        "price": "2670000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 PRO 512GB M.2 PCIe 3.0 x4 - TM8FPD512G0C101 - R 3500MB/s & W 3000MB/s",
+        "price": "1690000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD270C 250GB Portable SSD USB 3.1",
+        "price": "960000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD270C 500GB Portable SSD USB 3.1",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD270C 1TB Portable SSD USB 3.1",
+        "price": "3170000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Expansion Card for XBOX 1TB",
+        "price": "2915000",
+        "detail": null
+    },
+    {
+        "title": "Kingston KC3000 SKC3000D/2048G PCIe 4.0 NVMe M.2 2048GB",
+        "price": "3350000",
+        "detail": null
+    },
+    {
+        "title": "Kingston KC3000 SKC3000S/1024G PCIe 4.0 NVMe M.2 1024GB",
+        "price": "3250000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 PRO LPX 1TB PCIe Gen4 x4 NVMe M.2 SSD - CSSD-F1000GBMP600PLP - PS5 Compatible",
+        "price": "3750000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 PRO LPX 2TB PCIe Gen4 x4 NVMe M.2 SSD - CSSD-F2000GBMP600PLP - PS5 Compatible",
+        "price": "6150000",
+        "detail": null
+    },
+    {
+        "title": "Seagate SSD SAS 1.92TB - Nytro 2532 Series",
+        "price": "10120000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD PM893 SATA III 480GB MZ7L3480HCHQ - Grs 3th",
+        "price": "2590000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SN700 NVMe SSD 500GB M.2 2280-S3-M PCIe Gen3 x4 - R 3430MB/s W 2600MB/s",
+        "price": "3150000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD E30 Portable 1TB",
+        "price": "2820000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Extreme E61 Portable 1TB",
+        "price": "2950000",
+        "detail": null
+    },
+    {
+        "title": "Seagate SSD SAS 960GB - Nytro 2332 Series",
+        "price": "6315000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M450 M.2 NVMe PCIe Gen4 x4 1TB - Grs 5th",
+        "price": "2910000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M450 M.2 NVMe PCIe Gen4 x4 500GB - Grs 5th",
+        "price": "1660000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD PM893 SATA III 960GB MZ7L3960HCJR - Grs 3th",
+        "price": "4820000",
+        "detail": null
+    },
+    {
+        "title": "Intel SSD DC-P4510 1TB 2.5 U.2 15mm PCIe 3.1 x4",
+        "price": "4559000",
+        "detail": null
+    },
+    {
+        "title": "Intel SSD 670p 2TB M.2 2280 PCIe 3.0 x4",
+        "price": "1850000",
+        "detail": null
+    },
+    {
+        "title": "Intel SSD 670p 512GB M.2 2280 PCIe 3.0 x4",
+        "price": "729000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SATA SSD 1TB SATA III - R 545MB/s",
+        "price": "2088000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T7 SHIELD Portable 1TB USB 3.2 External SSD - Grs 3th",
+        "price": "3150000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T7 SHIELD Portable 2TB USB 3.2 External SSD - Grs 3th",
+        "price": "6665000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Expansion Card for XBOX 2TB",
+        "price": "4695000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force Vulcan Z SSD 1TB SATA3 - T253TZ001T0C101 - R 550MB/s & W 500MB/s",
+        "price": "1930000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV R1 Portable SSD 500GB USB 3.2 Gen2 - K500GPSSU2-PR1 - R1000MB/s W1000MB/s",
+        "price": "1250000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV R1 Portable SSD 1TB USB 3.2 Gen2 - K01TBPSSU2-PR1 - R1000MB/s W1000MB/s",
+        "price": "1950000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD380C 2TB Portable SSD USB 3.2",
+        "price": "6790000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD380C 1TB Portable SSD USB 3.2",
+        "price": "3540000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Ballista SSD 512GB M.2 NVMe 2242",
+        "price": "515000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Ballista SSD 1TB M.2 NVMe 2242",
+        "price": "880000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium S270 SSD 240GB SATA3",
+        "price": "790000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SN700 NVMe SSD 1TB M.2 2280-S3-M PCIe Gen3 x4 - R 3430MB/s W 3000MB/s",
+        "price": "5370000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 225S 500GB SSD 2.5 SATA3",
+        "price": "1610000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 225S 250GB SSD 2.5 SATA3",
+        "price": "860000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD260C 1TB Portable SSD USB 3.1",
+        "price": "1300000",
+        "detail": null
+    },
+    {
+        "title": "WD Elements SE SSD 480GB",
+        "price": "1355000",
+        "detail": null
+    },
+    {
+        "title": "WD Elements SE SSD 1TB USB 3.0",
+        "price": "2067000",
+        "detail": null
+    },
+    {
+        "title": "WD Elements SE SSD 2TB USB 3.0",
+        "price": "2770000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS1031 M.2 2280 NVME PCIe Gen3x4 256GB - Grs 5th - R 1700MB/s & W 1100MB/s",
+        "price": "920000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 256GB M.2 NVME PCIe Gen3x4",
+        "price": "685000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 1TB M.2 2280 PCIe Gen4 x4 - R 7300MB/s W 6300MB/s",
+        "price": "3350000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 2TB M.2 2280 PCIe Gen4 x4 - R 7300MB/s W 6600MB/s",
+        "price": "9200000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS2280Q4U 1TB M.2 NVME PCIe 4.0 x4",
+        "price": "2155000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD PM893 SATA III 1920GB MZ7L31T9HBLT - Grs 3th",
+        "price": "8870000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 225S 1TB SSD 2.5 SATA3",
+        "price": "3330000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS1031 M.2 2280 NVME PCIe Gen3x4 500GB - Grs 5th - R 2200MB/s & W 1200MB/s",
+        "price": "1620000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 710 256GB M.2 NVME R 2100MB/S W 1000MB/S",
+        "price": "1080000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 710 512GB M.2 NVME R 2400MB/S W 1000MB/S",
+        "price": "1620000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 710 1TB M.2 NVME R 2400MB/S W 1800MB/S",
+        "price": "2830000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE250S NVMe PCIe Gen4 x4 M.2 2TB",
+        "price": "7250000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE250S NVMe PCIe Gen4 x4 M.2 1TB",
+        "price": "5150000",
+        "detail": null
+    },
+    {
+        "title": "WD Black P40 1TB Game Drive",
+        "price": "2735000",
+        "detail": null
+    },
+    {
+        "title": "WD Black P40 500GB Game Drive",
+        "price": "2095000",
+        "detail": null
+    },
+    {
+        "title": "WD Black P40 2TB Game Drive",
+        "price": "4235000",
+        "detail": null
+    },
+    {
+        "title": "Team MP44L 1TB M.2 PCIe 4.0 x4 - TM8FPK001T0C101 - R 5000MB/s & W 4500MB/s",
+        "price": "1300000",
+        "detail": null
+    },
+    {
+        "title": "Team MP44L 2TB M.2 PCIe 4.0 x4 - TM8FPK002T0C101 - R 4800MB/s & W 4400MB/s",
+        "price": "2930000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 PRO M.2 PCIe Gen4 x4 2TB MZ-V9P2T0BW - Grs 5th",
+        "price": "7895000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Extreme E61 Portable 2TB",
+        "price": "3620000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 512GB SATA III",
+        "price": "905000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 512GB M.2 NVME PCIe Gen3x4 (Up to - R 3500MB/s W 3200MB/s)",
+        "price": "1095000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS2241 Series M.2 2280 NVME PCIe Gen4x4 1TB - Grs 5th - R 5100MB/s & W 3200MB/s",
+        "price": "2030000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS2241 Series M.2 2280 NVME PCIe Gen4x4 2TB - Grs 5th - R 5000MB/s & W 4200MB/s",
+        "price": "4050000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE250H NVMe PCIe Gen4 x4 1TB",
+        "price": "5200000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE250H NVMe PCIe Gen4 x4 2TB",
+        "price": "7300000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 PRO M.2 PCIe Gen4 x4 1TB MZ-V9P1T0BW - Grs 5th",
+        "price": "4500000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV S1 Portable SSD 1TB USB 3.2 Gen2 Type-C - K01TBPSSU3-PS1 - R2000MB/s W2000MB/s",
+        "price": "2100000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV S1 Portable SSD 2TB USB 3.2 Gen2 Type-C - K02TBPSSU3-PS1 - R2000MB/s W1800MB/s",
+        "price": "3550000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M461 M.2 NVMe PCIe Gen4 x4 2TB - Grs 5th",
+        "price": "5270000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 4TB M.2 2280 PCIe Gen4 x4 - R 7300MB/s W 6600MB/s",
+        "price": "21850000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 1TB With Heatsink M.2 2280 PCIe Gen4 x4 - R 7300MB/s W 6300MB/s",
+        "price": "5690000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 2TB With Heatsink M.2 2280 PCIe Gen4 x4 - R 7300MB/s W 6600MB/s",
+        "price": "11090000",
+        "detail": null
+    },
+    {
+        "title": "Kingston KC3000 SKC3000D/4096G PCIe 4.0 NVMe M.2 4096GB",
+        "price": "9050000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C910 500GB M.2 2280 NVMe PCle Gen4 x4 - K500GM2SP0-C91 - R5000MB/s W3700MB/s",
+        "price": "1680000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C910 1TB M.2 2280 NVMe PCle Gen4 x4 - K01TBM2SP0-C91 - R5000MB/s W4800MB/s",
+        "price": "2850000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C930 1TB M.2 2280 NVMe PCle Gen4 x4 with Heatsink - K01TBM2SP0-C93 - R7400MB/s W6400MB/s",
+        "price": "3600000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C930 2TB M.2 2280 NVMe PCle Gen4 x4 with Heatsink - K02TBM2SP0-C93 - R7400MB/s W6800MB/s",
+        "price": "6010000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS900 Series 250GB - Grs 3th - R 535MB/s & W 500MB/s",
+        "price": "930000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD PM893 SATA III 3840GB MZ-7L33T8HBLT - Grs 3th",
+        "price": "18175000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 PRO M.2 PCIe Gen4 x4 1TB MZ-V9P1T0CW with Heatsink - Grs 5th",
+        "price": "4705000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 PRO M.2 PCIe Gen4 x4 2TB MZ-V9P2T0CW with Heatsink - Grs 5th",
+        "price": "8265000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M461 M.2 NVMe PCIe Gen4 x4 1TB - Grs 5th",
+        "price": "3310000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 1TB SATA III",
+        "price": "1770000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 1TB M.2 NVME PCIe Gen3x4 (Up to - R 3500MB/s W 3200MB/s)",
+        "price": "1995000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 225S 2TB SSD 2.5 SATA3",
+        "price": "6590000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 2TB SATA III",
+        "price": "3020000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD Portable Platinum 128GB - USB 3.2 Type C",
+        "price": "539000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD Portable Platinum 256GB - USB 3.2 Type C",
+        "price": "939000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD Portable Platinum 512GB - USB 3.2 Type C",
+        "price": "1695000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD Portable Platinum 1TB - USB 3.2 Type C",
+        "price": "3290000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD Portable Platinum 2TB - USB 3.2 Type C",
+        "price": "6280000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS256GMTE300S NVMe PCIe Gen3 x4 M.2 2230 256GB",
+        "price": "1510000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS512GMTE300S NVMe PCIe Gen3 x4 M.2 2230 512GB",
+        "price": "2020000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS256GMTE400S NVMe PCIe Gen3 x4 M.2 2242 256GB",
+        "price": "1230000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS512GMTE400S NVMe PCIe Gen3 x4 M.2 2242 512GB",
+        "price": "2030000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS4TMTE250H NVMe PCIe Gen4 x4 4TB",
+        "price": "14200000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS4TMTE250S NVMe PCIe Gen4 x4 M.2 4TB",
+        "price": "14150000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE400S NVMe PCIe Gen3 x4 M.2 2242 1TB",
+        "price": "3690000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 230S 4TB SSD 2.5 SATA3",
+        "price": "15350000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD380C 4TB Portable SSD USB 3.2",
+        "price": "14650000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530 Lightsaber SSD 2TB M.2 PCIe Gen4 \u00d74",
+        "price": "3420000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium S270 SSD 480GB SATA3",
+        "price": "1310000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 710 2TB M.2 NVME R 2400MB/S W 1800MB/S",
+        "price": "5300000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T7 SHIELD Portable 4TB USB 3.2 External SSD - Grs 3th",
+        "price": "13330000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310C 1TB Portable SSD USB 3.2 - Black",
+        "price": "2540000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310C 512GB Portable SSD USB 3.2 - Black",
+        "price": "1860000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310C 256GB Portable SSD USB 3.2 - Black",
+        "price": "1010000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SN350 NVMe SSD 250GB M.2 2280 PCIe Gen3 x4 - R 2400MB/s W 1500MB/s",
+        "price": "790000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG GAMMIX S70 BLADE 512GB PCIe Gen4x4 - R 7200MB/S W 2600MB/S - AGAMMIXS70B-512G-CS",
+        "price": "1960000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG GAMMIX S70 BLADE 1TB PCIe Gen4x4 - R 7400MB/S W 5500MB/S - AGAMMIXS70B-1T-CS",
+        "price": "3230000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG GAMMIX S70 BLADE 2TB PCIe Gen4x4 - R 7400MB/S W 6800MB/S -AGAMMIXS70B-2T-CS",
+        "price": "6030000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M480 PRO M.2 NVMe PCIe Gen4 x4 2TB - Grs 5th",
+        "price": "6470000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M480 PRO M.2 NVMe PCIe Gen4 x4 1TB - Grs 5th",
+        "price": "4020000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS250GMTE115S NVMe PCIe Gen3 x4 M.2 250GB",
+        "price": "910000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS500GMTE115S NVMe PCIe Gen3 x4 M.2 500GB",
+        "price": "1610000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE115S NVMe PCIe Gen3 x4 M.2 2TB",
+        "price": "3120000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE115S NVMe PCIe Gen3 x4 M.2 1TB",
+        "price": "5750000",
+        "detail": null
+    },
+    {
+        "title": "PNY XLR8 Gaming CS3140 M.2 2280 NVME PCIe Gen4x4 4TB - Grs 5th - R 7500MB/s & W 6850MB/s",
+        "price": "5550000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 2TB - Hyper PRO Series With Heatsink",
+        "price": "6499000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 1TB - Hyper PRO Series With Heatsink",
+        "price": "3550000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 512GB - Hyper PRO Series With Heatsink",
+        "price": "1880000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 2TB - Hyper PRO Series",
+        "price": "6395000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 1TB - Hyper PRO Series",
+        "price": "3450000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 512GB - Hyper PRO Series",
+        "price": "1780000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen4 x4 2TB - Tsunami Series with Heatsink",
+        "price": "6490000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe PCIe Gen4 x4 1TB - Tsunami Series with Heatsink",
+        "price": "3549000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 540 SSD 2TB M.2 PCIe Gen5 \u00d74",
+        "price": "4690000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 540 SSD 1TB M.2 PCIe Gen5 \u00d74",
+        "price": "2820000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD270C 2TB Portable SSD USB 3.1",
+        "price": "5940000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310C 2TB Portable SSD USB 3.2 - Black",
+        "price": "4559000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM610PRO NVMe M.2 PCIe Gen3x4 1TB - LNM610P001T",
+        "price": "2770000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM610PRO NVMe M.2 PCIe Gen3x4 2TB - LNM610P002T",
+        "price": "5250000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM620 NVMe M.2 PCIe Gen3x4 2TB - LNM620X002T",
+        "price": "5250000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM710 NVME M.2 PCIe Gen4x4 1TB - LNM710X001T",
+        "price": "2875000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM710 NVME M.2 PCIe Gen4x4 2TB - LNM710X002T",
+        "price": "5310000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SSD SU650 512GB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-512GT-R",
+        "price": "1410000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SSD SU650 256GB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-256GT-R",
+        "price": "910000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SSD SU650 1TB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-1TT-R",
+        "price": "2590000",
+        "detail": null
+    },
+    {
+        "title": "Team MP44S 1TB M.2 2230 PCIe Gen4 x4 - TM5FF3001T0C101 - R 5000MB/s & W 3500MB/s",
+        "price": "1860000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Ballista Advance SSD 1TB M.2 NVMe 2280",
+        "price": "1055000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Ballista Advance SSD 512GB M.2 NVMe 2280",
+        "price": "935000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Ballista Advance SSD 256GB M.2 NVMe 2280",
+        "price": "370000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Core Classic SSD 2TB SATA3",
+        "price": "1840000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Core Classic SSD 1TB SATA3",
+        "price": "1080000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Core Classic SSD 512GB SATA3",
+        "price": "875000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Core Classic SSD 256GB SATA3",
+        "price": "480000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310S 2TB Portable SSD USB 3.2 - Silver",
+        "price": "4559000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310S 1TB Portable SSD USB 3.2 - Silver",
+        "price": "2540000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M480 PRO M.2 NVMe PCIe Gen4 x4 4TB - Grs 5th",
+        "price": "13050000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE300S NVMe PCIe Gen3 x4 M.2 2230 1TB",
+        "price": "3770000",
+        "detail": null
+    },
+    {
+        "title": "Team MP44S 2TB M.2 2230 PCIe Gen4 x4 - TM5FF3002T0C101 - R 5000MB/s & W 4500MB/s",
+        "price": "3855000",
+        "detail": null
+    },
+    {
+        "title": "Crucial X10 Pro Portable SSD 2TB USB 3.2 Gen 2 2x2 - CT2000X10PROSSD9",
+        "price": "5590000",
+        "detail": null
+    },
+    {
+        "title": "Crucial X10 Pro Portable SSD 1TB USB 3.2 Gen 2 2x2 - CT1000X10PROSSD9",
+        "price": "3050000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310S 512GB Portable SSD USB 3.2 - Silver",
+        "price": "1860000",
+        "detail": null
+    },
+    {
+        "title": "WD My Passport SSD 4TB USB 3.2 Gen 2",
+        "price": "6155000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300C 2TB Portable SSD USB 3.2 Type-C - Sky Blue",
+        "price": "8090000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300C 1TB Portable SSD USB 3.2 Type-C - Sky Blue",
+        "price": "4010000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300C 512GB Portable SSD USB 3.2 Type-C - Sky Blue",
+        "price": "2160000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium S270 SSD 960GB SATA3",
+        "price": "2210000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310P 1TB Portable SSD USB 3.2 - Pink",
+        "price": "2540000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310P 512GB Portable SSD USB 3.2 - Pink",
+        "price": "1860000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310P 2TB Portable SSD USB 3.2 - Pink",
+        "price": "4559000",
+        "detail": null
+    },
+    {
+        "title": "Team MP33 PRO 2TB M.2 PCIe 3.0 x4 - TM8FPD002T0C101 - R 3500MB/s & W 3000MB/s",
+        "price": "3630000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN770M NVMe SSD 2TB M.2 2230 PCIe Gen4 x4 - R 5150MB/s W 4850MB/s",
+        "price": "8390000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN770M NVMe SSD 1TB M.2 2230 PCIe Gen4 x4 - R 5150MB/s W 4900MB/s",
+        "price": "4150000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 960 1TB NVME PCIe Gen4x4 - R 7400MB/S W 6000MB/S - ALEG-960-1TCS",
+        "price": "3440000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 960 2TB NVME PCIe Gen4x4 - R 7400MB/S W 6800MB/S - ALEG-960-2TCS",
+        "price": "5420000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Game Drive PS5 NVMe SSD 2TB M.2 PCIe Gen4 \u00d74",
+        "price": "5350000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Game Drive PS5 NVMe SSD 1TB M.2 PCIe Gen4 \u00d74",
+        "price": "3025000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SE880 500GB USB 3.2 External SSD",
+        "price": "1520000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SE880 1TB USB 3.2 External SSD",
+        "price": "2769000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 PRO M.2 PCIe Gen4 x4 4TB MZ-V9P4T0CW with Heatsink - Grs 5th",
+        "price": "13775000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 PRO M.2 PCIe Gen4 x4 4TB MZ-V9P4T0BW\u00a0-\u00a0Grs\u00a05th",
+        "price": "13280000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS250GMTE245S M.2 2280 NVMe PCIe Gen4 x4 250GB",
+        "price": "1050000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS500GMTE245S M.2 2280 NVMe PCIe Gen4 x4 500GB",
+        "price": "1680000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE245S M.2 2280 NVMe PCIe Gen4 x4 1TB",
+        "price": "3540000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE245S M.2 2280 NVMe PCIe Gen4 x4 2TB",
+        "price": "6790000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS4TMTE245S M.2 2280 NVMe PCIe Gen4 x4 4TB",
+        "price": "13170000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T9 Portable SSD 4TB USB 3.2 Gen2x2 External SSD - Grs 5th",
+        "price": "13330000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T9 Portable SSD 2TB USB 3.2 Gen2x2 External SSD - Grs 5th",
+        "price": "6665000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T9 Portable SSD 1TB USB 3.2 Gen2x2 External SSD - Grs 5th",
+        "price": "3705000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional SL600 Portable SSD 1TB USB 3.2 Type C - LSL600X001T-RNBNG",
+        "price": "3730000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional SL600 Portable SSD 2TB USB 3.2 Gen2x2 - LSL600X002T-RNBNG",
+        "price": "6390000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional NM800PRO NVMe M.2 PCIe Gen4\u00d74 2TB with Heatsink - LNM800P002T-RN8NG",
+        "price": "2770000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional NM800PRO NVMe M.2 PCIe Gen4\u00d74 1TB with Heatsink - LNM800P001T-RN8NG",
+        "price": "1560000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 1TB - LNM790X001T-RNNNG",
+        "price": "3190000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 2TB - LNM790X002T-RNNNG",
+        "price": "5770000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 4TB - LNM790X004T-RNNNG",
+        "price": "10620000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 1TB with Heatsink - LNM790X001T-RN9NG",
+        "price": "3270000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 4TB with Heatsink - LNM790X004T-RN9NG",
+        "price": "10590000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 2TB with Heatsink - LNM790X002T-RN9NG",
+        "price": "5850000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD265C 2TB Portable SSD USB 3.2",
+        "price": "6820000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD265C 1TB Portable SSD USB 3.2",
+        "price": "3640000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD265C 500GB Portable SSD USB 3.2",
+        "price": "2020000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300P 2TB Portable SSD USB 3.2 Type-C - Pink",
+        "price": "8090000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300P 1TB Portable SSD USB 3.2 Type-C - Pink",
+        "price": "4010000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300P 512GB Portable SSD USB 3.2 Type-C - Pink",
+        "price": "2160000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300S 2TB Portable SSD USB 3.2 Type-C - Silver",
+        "price": "8090000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300S 1TB Portable SSD USB 3.2 Type-C - Silver",
+        "price": "4010000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD300S 512GB Portable SSD USB 3.2 Type-C - Silver",
+        "price": "2160000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SE880 2TB USB 3.2 External SSD",
+        "price": "5239000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SSD SU650 2TB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-2TT-R",
+        "price": "5020000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD380C 500GB Portable SSD USB 3.2",
+        "price": "1850000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD360C 2TB Portable SSD USB 3.2",
+        "price": "6670000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD360C 1TB Portable SSD USB 3.2",
+        "price": "3540000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS256GMTE410S NVMe PCIe Gen4 x4 M.2 2242 256GB",
+        "price": "1260000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS512GMTE410S NVMe PCIe Gen4 x4 M.2 2242 512GB",
+        "price": "2130000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS1TMTE410S NVMe PCIe Gen4 x4 M.2 2242 1TB",
+        "price": "3850000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE410S NVMe PCIe Gen4 x4 M.2 2242 2TB",
+        "price": "7090000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Extreme 2TB M.2 NVMe PCIe Gen 4.0",
+        "price": "3650000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Extreme 1TB M.2 NVMe PCIe Gen 4.0",
+        "price": "2165000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk SSD PLUS 2TB M.2 NVMe PCIe Gen 3.0",
+        "price": "7790000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk SSD PLUS 1TB M.2 NVMe PCIe Gen 3.0",
+        "price": "1870000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk SSD PLUS 500GB M.2 NVMe PCIe Gen 3.0",
+        "price": "1115000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Create Classic DL SSD 1TB M.2 NVMe PCIe Gen4x4 - TM8FPM001T0C329 - R 7200MB/s & W 6200MB/s",
+        "price": "2045000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force Vulcan Z SSD 512GB SATA3 - T253TZ512G0C101 - R 540MB/s & W 470MB/s",
+        "price": "1195000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force Vulcan Z SSD 256GB SATA3 - T253TZ256G0C101 - R 520MB/s & W 450MB/s",
+        "price": "1005000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD330C 2TB Portable SSD USB 3.2 Type-C",
+        "price": "8090000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD330C 1TB Portable SSD USB 3.2 Type-C",
+        "price": "4010000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD330C 512GB Portable SSD USB 3.2 Type-C",
+        "price": "2155000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD320A 2TB Portable SSD USB 3.2",
+        "price": "6290000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD320A 1TB Portable SSD USB 3.2",
+        "price": "3920000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD320A 512GB Portable SSD USB 3.2",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 520N SSD 2TB M.2 2230 PCIe Gen4 \u00d74",
+        "price": "3425000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 520N SSD 1TB M.2 2230 PCIe Gen4 \u00d74",
+        "price": "2370000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 ELITE 1TB M.2 NVMe PCIe Gen4 x4 - CSSD-F1000GBMP600ENH",
+        "price": "3350000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 ELITE 2TB M.2 NVMe PCIe Gen4 x4 - CSSD-F2000GBMP600ENH",
+        "price": "5750000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 ELITE 1TB M.2 NVMe PCIe Gen4 x4 with Heatsink - CSSD-F1000GBMP600EHS",
+        "price": "1920000",
+        "detail": null
+    },
+    {
+        "title": "Solidigm P44 PRO 512GB M.2 NVMe PCIe 4.0 x4",
+        "price": "1630000",
+        "detail": null
+    },
+    {
+        "title": "Solidigm P44 PRO 1TB M.2 NVMe PCIe 4.0 x4",
+        "price": "2850000",
+        "detail": null
+    },
+    {
+        "title": "Solidigm P44 PRO 2TB M.2 NVMe PCIe 4.0 x4",
+        "price": "5320000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD360C 4TB Portable SSD USB 3.2",
+        "price": "12150000",
+        "detail": null
+    },
+    {
+        "title": "Synology BeeDrive BDS70 2TB USB 3.2 Gen 2",
+        "price": "4390000",
+        "detail": null
+    },
+    {
+        "title": "Synology BeeDrive BDS70 1TB USB 3.2 Gen 2",
+        "price": "2650000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SAT5210 7TB SATA3",
+        "price": "62850000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SNV3410 400GB M.2 2280 NVMe PCIe 3.0 x4",
+        "price": "5750000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD410C 4TB Portable SSD USB 3.2",
+        "price": "14650000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD410C 2TB Portable SSD USB 3.2",
+        "price": "5690000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD410C 1TB Portable SSD USB 3.2",
+        "price": "2920000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C910 2TB M.2 2280 NVMe PCle Gen4 x4 - K02TBM2SP0-C91 - R5200MB/s W4800MB/s",
+        "price": "5340000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE310S 1TB M.2 2230 NVMe PCIe Gen4 x4",
+        "price": "4130000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE310S 512GB M.2 2230 NVMe PCIe Gen4 x4",
+        "price": "2215000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force G50 1TB M.2 PCIe Gen4.0 x4 - TM8FFE001T0C129 - R 5000MB/s & W 4800MB/s",
+        "price": "2695000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M580 FROZR M.2 NVMe PCIe Gen5 x4 4TB with Heatsink - Grs 5th",
+        "price": "13130000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA200 SSD 4TB M.2 2280 NVMe PCIe Gen4 x4",
+        "price": "9240000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA200 SSD 2TB M.2 2280 NVMe PCIe Gen4 x4",
+        "price": "4870000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA200 SSD 1TB M.2 2280 NVMe PCIe Gen4 x4",
+        "price": "2470000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA200 SSD 500GB M.2 2280 NVMe PCIe Gen4 x4",
+        "price": "1550000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force G70 PRO 2TB M.2 PCIe Gen4.0 x4 - TM8FFH002T0C128 - R 7400MB/s & W 6800MB/s",
+        "price": "4990000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force G70 PRO 1TB M.2 PCIe Gen4.0 x4 - TM8FFH001T0C128 - R 7400MB/s & W 5500MB/s",
+        "price": "2930000",
+        "detail": null
+    },
+    {
+        "title": "Lexar ARMOR 700 Portable SSD 2TB USB 3.2 Gen2x2 - LAR700X002T",
+        "price": "4590000",
+        "detail": null
+    },
+    {
+        "title": "Lexar ARMOR 700 Portable SSD 1TB USB 3.2 Gen2x2 - LAR700X001T",
+        "price": "2990000",
+        "detail": null
+    },
+    {
+        "title": "Samsung T7 Portable 4TB USB 3.2 External SSD - Grs 3th",
+        "price": "11209000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C910 4TB M.2 2280 NVMe PCle Gen4 x4 - K04TBM2SP0-C91 - R5200MB/s W4800MB/s",
+        "price": "8970000",
+        "detail": null
+    },
+    {
+        "title": "Team T-CREATE CinemaPr P31 External SSD 1TB USB 3.2 Gen2 x1 - TPSEFY001T0C302",
+        "price": "2935000",
+        "detail": null
+    },
+    {
+        "title": "Team T-CREATE CinemaPr P31 External SSD 2TB USB 3.2 Gen2 x1 - TPSEFY002T0C302",
+        "price": "4850000",
+        "detail": null
+    },
+    {
+        "title": "Team T-CREATE CinemaPr P31 External SSD 4TB USB 3.2 Gen2 x2 - TPSEFY004T0C302",
+        "price": "9190000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 PRO 1TB M.2 NVMe PCIe Gen5 x4 - CSSD-F1000GBMP700PNH",
+        "price": "3550000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 PRO 1TB with Air Cooler M.2 NVMe PCIe Gen5 x4 - CSSD-F1000GBMP700PRO",
+        "price": "3750000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530R Heatsink SSD 4TB M.2 PCIe Gen4 \u00d74",
+        "price": "9890000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530R Heatsink SSD 2TB M.2 PCIe Gen4 \u00d74",
+        "price": "5420000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530R Heatsink SSD 1TB M.2 PCIe Gen4 \u00d74",
+        "price": "2910000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530R SSD 4TB M.2 PCIe Gen4 \u00d74",
+        "price": "9690000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530R SSD 2TB M.2 PCIe Gen4 \u00d74",
+        "price": "4950000",
+        "detail": null
+    },
+    {
+        "title": "Seagate FireCuda 530R SSD 1TB M.2 PCIe Gen4 \u00d74",
+        "price": "2660000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Core Classic SSD 128GB SATA3",
+        "price": "295000",
+        "detail": null
+    },
+    {
+        "title": "PNY RP60 Portable SSD 2TB USB 3.2 Gen 2x2 - R 2000 MB/s & W 1800MB/s",
+        "price": "2890000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG GAMMIX S70 BLADE 4TB PCIe Gen4x4 - R 7400MB/S W 6600MB/S - AGAMMIXS70B-4T-CS",
+        "price": "11810000",
+        "detail": null
+    },
+    {
+        "title": "PNY RP60 Portable SSD 1TB USB 3.2 Gen 2x2 - R 2000 MB/s & W 1800MB/s",
+        "price": "1790000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD E30 Portable 2TB",
+        "price": "3350000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM790 NVMe M.2 PCIe Gen4\u00d74 8TB - LNM790X008T-RNNNG",
+        "price": "14650000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM1090 NVMe M.2 PCIe Gen5\u00d74 1TB with Heatsink - LNM1090001T-RNANG",
+        "price": "3050000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NM1090 NVMe M.2 PCIe Gen5\u00d74 2TB with Heatsink - LNM1090002T-RNANG",
+        "price": "5070000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SL500 Portable SSD 1TB USB 3.2 Gen2x2",
+        "price": "2800000",
+        "detail": null
+    },
+    {
+        "title": "Lexar ARMOR 700 Portable SSD 4TB USB 3.2 Gen2x2 - LAR700X004T",
+        "price": "8820000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SL500 Portable SSD 2TB USB 3.2 Gen2x2",
+        "price": "3935000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional SL600 Portable SSD 4TB USB 3.2 Gen2x2 - LSL600X004T-RNBNG",
+        "price": "9050000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS2TMTE400S NVMe PCIe Gen3 x4 M.2 2242 2TB",
+        "price": "6890000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 900 512GB NVME PCIe Gen4x4 - R 6200MB/S W 2300MB/S - SLEG-900-512GCS",
+        "price": "1690000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 900 1TB NVME PCIe Gen4x4 - R 7000MB/S W 4700MB/S - SLEG-900-1TCS",
+        "price": "2910000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 900 2TB NVME PCIe Gen4x4 - R 7000MB/S W 5400MB/S - SLEG-900-2TCS",
+        "price": "5360000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P310 SSD 2TB M.2 2230 PCIe Gen4 x4 - CT2000P310SSD2 - R7100MB/s W6000MB/s",
+        "price": "4470000",
+        "detail": null
+    },
+    {
+        "title": "Crucial T705 SSD 2TB M.2 2280 PCIe Gen5 x4 - CT2000T705SSD3 - R14500MB/s W12700MB/s",
+        "price": "5690000",
+        "detail": null
+    },
+    {
+        "title": "Crucial T500 SSD 500GB M.2 2280 PCIe Gen4 x4 - CT500T500SSD8 - R7200MB/s W5700MB/s",
+        "price": "2135000",
+        "detail": null
+    },
+    {
+        "title": "Kingston SSD NV3 1TB M.2 NVMe PCIe Gen 4.0 x4",
+        "price": "2689000",
+        "detail": null
+    },
+    {
+        "title": "Kingston SSD NV3 500GB M.2 NVMe PCIe Gen 4.0 x4",
+        "price": "1850000",
+        "detail": null
+    },
+    {
+        "title": "Kingston SSD NV3 2TB M.2 NVMe PCIe Gen 4.0 x4",
+        "price": "3990000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force GE PRO 4TB M.2 PCIe Gen5 x4 with Dark Airflow Cooler - TM8FG3004T0C133",
+        "price": "9290000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force GE PRO 2TB M.2 PCIe Gen5 x4 with Dark Airflow Cooler - TM8FG3002T0C133",
+        "price": "4995000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 PRO 2TB with Air Cooler M.2 NVMe PCIe Gen5 x4 - CSSD-F2000GBMP700PRO",
+        "price": "5550000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 PRO 2TB M.2 NVMe PCIe Gen5 x4 - CSSD-F2000GBMP700PNH",
+        "price": "5450000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P310 SSD 1TB M.2 2230 PCIe Gen4 x4 - CT1000P310SSD2 - R7100MB/s W6000MB/s",
+        "price": "2390000",
+        "detail": null
+    },
+    {
+        "title": "Crucial T705 SSD 4TB M.2 2280 PCIe Gen5 x4 - CT4000T705SSD3 - R14100MB/s W12600MB/s",
+        "price": "10320000",
+        "detail": null
+    },
+    {
+        "title": "Crucial T705 SSD 1TB M.2 2280 PCIe Gen5 x4 - CT1000T705SSD3 - R13600MB/s W10200MB/s",
+        "price": "3270000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS2150 2TB M.2 2280 NVMe Gen5 x4 - R 10300MB/s & W 8600MB/s",
+        "price": "5350000",
+        "detail": null
+    },
+    {
+        "title": "MSI DATAMAG 20Gbps 2TB Magnetic Portable SSD USB 3.2 Gen2x2",
+        "price": "6600000",
+        "detail": null
+    },
+    {
+        "title": "MSI DATAMAG 20Gbps 1TB Magnetic Portable SSD USB 3.2 Gen2x2",
+        "price": "3950000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD310C 128GB Portable SSD USB 3.2 - Black",
+        "price": "710000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C715 256GB M.2 2280 NVMe PCle Gen3 x4 - K256GM2SP0-C7T - R3000MB/s W2000MB/s",
+        "price": "1030000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C715 512GB M.2 2280 NVMe PCle Gen3 x4 - K512GM2SP0-C7T - R3200MB/s W2000MB/s",
+        "price": "1630000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C715 1TB M.2 2280 NVMe PCle Gen3 x4 - K01TBM2SP0-C7T - R3200MB/s W2000MB/s",
+        "price": "2860000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P310 SSD 500GB M.2 2280 PCIe Gen4 x4 - CT500P310SSD8 - R6600MB/s W3500MB/s",
+        "price": "1150000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P310 SSD 1TB M.2 2280 PCIe Gen4 x4 - CT1000P310SSD8 - R7100MB/s W6000MB/s",
+        "price": "1980000",
+        "detail": null
+    },
+    {
+        "title": "Samsung Enterprise SAS SSD PM1653 960GB MZILG960HCHQ - Grs 3th",
+        "price": "8060000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 ELITE 2TB M.2 NVMe PCIe Gen5 x4 - CSSD-F2000GBMP700ENH",
+        "price": "5250000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 EVO PLUS M.2 PCIe Gen5.0 1TB MZ-V9S1T0B - Grs 5th",
+        "price": "3779000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 EVO PLUS M.2 PCIe Gen5.0 2TB MZ-V9S2T0B - Grs 5th",
+        "price": "5840000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 990 EVO PLUS M.2 PCIe Gen5.0 4TB MZ-V9S4T0B - Grs 5th",
+        "price": "11049000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD NVME U.2 PM9A3 960GB - MZ-QL2960HCJR",
+        "price": "4455000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD PM893 SATA III 7680GB MZ-7L37T6HBLA - Grs 3th",
+        "price": "23460000",
+        "detail": null
+    },
+    {
+        "title": "WD Black C50 Expansion Card for Xbox 1TB",
+        "price": "2695000",
+        "detail": null
+    },
+    {
+        "title": "WD Black D30 Game Drive SSD 2TB USB 3.2 Gen 2",
+        "price": "3250000",
+        "detail": null
+    },
+    {
+        "title": "WD Black D30 Game Drive SSD 1TB USB 3.2 Gen 2",
+        "price": "2125000",
+        "detail": null
+    },
+    {
+        "title": "WD Black D30 Game Drive SSD 500GB USB 3.2 Gen 2",
+        "price": "1690000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SL300 Portable SSD 2TB USB 3.2 Gen 2",
+        "price": "3710000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SL300 Portable SSD 1TB USB 3.2 Gen 2",
+        "price": "2595000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD GENUINE G560 1TB M.2 2280 NVMe PCle Gen5 x4 - K01TBM2SP0-G56 - R13000MB/s W9500MB/s",
+        "price": "3600000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD GENUINE G560 2TB M.2 2280 NVMe PCle Gen5 x4 - K02TBM2SP0-G56 - R14000MB/s W12000MB/s",
+        "price": "6090000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD GENUINE G560 4TB M.2 2280 NVMe PCle Gen5 x4 - K04TBM2SP0-G56 - R14000MB/s W12000MB/s",
+        "price": "9010000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 ELITE 1TB M.2 NVMe PCIe Gen5 x4 - CSSD-F1000GBMP700ENH",
+        "price": "3350000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 860 500GB NVME PCIe Gen4x4 - R 5000MB/S W 3000MB/S - SLEG-860-500GCS",
+        "price": "1660000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 860 1TB NVME PCIe Gen4x4 - R 6000MB/S W 4000MB/S - SLEG-860-1000GCS",
+        "price": "2870000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 860 2TB NVME PCIe Gen4x4 - R 6000MB/S W 5000MB/S - SLEG-860-2000GCS",
+        "price": "5320000",
+        "detail": null
+    },
+    {
+        "title": "PNY CS2150 1TB M.2 2280 NVMe Gen5 x4 - R 10200MB/s & W 8300MB/s",
+        "price": "2820000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN Rescue SSD 128GB SATA3",
+        "price": "385000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN7100 NVMe SSD 2TB M.2 2280 PCIe Gen4 x4 - R 7250MB/s W 6900MB/s",
+        "price": "8310000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN7100 NVMe SSD 1TB M.2 2280 PCIe Gen4 x4 - R 7250MB/s W 6900MB/s",
+        "price": "3685000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN7100 NVMe SSD 500GB M.2 2280 PCIe Gen4 x4 - R 6800MB/s W 5800MB/s",
+        "price": "2230000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG GAMMIX S70 BLADE 8TB PCIe Gen4x4 - R 7300MB/S W 6300MB/S - AGAMMIXS70B-8000G-CS",
+        "price": "20540000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN Rescue SSD 256GB SATA3",
+        "price": "605000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M470 PRO M.2 NVMe PCIe Gen4 x4 2TB - Grs 5th",
+        "price": "5820000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M470 PRO M.2 NVMe PCIe Gen4 x4 1TB - Grs 5th",
+        "price": "3710000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Game Drive PS5 SSD 2TB USB 3.2 Type-C",
+        "price": "4940000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Game Drive PS5 SSD 1TB USB 3.2 Type-C",
+        "price": "2840000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Ultra Compact SSD 2TB USB-C",
+        "price": "4770000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Ultra Compact SSD 1TB USB-C",
+        "price": "2615000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SAT5221 3.84TB SATA3",
+        "price": "34650000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SAT5221 1.92TB SATA3",
+        "price": "18350000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SAT5221 960GB SATA3",
+        "price": "10390000",
+        "detail": null
+    },
+    {
+        "title": "Crucial E100 SSD 1TB M.2 2280 PCIe Gen4 x4 - CT1000E100SSD8 - R5000MB/s W4500MB/s",
+        "price": "1850000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Create Classic I45 1TB M.2 PCIe Gen4.0 x4 - TM8FFX001T0C129 - R 5000MB/s & W 4800MB/s",
+        "price": "2240000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SN3000 NVMe SSD 2TB M.2 2280 PCIe Gen4 x4 - R 5000MB/s W 4200MB/s",
+        "price": "7675000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SN3000 NVMe SSD 1TB M.2 2280 PCIe Gen4 x4 - R 5000MB/s W 4200MB/s",
+        "price": "3820000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SN3000 NVMe SSD 500GB M.2 2280 PCIe Gen4 x4 - R 5000MB/s W 4100MB/s",
+        "price": "1558000",
+        "detail": null
+    },
+    {
+        "title": "Corsair EX400U 2TB USB4 External SSD - CSSD-EX400U2TB",
+        "price": "4720000",
+        "detail": null
+    },
+    {
+        "title": "Corsair EX400U 1TB USB4 External SSD - CSSD-EX400U1TB",
+        "price": "2835000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE255S 2TB M.2 2280 NVMe PCIe Gen4 x4 - R 7400MB/s W 6500MB/s",
+        "price": "6550000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE255S 1TB M.2 2280 NVMe PCIe Gen4 x4 - R 7400MB/s W 5200MB/s",
+        "price": "3230000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M560 2TB M.2 NVMe PCIe Gen5 x4 - Grs 5th",
+        "price": "6870000",
+        "detail": null
+    },
+    {
+        "title": "Corsair EX400U 4TB USB4 External SSD - CSSD-EX400U4TB",
+        "price": "8250000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 CORE XT 1TB M.2 NVMe PCIe Gen4 x4 - CSSD-F1000GBMP600CXTR2",
+        "price": "3250000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 CORE XT 2TB M.2 NVMe PCIe Gen4 x4 - CSSD-F2000GBMP600CXTR2",
+        "price": "5790000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Genshin Impact Limited Edition External SSD 1TB for Playstation",
+        "price": "2515000",
+        "detail": null
+    },
+    {
+        "title": "MSI Spatium M560 1TB M.2 NVMe PCIe Gen5 x4 - Grs 5th",
+        "price": "3980000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE310S 2TB M.2 2230 NVMe PCIe Gen4 x4",
+        "price": "7790000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 1TB MZ-VAP1T0B - Grs 5th",
+        "price": "4729000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 2TB MZ-VAP2T0B - Grs 5th",
+        "price": "8420000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 4TB MZ-VAP4T0B - Grs 5th",
+        "price": "13690000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 1TB MZ-VAP1T0C with Heatsink - Grs 5th",
+        "price": "5025000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 2TB MZ-VAP2T0C with Heatsink - Grs 5th",
+        "price": "8700000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 4TB MZ-VAP4T0C with Heatsink - Grs 5th",
+        "price": "14250000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Extreme E61 Portable 4TB",
+        "price": "6150000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN Rescue SSD 512GB SATA3",
+        "price": "1000000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN Rescue SSD 1TB SATA3",
+        "price": "1990000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SL500 Portable SSD with Magnetic Set 2TB USB 3.2 Gen2x2",
+        "price": "4235000",
+        "detail": null
+    },
+    {
+        "title": "Lexar SL500 Portable SSD with Magnetic Set 1TB USB 3.2 Gen2x2",
+        "price": "3015000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe 2230 PCIe Gen3 x4 256GB - Hyper Series",
+        "price": "905000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe 2230 PCIe Gen3 x4 512GB - Hyper Series",
+        "price": "1675000",
+        "detail": null
+    },
+    {
+        "title": "V-Gen SSD M.2 NVMe 2230 PCIe Gen3 x4 1TB - Hyper Series",
+        "price": "3300000",
+        "detail": null
+    },
+    {
+        "title": "Team PD20 Mini External SSD 1TB USB 3.2 Gen2 x2 - TPSEG5001T0C102",
+        "price": "1485000",
+        "detail": null
+    },
+    {
+        "title": "Team PD20M Mag Portable SSD Titanium Gray 2TB USB 3.2 Gen2 x2 - TPSEG2002T0C108",
+        "price": "3730000",
+        "detail": null
+    },
+    {
+        "title": "Team PD20M Mag Portable SSD Titanium Gray 1TB USB 3.2 Gen2 x2 - TPSEG2001T0C108",
+        "price": "1615000",
+        "detail": null
+    },
+    {
+        "title": "Kingston Fury Renegade G5 PCIe 5.0 NVMe M.2 SSD 1TB",
+        "price": "3450000",
+        "detail": null
+    },
+    {
+        "title": "Kingston Fury Renegade G5 PCIe 5.0 NVMe M.2 SSD 2TB",
+        "price": "8090000",
+        "detail": null
+    },
+    {
+        "title": "Seagate Expansion Card for XBOX 4TB",
+        "price": "8895000",
+        "detail": null
+    },
+    {
+        "title": "Biwin Black Opal NV3500 SSD 1TB M.2 2280 PCIe Gen3 x4 - R 3500MB/s W 3000MB/s",
+        "price": "2270000",
+        "detail": null
+    },
+    {
+        "title": "Biwin Black Opal NV3500 SSD 512GB M.2 2280 PCIe Gen3 x4 - R 3500MB/s W 2500MB/s",
+        "price": "1400000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Create Classic C47 SSD 2TB M.2 NVMe PCIe Gen4x4 - TM8FFC002T0C129 - R 7400MB/s & W 7000MB/s",
+        "price": "3745000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Create Classic C47 SSD 1TB M.2 NVMe PCIe Gen4x4 - TM8FFC001T0C129 - R 7400MB/s & W 6800MB/s",
+        "price": "2240000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional NM1090 PRO NVMe M.2 PCIe Gen5\u00d74 2TB - LNM109P002T-RNNNG",
+        "price": "6830000",
+        "detail": null
+    },
+    {
+        "title": "Lexar Professional NM1090 PRO NVMe M.2 PCIe Gen5\u00d74 1TB - LNM109P001T-RNNNG",
+        "price": "4170000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS723 Portable SSD 512GB USB 3.2 Gen2 x2 USB-C",
+        "price": "1299000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS723 Portable SSD 1TB USB 3.2 Gen2 x2 USB-C",
+        "price": "2080000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS723 Portable SSD 2TB USB 3.2 Gen2 x2 USB-C",
+        "price": "3675000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS725 Magnetic Portable SSD 512GB USB 3.2 Gen2 USB-C",
+        "price": "1419000",
+        "detail": null
+    },
+    {
+        "title": "Apacer AS725 Magnetic Portable SSD 1TB USB 3.2 Gen2 USB-C",
+        "price": "2219000",
+        "detail": null
+    },
+    {
+        "title": "Crucial X10 Portable SSD 6TB USB 3.2 Gen 2 2x2 - CT6000X10SSD9",
+        "price": "12120000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P310 SSD 4TB M.2 2280 PCIe Gen4 x4 - CT4000P310SSD8 - R7100MB/s W6000MB/s",
+        "price": "6790000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 900 PRO 1TB NVME PCIe Gen4x4 - R 7400MB/S W 6000MB/S - SLEG-900P-1TCS",
+        "price": "2950000",
+        "detail": null
+    },
+    {
+        "title": "ADATA LEGEND 900 PRO 2TB NVME PCIe Gen4x4 - R 7400MB/S W 6500MB/S - SLEG-900P-2TCS",
+        "price": "5400000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 980 BLADE 1TB PCIe Gen5 x4 - R 14000MB/S W 10000MB/S - SMAR-980B-1TCS",
+        "price": "3280000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 980 BLADE 2TB PCIe Gen5 x4 - R 14000MB/S W 13000MB/S - SMAR-980B-2TCS",
+        "price": "6110000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 980 BLADE 4TB PCIe Gen5 x4 - R 14000MB/S W 13000MB/S - SMAR-980B-4TCS",
+        "price": "11810000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 980 PRO 1TB PCIe Gen5 x4 - R 14000MB/S W 10000MB/S - SMAR-980P-1TCI",
+        "price": "3280000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 980 PRO 2TB PCIe Gen5 x4 - R 14000MB/S W 13000MB/S - SMAR-980P-2TCI",
+        "price": "6050000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 980 PRO 4TB PCIe Gen5 x4 - R 14000MB/S W 13000MB/S - SMAR-980P-4TCI",
+        "price": "11720000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SC750 500GB USB 3.2 External SSD",
+        "price": "1415000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SC750 1TB USB 3.2 External SSD",
+        "price": "2655000",
+        "detail": null
+    },
+    {
+        "title": "ADATA SC750 2TB USB 3.2 External SSD",
+        "price": "5155000",
+        "detail": null
+    },
+    {
+        "title": "Kingston XS1000 Red Portable SSD 1TB USB 3.2 Gen 2 - SXS1000R/1000GA",
+        "price": "5390000",
+        "detail": null
+    },
+    {
+        "title": "Kingston XS1000 Portable SSD 1TB USB 3.2 Gen 2 - SXS1000/1000GA",
+        "price": "5390000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P510 SSD 2TB M.2 2280 PCIe Gen5 x4 - CT2000P510SSD8 - R 10000MB/s W 8700MB/s",
+        "price": "4250000",
+        "detail": null
+    },
+    {
+        "title": "Crucial P510 SSD 1TB M.2 2280 PCIe Gen5 x4 - CT1000P510SSD8 - R 11000MB/s W 9500MB/s",
+        "price": "2350000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN8100 NVMe SSD 4TB M.2 2280 PCIe Gen5 x4 - R 14900MB/s W 14000MB/s",
+        "price": "25150000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN8100 NVMe SSD 2TB M.2 2280 PCIe Gen5 x4 - R 14900MB/s W 14000MB/s",
+        "price": "12390000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN8100 NVMe SSD 1TB M.2 2280 PCIe Gen5 x4 - R 14900MB/s W 11000MB/s",
+        "price": "6190000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SATA SSD 2TB SATA III - R 545MB/s",
+        "price": "8070000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SATA SSD 500GB SATA III - R 545MB/s",
+        "price": "2165000",
+        "detail": null
+    },
+    {
+        "title": "WD Green SATA SSD 250GB SATA III - R 545MB/s",
+        "price": "1225000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C925G 500GB M.2 2280 NVMe PCle Gen4 x4 with Heatsink - K500GM2SP0-25G - R7400MB/s W6200MB/s",
+        "price": "1770000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C925G 1TB M.2 2280 NVMe PCle Gen4 x4 with Heatsink - K01TBM2SP0-25G - R7400MB/s W6300MB/s",
+        "price": "2990000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C925G 2TB M.2 2280 NVMe PCle Gen4 x4 with Heatsink - K02TBM2SP0-25G - R7400MB/s W6500MB/s",
+        "price": "5480000",
+        "detail": null
+    },
+    {
+        "title": "CUBE GAMING Phoenix SSD 2TB M.2 NVME PCIe Gen3x4 (Up to - R 3500MB/s W 3200MB/s)",
+        "price": "3970000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD NVME PM9C1 1TB MZ-VL81T0HELB - Grs 3th",
+        "price": "2425000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 NVMe PCIe Gen4 x4 4TB - Tsunami Series",
+        "price": "9679000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 NVMe PCIe Gen4 x4 4TB - Tsunami Series with Heatsink",
+        "price": "9789000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD420C 1TB Magnetic Portable SSD USB 3.2 Gen 2x2",
+        "price": "3950000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD420C 2TB Magnetic Portable SSD USB 3.2 Gen 2x2",
+        "price": "7350000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD420C 4TB Magnetic Portable SSD USB 3.2 Gen 2x2",
+        "price": "14650000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD420G 1TB Magnetic Portable SSD USB 3.2 Gen 2x2",
+        "price": "3950000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD420G 2TB Magnetic Portable SSD USB 3.2 Gen 2x2",
+        "price": "7350000",
+        "detail": null
+    },
+    {
+        "title": "Transcend ESD420G 4TB Magnetic Portable SSD USB 3.2 Gen 2x2",
+        "price": "14650000",
+        "detail": null
+    },
+    {
+        "title": "Kingston XS1000 Red Portable SSD 2TB USB 3.2 Gen 2 - SXS1000R/2000GA",
+        "price": "8950000",
+        "detail": null
+    },
+    {
+        "title": "Kingston XS1000 Portable SSD 2TB USB 3.2 Gen 2 - SXS1000/2000GA",
+        "price": "8950000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD NVME PM9C1 512GB MZ-VL8512HELU - Grs 3th",
+        "price": "1305000",
+        "detail": null
+    },
+    {
+        "title": "MSI DATAMAG 40Gbps 2TB Magnetic Portable SSD USB4",
+        "price": "7050000",
+        "detail": null
+    },
+    {
+        "title": "MSI DATAMAG 40Gbps 1TB Magnetic Portable SSD USB4",
+        "price": "4250000",
+        "detail": null
+    },
+    {
+        "title": "Team NV5000 1TB M.2 PCIe Gen4 x4 - TM8FGM001T0C101 - R 4500MB/s & W 1900MB/s",
+        "price": "2290000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SN5100 NVMe SSD 2TB M.2 2280 PCIe Gen4 x4 - R 7100MB/s W 6700MB/s",
+        "price": "7930000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SN5100 NVMe SSD 1TB M.2 2280 PCIe Gen4 x4 - R 7100MB/s W 6700MB/s",
+        "price": "3940000",
+        "detail": null
+    },
+    {
+        "title": "WD Blue SN5100 NVMe SSD 500GB M.2 2280 PCIe Gen4 x4 - R 6600MB/s W 5600MB/s",
+        "price": "1550000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Core Classic SSD 4TB SATA3",
+        "price": "3530000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NQ780 2TB M.2 2280 PCIe Gen 4x4 - LNQ780X002T-RNNNG",
+        "price": "5290000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NQ780 1TB M.2 2280 PCIe Gen 4x4 - LNQ780X001T-RNNNG",
+        "price": "2835000",
+        "detail": null
+    },
+    {
+        "title": "Lexar NQ780 512GB M.2 2280 PCIe Gen 4x4 - LNQ780X512G-RNNNG",
+        "price": "2035000",
+        "detail": null
+    },
+    {
+        "title": "Paradox Gaming Ballista Advance SSD 2TB M.2 NVMe 2280",
+        "price": "2185000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 8TB MZ-VAP8T0B - Grs 5th",
+        "price": "27965000",
+        "detail": null
+    },
+    {
+        "title": "Samsung SSD 9100 PRO M.2 PCIe Gen5.0 8TB MZ-VAP8T0C with Heatsink - Grs 5th",
+        "price": "28415000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C910G 2TB M.2 2280 NVMe PCle Gen4 x4 - K02TBM2SP0-10G - R5200MB/s W4800MB/s",
+        "price": "5340000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Plus 500GB - SDSSDA-500G",
+        "price": "1130000",
+        "detail": null
+    },
+    {
+        "title": "Sandisk SSD Plus 250GB - SDSSDA-250G",
+        "price": "1300000",
+        "detail": null
+    },
+    {
+        "title": "Kingston SSD NV3 4TB M.2 NVMe PCIe Gen 4.0 x4",
+        "price": "7850000",
+        "detail": null
+    },
+    {
+        "title": "Kingston DC600M 2.5 SATA Enterprise SSD 960GB - SEDC600M/960G - R 560MB/s & W 530MB/s",
+        "price": "4550000",
+        "detail": null
+    },
+    {
+        "title": "Kingston DC600M 2.5 SATA Enterprise SSD 1.92TB - SEDC600M/1920G - R 560MB/s & W 530MB/s",
+        "price": "7390000",
+        "detail": null
+    },
+    {
+        "title": "Kingston DC600M 2.5 SATA Enterprise SSD 3.84TB - SEDC600M/3840G - R 560MB/s & W 530MB/s",
+        "price": "13090000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Creator Pro Portable SSD 1TB USB 3.2 Gen2 x2 - SDSSDE81C-1T00-G25",
+        "price": "3130000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 425S 250GB M.2 2242 SATA III - R 500MB/s & W 330MB/s",
+        "price": "760000",
+        "detail": null
+    },
+    {
+        "title": "Transcend 425S 500GB M.2 2242 SATA III - R 530MB/s & W 480MB/s",
+        "price": "1510000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE260S 1TB M.2 2280 NVMe PCIe Gen5 x4 - R 14000MB/s & W 9800MB/s",
+        "price": "4170000",
+        "detail": null
+    },
+    {
+        "title": "Transcend MTE260S 2TB M.2 2280 NVMe PCIe Gen5 x4 - R 14000MB/s & W 11000MB/s",
+        "price": "9770000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SN700 NVMe SSD 4TB M.2 2280 D5-M PCIe Gen3 x4 - R 3400MB/s W 3100MB/s",
+        "price": "6690000",
+        "detail": null
+    },
+    {
+        "title": "WD Red SN700 NVMe SSD 2TB M.2 2280-S3-M PCIe Gen3 x4 - R 3400MB/s W 2900MB/s",
+        "price": "3490000",
+        "detail": null
+    },
+    {
+        "title": "Corsair EX400U SURVIVOR 4TB USB4 External SSD - CSSD-EX400US4TB",
+        "price": "8850000",
+        "detail": null
+    },
+    {
+        "title": "Corsair EX400U SURVIVOR 2TB USB4 External SSD - CSSD-EX400US2TB",
+        "price": "5090000",
+        "detail": null
+    },
+    {
+        "title": "Corsair EX400U SURVIVOR 1TB USB4 External SSD - CSSD-EX400US1TB",
+        "price": "3045000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD CRAS C910G 1TB M.2 2280 NVMe PCle Gen4 x4 - K01TBM2SP0-10G - R5000MB/s W4800MB/s",
+        "price": "2850000",
+        "detail": null
+    },
+    {
+        "title": "WD Black C50 Expansion Card for Xbox 512GB",
+        "price": "1455000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Creator Phone SSD 2TB USB 3.2 Gen 2 - SDSSDE62C-2T00 - R 1000MB/s W 950MB/s",
+        "price": "3995000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Creator Phone SSD 1TB USB 3.2 Gen 2 - SDSSDE62C-1T00 - R 1000MB/s W 950MB/s",
+        "price": "2595000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Creator Desk Drive Desktop SSD 8TB USB 3.2 Gen 2 - SDSSDT40C-8T00 - R 1000MB/s",
+        "price": "16290000",
+        "detail": null
+    },
+    {
+        "title": "SanDisk Creator Desk Drive Desktop SSD 4TB USB 3.2 Gen 2 - SDSSDT40C-4T00 - R 1000MB/s",
+        "price": "8190000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 MINI 2TB M.2 NVMe PCIe Gen4 x4 - CSSD-F2000GBMP600MNR2",
+        "price": "5350000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP600 MINI 1TB M.2 NVMe PCIe Gen4 x4 - CSSD-F1000GBMP600MNR2",
+        "price": "3180000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 PRO XT 2TB M.2 NVMe PCIe Gen5 x4 - CSSD-F20GBMP700PXNH",
+        "price": "5850000",
+        "detail": null
+    },
+    {
+        "title": "Corsair MP700 PRO XT 1TB M.2 NVMe PCIe Gen5 x4 - CSSD-F10GBMP700PXNH",
+        "price": "3950000",
+        "detail": null
+    },
+    {
+        "title": "Kingston Dual Portable SSD 1TB USB 3.2 Gen 2 - SPSD/1TB",
+        "price": "3590000",
+        "detail": null
+    },
+    {
+        "title": "Kingston Dual Portable SSD 2TB USB 3.2 Gen 2 - SPSD/2TB",
+        "price": "5790000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD 4TB",
+        "price": "9289000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 NVMe PCIe Gen4 x4 8TB - Tsunami Series",
+        "price": "17289000",
+        "detail": null
+    },
+    {
+        "title": "V-GeN SSD M.2 NVMe PCIe Gen4 x4 8TB - Tsunami Series with Heatsink",
+        "price": "17389000",
+        "detail": null
+    },
+    {
+        "title": "Team NV5000 2TB M.2 PCIe Gen4 x4 - TM8FGM002T0C101 - R 5000MB/s & W 3000MB/s",
+        "price": "4169000",
+        "detail": null
+    },
+    {
+        "title": "Zhitai Ti600 500GB M.2 NVME PCIe Gen4x4 - R 6.000MB/s W 3.000MB/s",
+        "price": "1350000",
+        "detail": null
+    },
+    {
+        "title": "Zhitai Ti600 1TB M.2 NVME PCIe Gen4x4 - R 7.000MB/s W 7.000MB/s",
+        "price": "2450000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD NEO N410+ 256GB - K256GSSDS3-N41 - R540MB/s W500MB/s",
+        "price": "930000",
+        "detail": null
+    },
+    {
+        "title": "KLEVV SSD NEO N410+ 512GB - K512GSSDS3-N41 - R540MB/s W500MB/s",
+        "price": "1540000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force M200 Portable SSD 4TB USB Type-C - T8FED9004T0C102 - R 1800MB/s & W 1500MB/s",
+        "price": "7350000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force M200 Portable SSD 2TB USB Type-C - T8FED9002T0C102 - R 1800MB/s & W 1500MB/s",
+        "price": "3770000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force M200 Portable SSD 1TB USB Type-C - T8FED9001T0C102 - R 1800MB/s & W 1500MB/s",
+        "price": "2370000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force M200 Portable SSD 500GB USB Type-C - T8FED9500G0C102 - R 1800MB/s & W 1500MB/s",
+        "price": "1650000",
+        "detail": null
+    },
+    {
+        "title": "ADATA XPG MARS 970 PLUS 1TB PCIe Gen5 x4 - R 11000MB/s W 10000MB/s - SMAR-970PL-1TCS",
+        "price": "2999000",
+        "detail": null
+    },
+    {
+        "title": "Team T-Force G50 512GB M.2 PCIe Gen4.0 x4 - TM8FFE512G0C129 - R 5000MB/s & W 2500MB/s",
+        "price": "1475000",
+        "detail": null
+    },
+    {
+        "title": "Kingston XS2000 Portable SSD 500GB USB 3.2 Gen 2x2 - SXS2000/500GA - R 2000MB/s & W 2000MB/s",
+        "price": "4400000",
+        "detail": null
+    },
+    {
+        "title": "Kingston XS2000 Portable SSD 2TB USB 3.2 Gen 2x2 - SXS2000/2000GA - R 2000MB/s & W 2000MB/s",
+        "price": "11500000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SNV5420 1600GB M.2 2280 NVMe PCIe 3.0 x4",
+        "price": "17890000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SNV5420 800GB M.2 2280 NVMe PCIe 3.0 x4",
+        "price": "10790000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SNV5420 400GB M.2 2280 NVMe PCIe 3.0 x4",
+        "price": "6650000",
+        "detail": null
+    },
+    {
+        "title": "Synology Enterprise SAT5221 480GB SATA3",
+        "price": "4070000",
+        "detail": null
+    },
+    {
+        "title": "Transcend TS256GMTE110S NVMe PCIe Gen3 x4 M.2 256GB (OEM Package)",
+        "price": "900000",
+        "detail": null
+    }
+]
