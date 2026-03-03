@@ -210,9 +210,10 @@ def _parse_ram_info(name: str) -> Optional[RAMInfo]:
         if ddr_speed_match:
             speed_mhz = int(ddr_speed_match.group(1))
         else:
-            pc_match = re.search(r"PC\d?[- ](\d{4,6})", name)
+            pc_match = re.search(r"PC\d?[- ]?(\d{4,6})", name)
             if pc_match:
-                speed_mhz = int(pc_match.group(1)) // 8
+                pc_value = int(pc_match.group(1))
+                speed_mhz = pc_value // 8 if pc_value > 10000 else pc_value
             else:
                 return None
 
