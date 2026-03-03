@@ -1,0 +1,3327 @@
+[
+    {
+        "title": "AFOX B760D4-MA-V4 (LGA1700, B760, DDR4)",
+        "price": "1095000",
+        "detail": null
+    },
+    {
+        "title": "AFOX H110-D4 NVME (LGA 1151, H110, DDR4)",
+        "price": "700000",
+        "detail": null
+    },
+    {
+        "title": "AFOX H81",
+        "price": "390000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH110-MA4-V2 (LGA1151, H110, DDR4)",
+        "price": "700000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH310C-MA6-V4 (LGA1151, H310, DDR4)",
+        "price": "765000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH510-MA2-V2 (LGA1200, H510, DDR4)",
+        "price": "880000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH510D4-MA6-V2 (LGA1200, H510, DDR4)",
+        "price": "900000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH61-MA5 (LGA1155, Intel H61, DDR3)",
+        "price": "290000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH610D4-MA-V2 (LGA1700, H610, DDR4)",
+        "price": "1070000",
+        "detail": null
+    },
+    {
+        "title": "AFOX IH81-MA (LGA1150, Intel H81, DDR3)",
+        "price": "395000",
+        "detail": null
+    },
+    {
+        "title": "AMD Ryzen 5 5600GT 3.6Ghz Up To 4.6Ghz Cache 16MB 65W AM4 [Tray] - 6 Core - 100-100001488MPK - with AMD Wraith Stealth Cooler",
+        "price": "2440000",
+        "detail": null
+    },
+    {
+        "title": "Amptron Intel H61 (LGA1155, Intel H61, DDR3)",
+        "price": "280000",
+        "detail": null
+    },
+    {
+        "title": "Arktek Alpha Force AK-H510M EG (LGA1200, H510, DDR4, USB3.0, SATA3, M.2 NVME Ready, DP+HDMI, Gigabit LAN)",
+        "price": "975000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A520M-HVS (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "800000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A520M-ITX/ac (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "1725000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A520M-PRO4 (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "1420000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A520M/ac (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "990000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A620AI WIFI (AM5, AMD A620A, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2815000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A620AM-H2 (AM5, AMD A620A, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1470000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A620AM-HVS (AM5, AMD A620A, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1581000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A620M-HDV/M.2 (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+        "price": "1550000",
+        "detail": null
+    },
+    {
+        "title": "ASRock A620M-HDV/M.2+ (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+        "price": "1655000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B450M Pro4 R2.0 (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+        "price": "1115000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B450M Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+        "price": "1410000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B450M-HDV R4.0 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+        "price": "880000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B460M-ITX/ac (LGA1200, B460, DDR4, USB3.2, SATA3)",
+        "price": "1635000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550 PG Riptide (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2095000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550 Phantom Gaming Velocita (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "3570000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550 Steel Legend (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2550000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550 Taichi (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "3805000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550 Taichi Razer Edition (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "3910000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M ITX/AC (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2195000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M PG Riptide (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1970000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M Phantom Gaming 4 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1459000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M Pro SE (AM4, AMD PRO565, DDR4, USB3.2, SATA3)",
+        "price": "1510000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M Pro4 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1615000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M Steel Legend (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2100000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M WIFI SE (AM4, AMD PRO565, DDR4, USB3.2, SATA3)",
+        "price": "1645000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M-HDV (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1175000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B550M-HVS SE (AM4, AMD PRO565, DDR4, USB3.2, SATA3)",
+        "price": "1050000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B560 Pro4 (LGA1200, B560, DDR4, USB3.2, SATA3)",
+        "price": "1836000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B560 Steel Legend (LGA1200, B560, DDR4, USB3.2, SATA3)",
+        "price": "2205000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650 LiveMixer (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3725000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650 PG Lightning (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2980000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650 Pro RS (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3175000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650 Steel Legend WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3675000",
+        "detail": null
+    },
+    {
+        "title": "AsRock B650D4U (AM5, AMD B650, DDR5)",
+        "price": "6950000",
+        "detail": null
+    },
+    {
+        "title": "AsRock B650D4U-2L2T/BCM (AM5, AMD B650, DDR5)",
+        "price": "11675000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650E PG Riptide WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4345000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650E PG-ITX WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5365000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650E Steel Legend WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3),B650E Steel Legend",
+        "price": "4960000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650E Taichi Lite (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5165000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650I Lightning WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3520000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PG Lightning (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PG Lightning WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2245000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PG Riptide (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2550000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PG Riptide WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2805000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PG Riptide WIFI White (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2840000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M Pro RS (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2225000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M Pro RS WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2530000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PRO X3D (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2480000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M PRO X3D WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2705000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M-H/M.2+ (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1755000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M-H/M.2+ WIFI (AM5, AMD B650, DDR5, USB3.2, SATA3)",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M-HDV/M.2 (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1865000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B650M-HDV/M.2 White (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1970000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B660 Steel Legend (LGA1700, B660, DDR4, USB3.2, SATA3)",
+        "price": "2652000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B660M PG Riptide (LGA1700, B660, DDR4, USB3.2, SATA3)",
+        "price": "1857000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B660M Steel Legend (LGA1700, B660, DDR4, USB3.2, SATA3)",
+        "price": "1999000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B660M-ITX/ac (LGA1700, B660, DDR4, USB3.2, SATA3)",
+        "price": "1938000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760 Pro RS (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2550000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760 Pro RS WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2700000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760 Pro RS/D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "2280000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M PG Lightning (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M PG Lightning WIFI (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "2205000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M PG Lightning/D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1705000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M PG RIPTIDE (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2420000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M PG Sonic WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3125000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro RS (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2325000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro RS WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2580000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro RS WIFI White (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2645000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro RS/D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1820000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro RS/D4 WIFI (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "2150000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro-A (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1970000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro-A WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2330000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro-A/D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1820000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Pro-A/D4 WIFI (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1970000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M Steel Legend WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2825000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M-H/M.2 (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1745000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M-H2/M.2 (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1805000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M-HDV/M.2 (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1867000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M-HDV/M.2 D4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1490000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M-HDVP (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1795000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B760M-ITX/D4 WIFI (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "2397000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B840M-HVS (AM5, AMD B840, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1635000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Challenger WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3570000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Challenger WIFI White (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3625000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 LiveMixer WiFi (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3675000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Pro RS (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3285000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Pro RS WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3470000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Pro-A (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3080000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Pro-A WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3285000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Riptide WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4030000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Rock WiFi 7 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3125000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850 Steel Legend WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3825000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850I Lightning WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3775000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M PRO RS (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2825000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M PRO RS WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3030000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M Pro-A (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2480000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M Pro-A WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2735000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M Riptide WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3440000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M Steel Legend WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3335000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M-A (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1805000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M-X (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1887000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M-X R2.0 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1887000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B850M-X WIFI R2.0 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2295000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 Lightning WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3910000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 LiveMixer WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3500000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 Pro RS (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2500000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 Pro RS WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2920000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 Pro-A (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2615000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 Pro-A WIFI (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2900000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860 Steel Legend WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3600000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860I Lightning WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3805000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860I WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2815000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M Lightning WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3325000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M LiveMixer WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3020000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M Pro RS (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2480000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M Pro RS WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2715000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M Pro-A (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2255000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M Pro-A WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2565000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M Steel Legend WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3070000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M-H2 (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2000000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M-X Gen5 WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2438000",
+        "detail": null
+    },
+    {
+        "title": "ASRock B860M-X WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2305000",
+        "detail": null
+    },
+    {
+        "title": "ASRock E3C252D4U (LGA1200, C252, DDR4)",
+        "price": "6350000",
+        "detail": null
+    },
+    {
+        "title": "ASRock EP2C621D12 WS (LGA3647, C612, DDR4)",
+        "price": "11600000",
+        "detail": null
+    },
+    {
+        "title": "AsRock EP2C621D8 (LGA3647, C621, DDR4)",
+        "price": "10400000",
+        "detail": null
+    },
+    {
+        "title": "ASRock EPC612D4I (LGA2011, C612, DDR4)",
+        "price": "5700000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H370M-HDV/M.2 (LGA1151V2, H370, DDR4, USB3.2, SATA3)",
+        "price": "850000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H410M-H/M.2 SE (LGA1200, H410, DDR4, USB3.2, SATA3)",
+        "price": "890000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H470M-HDV/M.2 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "1000000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H510M-A/M.2 SE (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "867000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H510M-H2/M.2 SE (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "1000000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M-H2/M.2 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "945000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M-H2/M.2 D5 (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1155000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M-HDV/M.2 R2.0 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1072000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M-HDV/M.2+ D5 (LGA1700, H610, DDR5, USB3.2, SATA3, Port RGB, White)",
+        "price": "1255000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M-HVS/M.2 R2.0 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1060000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M-X D5 (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1337000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H610M/ac (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1337000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H810M-H (LGA1851, H810, DDR5 USB3.2, SATA3)",
+        "price": "1520000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H810M-X (LGA1851, H810, DDR5 USB3.2 Type-C, SATA3)",
+        "price": "1695000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H810M-X WIFI (LGA1851, H810, DDR5 USB3.2 Type-C, SATA3)",
+        "price": "2000000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H81M-VG4 (LGA1150, H81, DDR3)",
+        "price": "865000",
+        "detail": null
+    },
+    {
+        "title": "ASRock H81M-VG4 R4.0 (LGA1150, H81, DDR3)",
+        "price": "860000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming A620I Lightning WIFI (AM5, AMD A620, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2820000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming B760I Lightning WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3745000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming X870 Riptide WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5205000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming X870E Nova WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6690000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming Z790 Lightning WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3090000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming Z790 NOVA WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5645000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming Z790 Riptide WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3988000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Phantom Gaming Z790I Lightning WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5845000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Rack Server Motherboard EC266D4U (LGA1700, C266, DDR5)",
+        "price": "7300000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Rack Server Motherboard EP2C621D16-4LP (Dual Socket P, C621, DDR4)",
+        "price": "12200000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Rack Server Motherboard EPC621D8A (LGA3647, C621, DDR4)",
+        "price": "8900000",
+        "detail": null
+    },
+    {
+        "title": "ASRock TRX50 WS (sTR5, AMD TRX50, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "14372000",
+        "detail": null
+    },
+    {
+        "title": "ASRock W790 WS (LGA4677, W790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "17034000",
+        "detail": null
+    },
+    {
+        "title": "ASRock WRX90 WS EVO (sTR5, AMD WRX90, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "19393000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X570 Phantom Gaming 4 (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+        "price": "2560000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X570 Steel Legend (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+        "price": "2860000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X570 Steel Legend WIFI AX (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+        "price": "3175000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X570 Taichi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+        "price": "4805000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X670E PG Lightning (AM5, AMD X670, DDR5, USB 3.2, SATA3)",
+        "price": "3856000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X670E Pro RS (AM5, AMD X670, DDR5, USB 3.2, SATA3)",
+        "price": "4620000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X670E Steel Legend (AM5, AMD X670, DDR5, USB 3.2, SATA3)",
+        "price": "5165000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X670E Taichi (AM5, AMD X670, DDR5, USB 3.2, SATA3)",
+        "price": "8225000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X670E Taichi Carrara (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "9470000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870 LiveMixer WiFi (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4645000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870 Pro RS (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4135000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870 Pro RS WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4305000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870 Pro-A WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3897000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870 Steel Legend WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4815000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870E Taichi (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8715000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870E Taichi Lite (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8079000",
+        "detail": null
+    },
+    {
+        "title": "ASRock X870E Taichi OCF (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8940000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z490M ITX/AC (LGA1200, Z490, DDR4, USB3.2, SATA3)",
+        "price": "2520000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z590 Steel Legend (LGA1200, Z590, DDR4, USB3.2, SATA3)",
+        "price": "2960000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z690 Pro RS (LGA1700, Z690, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "2887000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z790 LiveMixer (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4785000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z790 PG-ITX/TB4 (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5940000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z790 Pro RS (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3090000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z790 Pro RS Wifi (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3380000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z790 Steel Legend WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4860000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Lightning WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4682000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 LiveMixer WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4275000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 NOVA WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6295000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Pro RS (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "3925000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Pro RS WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4050000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Pro RS WIFI WHITE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4195000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Pro-A (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "3115000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Pro-A WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "3420000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Riptide WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5070000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Steel Legend WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4685000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Taichi (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "7195000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Taichi AQUA (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "14637000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Taichi Lite (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6175000",
+        "detail": null
+    },
+    {
+        "title": "ASRock Z890 Taichi OCF (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "9027000",
+        "detail": null
+    },
+    {
+        "title": "Asus B650M-AYW WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2165000",
+        "detail": null
+    },
+    {
+        "title": "Asus B850M AYW GAMING WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2897000",
+        "detail": null
+    },
+    {
+        "title": "Asus B860M AYW GAMING WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3070000",
+        "detail": null
+    },
+    {
+        "title": "Asus H81M-K (LGA1150, Intel H81, DDR3)",
+        "price": "1095000",
+        "detail": null
+    },
+    {
+        "title": "ASUS P13R-M (LGA1700, C262, DDR5, USB 3.2)",
+        "price": "9100000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME A520M-A II (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "1030000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME A520M-K (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "850000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME A620M-A (AM5, A620, DDR5, USB 3.2, SATA3)",
+        "price": "1840000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME A620M-K (AM5, A620, DDR5, USB3.2, SATA3)",
+        "price": "1715000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B450M-A II (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+        "price": "1120000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B450M-K (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+        "price": "997000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B450M-K II (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+        "price": "985000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B550M-A (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1565000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B550M-A WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1645000",
+        "detail": null
+    },
+    {
+        "title": "Asus Prime B550M-K (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1380000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B550M-K ARGB (AM4, AMD Promontory B550, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1235000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B650EM-A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2540000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B650M-A II (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2195000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B650M-A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2479000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B650M-A WIFI II (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2305000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B650M-K (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B650M-R (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1910000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-A (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2515000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-A D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1845000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-A WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2460000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-A WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "2377000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-AYW WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2100000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-F (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1725000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B760M-K D4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1685000",
+        "detail": null
+    },
+    {
+        "title": "Asus Prime B760M-K D5 (LGA1700, B760M, DDR5, USB3.2,SATA3)",
+        "price": "2010000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B840M-A WIFI-CSM (AM5, AMD B840, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2890000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B850M-A WIFI-CSM (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2870000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B860M-A WIFI-CSM (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3272000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME B860M-K-CSM (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2688000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H510M-F R3.0 (LGA1200, H470, DDR4, USB3.1, SATA3)",
+        "price": "1015000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H510M-K R2.0 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "1060000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-D (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1490000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-D D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1180000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-D/CSM D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1250000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-E D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1345000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-E D4-CSM (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1297000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-K (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1205000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-K ARGB (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1250000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-K D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1115000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-K D4-CSM (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1110000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H610M-R D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1215000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H810M-A-CSM (LGA1851, H810, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2238000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME H810M-E (LGA1851, H810, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2180000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME X670-P WIFI-CSM (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4765000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME X870-P WIFI-CSM (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5560000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME Z790-P WIFI-CSM (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4545000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME Z890-P WIFI-CSM (LGA1851, Z890, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "5290000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRIME Z890M-PLUS WIFI-CSM (LGA1851, Z890, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "4830000",
+        "detail": null
+    },
+    {
+        "title": "Asus Pro WS B850M-ACE SE (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7825000",
+        "detail": null
+    },
+    {
+        "title": "Asus Pro WS TRX50-SAGE WIFI (sTR5, AMD TRX50, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "15915000",
+        "detail": null
+    },
+    {
+        "title": "Asus Pro WS W790-ACE (LGA4677, W790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "16745000",
+        "detail": null
+    },
+    {
+        "title": "Asus PRO WS WRX80E-SAGE SE WIFI (sWRX8, AMD WRX80, DDR4, USB 3.2, SATA3)",
+        "price": "17485000",
+        "detail": null
+    },
+    {
+        "title": "Asus Pro WS WRX90E-SAGE SE (sTR5, AMD WRX90, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "23010000",
+        "detail": null
+    },
+    {
+        "title": "Asus PROART B760-CREATOR WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5275000",
+        "detail": null
+    },
+    {
+        "title": "Asus ProArt X670E-CREATOR WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8875000",
+        "detail": null
+    },
+    {
+        "title": "Asus ProArt X870E-CREATOR WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "9070000",
+        "detail": null
+    },
+    {
+        "title": "Asus PROART Z890 CREATOR WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "9787000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X670E EXTREME (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "16010000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X670E GENE (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "10545000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X670E HERO (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "11530000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X870E APEX (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "12295000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X870E EXTREME (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "22395000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X870E HERO (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "11910000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG CROSSHAIR X870E HERO BTF (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "13690000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG Maximus Z690 Apex (LGA1700, Z690, DDR5, USB3.2, SATA3)",
+        "price": "6500000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z790 DARK HERO (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "12378000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z790 FORMULA (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "13750000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z790 HERO (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "11910000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z790 HERO BTF (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "12590000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z790 HERO EVA-02 Edition (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "12315000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z890 APEX (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "13475000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z890 EXTREME (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "20151000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z890 HERO (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "13899000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG MAXIMUS Z890 HERO BTF (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "12860000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B550-F Gaming WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2930000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B650-A Gaming WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3960000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B650E-F Gaming WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5290000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B650E-I Gaming WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5270000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B760-A Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4595000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B760-A Gaming WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "4495000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B760-F Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4690000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B760-G Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3650000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B760-I Gaming WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4300000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B850-A GAMING WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5245000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B850-F GAMING WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5630000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B850-G GAMING WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4366000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B850-I GAMING WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4855000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B860-A GAMING WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "4970000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B860-F GAMING WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "5584000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B860-G GAMING WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "4478000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX B860-I GAMING WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "4667000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X670E-A Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6910000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X670E-E Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "9185000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X670E-F Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7120000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X670E-I Gaming WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7530000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X870-A GAMING WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7455000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X870-F GAMING WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8000000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X870-I GAMING WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7697000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X870E-E GAMING WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "9656000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX X870E-H GAMING WIFI7 (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7660000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z790-A Gaming WIFI II (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7599000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z790-F Gaming WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7995000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z790-F Gaming WIFI II (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8250000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z790-I Gaming WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5920000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z890-A GAMING WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "7630000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z890-E GAMING WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "10090000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z890-F GAMING WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "8550000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z890-H GAMING WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6800000",
+        "detail": null
+    },
+    {
+        "title": "Asus ROG STRIX Z890-I GAMING WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "8288000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING A620M-PLUS WIFI (AM5, A620, DDR5, USB 3.2 Type-C, SATA3)",
+        "price": "2625000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B550-PLUS WIFI II (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2930000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B550M-E (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2175000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B650EM-E WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2975000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B650M-E WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2785000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B650M-PLUS WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3380000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B760-PLUS WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3115000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B760-PLUS WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "3185000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B760M-BTF WIFI D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "3237000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming B760M-E D4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "2135000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B850-PLUS WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4540000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B850M-E WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3625000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B850M-PLUS WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3650000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B850M-PLUS WIFI7 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3845000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B850M-PLUS WIFI7 W (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4065000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B860-PLUS WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "5798000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING B860M-PLUS WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3657000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING X670E-PLUS WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6190000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING X870-PLUS WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6150000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming Z790-PLUS WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6100000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF Gaming Z790-PLUS WIFI D4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "4650000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING Z890-PLUS WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6230000",
+        "detail": null
+    },
+    {
+        "title": "Asus TUF GAMING Z890-PRO WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6115000",
+        "detail": null
+    },
+    {
+        "title": "Asus Workstation P11C-X (LGA1151, C242, DDR4)",
+        "price": "3800000",
+        "detail": null
+    },
+    {
+        "title": "Asus X870 MAX GAMING WIFI7 W (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5275000",
+        "detail": null
+    },
+    {
+        "title": "Asus Z11PA-D8 (LGA3647, C621, DDR4)",
+        "price": "12100000",
+        "detail": null
+    },
+    {
+        "title": "ASUS Z13PE-D16 (LGA4677, C741, DDR5, USB 3.2)",
+        "price": "26700000",
+        "detail": null
+    },
+    {
+        "title": "Biostar A520MHP (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "805000",
+        "detail": null
+    },
+    {
+        "title": "Biostar A520MS (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "830000",
+        "detail": null
+    },
+    {
+        "title": "Biostar A620MP-E PRO (AM5, A620, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1530000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B450MH (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+        "price": "820000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B550MH (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1065000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B560MHP (LGA1200, B560, DDR4, USB3.2, SATA3)",
+        "price": "967000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B650MP-E PRO (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1790000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B650MT (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1416000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B760M-Silver (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1925000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B760MX2-E (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1475000",
+        "detail": null
+    },
+    {
+        "title": "Biostar B760MX2-E D4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1395000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H310MHP (LGA1151V2, Intel H310, USB3.1, DDR4)",
+        "price": "830000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H510MHP 4.0 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "990000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H510MX/E (LGA1200, H510, DDR4, USB3.2, SATA3)",
+        "price": "800000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H610MHC 2.0 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "918000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H610MHP (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "995000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H610MHP-E (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "975000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H610MT-E D5 (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1070000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H610MX2-E D5 (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1110000",
+        "detail": null
+    },
+    {
+        "title": "Biostar H81MHV3 (LGA1150, Intel H81, DDR3)",
+        "price": "975000",
+        "detail": null
+    },
+    {
+        "title": "Biostar Z790 Valkyrie (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3795000",
+        "detail": null
+    },
+    {
+        "title": "Colorful BATTLE-AX B760M-F V20A (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1205000",
+        "detail": null
+    },
+    {
+        "title": "Colorful BATTLE-AX B760M-G WIFI V20 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1560000",
+        "detail": null
+    },
+    {
+        "title": "Colorful BATTLE-AX H610M-E WIFI V20 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1097000",
+        "detail": null
+    },
+    {
+        "title": "Colorful BATTLE-AX H610M-GHA WIFI D5 V20 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1155000",
+        "detail": null
+    },
+    {
+        "title": "Colorful C.H81M-K PLUS V23B (LGA1150)",
+        "price": "850000",
+        "detail": null
+    },
+    {
+        "title": "Colorful CH310M-F M.2 V20 (LGA1151, H310, DDR4, USB3.2, SATA3)",
+        "price": "720000",
+        "detail": null
+    },
+    {
+        "title": "Colorful CH510M-K M.2 V21 (LGA1200, H510, DDR4, USB3.2, SATA3)",
+        "price": "890000",
+        "detail": null
+    },
+    {
+        "title": "Colorful CVN B760I FROZEN WIFI D5 V20 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2245000",
+        "detail": null
+    },
+    {
+        "title": "Colorful CVN B760M FROZEN WIFI D5 V20 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2290000",
+        "detail": null
+    },
+    {
+        "title": "Colorful CVN Z790D5 ARK FROZEN V20 (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4295000",
+        "detail": null
+    },
+    {
+        "title": "Colorful CVN Z790D5 GAMING PRO WIFI V20 (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3625000",
+        "detail": null
+    },
+    {
+        "title": "Colorful H610M-D M.2 V20 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "950000",
+        "detail": null
+    },
+    {
+        "title": "Colorful H81M-T M.2 V20 (LGA1150, H81, DDR3, USB2.0, SATA3)",
+        "price": "705000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance B650M DDR5 (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1205000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance B760M PRO4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "980000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance B760M PRO5 (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1080000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance DA H81 (LGA1150, H81, DDR3)",
+        "price": "350000",
+        "detail": null
+    },
+    {
+        "title": "Digital alliance H110 (LGA1151, H110, DDR4)",
+        "price": "700000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance H310 (LGA1151, H310, DDR4, USB3.2, SATA3)",
+        "price": "690000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance H510M (LGA1200, H510, DDR4, USB3.2, NVMe)",
+        "price": "800000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance H61 (LGA1155, Intel H61, DDR3)",
+        "price": "300000",
+        "detail": null
+    },
+    {
+        "title": "Digital Alliance H610M (LGA1700, H610, DDR4, USB3.2, NVMe)",
+        "price": "835000",
+        "detail": null
+    },
+    {
+        "title": "ECS A320AM4-M3D (AM4, AMD Promontory A320, DDR4, SATA3)",
+        "price": "750000",
+        "detail": null
+    },
+    {
+        "title": "ECS B365H5-M22 (LGA1151V2, Intel B365, DDR4)",
+        "price": "935000",
+        "detail": null
+    },
+    {
+        "title": "ECS H310CH5-M2 (LGA1151V2, Intel H310, DDR4)",
+        "price": "770000",
+        "detail": null
+    },
+    {
+        "title": "ECS H310H5-M2 (LGA1151, Intel H310, DDR4)",
+        "price": "690000",
+        "detail": null
+    },
+    {
+        "title": "ECS H510H6-M2 (LGA1200, Intel H510, DDR4)",
+        "price": "780000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A520 I AC (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "1870000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A520M DS3H V2 (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "1050000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A520M K V2 (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "840000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A620I AX (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+        "price": "2795000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A620M DS3H (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+        "price": "1645000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A620M Gaming X (AM5, AMD A620, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1699000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A620M Gaming X AX (AM5, AMD A620, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1925000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte A620M H (AM5, AMD A620, DDR5, USB3.2, SATA3)",
+        "price": "1545000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B450M K (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+        "price": "990000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B550 Gaming X V2 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2095000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B550M DS3H AC R2 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1680000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B550M DS3H R2 (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1460000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B550M K (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1170000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650 AERO G (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4305000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650 Aorus Elite AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3915000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650 Aorus PRO AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4820000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650 Gaming X AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3880000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650E AORUS ELITE X AX ICE (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4320000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650E Aorus Stealth ICE (AM5, AMD B650, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5100000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M Aorus Elite AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3330000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M Aorus PRO AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4416000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M DS3H (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2650000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M Gaming Plus WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2375000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M GAMING WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2225000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M Gaming X AX (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3595000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M H (AM5, AMD B650, DDR5, USB3.2, SATA3)",
+        "price": "1699000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B650M K (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1880000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760 Aorus Elite AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3395000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760 Aorus Elite AX DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "3425000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760 DS3H AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2720000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760 Gaming X AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3150000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760I Aorus PRO DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "3965000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M AORUS ELITE WIFI6E GEN5 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3120000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M AORUS ELITE WIFI6E-P GEN5 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3190000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M DS3H (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "2070000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M DS3H AX (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "2390000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M DS3H AX DDR4 (LGA1700, B760, DDR4, USB3.2 , SATA3)",
+        "price": "2135000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M DS3H GEN5 (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "2130000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M DS3H WIFI6E GEN5 (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "2550000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M GAMING AC (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2260000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M Gaming X AX (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2620000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M H DDR4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1520000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M K DDR4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1410000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B760M K V2 DDR4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1445000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B840M DS3H (AM5, AMD B840, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1995000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B840M EAGLE WIFI6 (AM5, AMD B840, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1995000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850 Aorus Elite WIFI7 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4090000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850 Aorus Elite WIFI7 ICE (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4385000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850 AORUS STEALTH ICE (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4830000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850 GAMING X WIFI6E (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3820000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850I AORUS PRO (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4620000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M AORUS ELITE WIFI6E ICE (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3465000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M AORUS ELITE WIFI7 ICE-P (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4110000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M D3HP (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2175000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M DS3H (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2550000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M EAGLE WIFI6E (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2985000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M FORCE WIFI6E V2 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2390000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B850M GAMING X WIFI6E (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3315000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860 AORUS ELITE WIFI7 ICE (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3895000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860 DS3H (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2875000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860I AORUS PRO ICE (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C , SATA3)",
+        "price": "4510000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M Aorus Elite (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "2855000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M Aorus Elite WIFI6E ICE (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3260000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M DS3H (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2360000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M DS3H WIFI6E (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2510000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M EAGLE V2 (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2205000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M EAGLE WIFI6 V2 (LGA1851, B860, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2410000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte B860M K (LGA1851, B860, DDR5, USB3.2, SATA3)",
+        "price": "1770000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-B450M-DS3H V2 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+        "price": "1075000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-H110M-DS2 (LGA1151, H110, DDR4)",
+        "price": "1145000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-H110M-H",
+        "price": "1100000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-H110M-M.2 (LGA1151, H110, DDR4, SATA3)",
+        "price": "1170000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-H110M-S2PH (LGA1151, H110, DDR4)",
+        "price": "1130000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-H81M-DS2 (LGA1150, H81, DDR3, SATA3, USB3)",
+        "price": "1125000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte GA-H81M-S2PH (LGA1150, H81, DDR3, SATA3, USB3)",
+        "price": "1055000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H310M M.2 2.0 (LGA1151V2, H310, DDR4, USB3.1, SATA3)",
+        "price": "1050000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H410M-H V2 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "910000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H510M K V2 (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "1065000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H610I (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "2250000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H610I DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "2095000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H610M K DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1030000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H610M K V2 (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1120000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte H810M K (LGA1851, H810, DDR5, USB3.2, SATA3)",
+        "price": "1475000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte TRX50 AERO D (sTR5, AMD TRX50, DDR5, USB 3.2, SATA3)",
+        "price": "10755000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte TRX50 AI TOP (sTR5, AMD TRX50, DDR5, USB 3.2 Gen 2x2, SATA3)",
+        "price": "19090000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870 AORUS ELITE WIFI7 (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5980000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870 AORUS ELITE WIFI7 ICE (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6195000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870 AORUS STEALTH ICE (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6430000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870 EAGLE WIFI7 (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4699000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870 GAMING WIFI6 (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4530000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870 GAMING X WIFI7 (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5040000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870E AORUS ELITE WIFI7 (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6500000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870E Aorus Master (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "9865000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870E Aorus Pro (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7020000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870E Aorus Pro Ice (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7245000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870I Aorus Pro Ice (AM5, AMD X870I, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6160000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870M AORUS ELITE WIFI7 (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5030000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte X870M AORUS ELITE WIFI7 ICE (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5230000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790 Aorus Elite AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5435000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790 Aorus Elite AX-W (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5605000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790 Aorus Elite X (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5650000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790 EAGLE AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3995000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790 UD (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3570000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790 UD AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3850000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z790M Aorus Elite AX (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4480000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 AERO G (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6420000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 Aorus Elite WIFI7 (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5150000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 Aorus Elite WIFI7 ICE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5440000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 Aorus Elite X ICE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6320000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 Aorus PRO ICE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "8065000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 Gaming X WIFI7 (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5095000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890 UD WIFI6E (LGA1851, Z890, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4420000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890I Aorus Ultra (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "7420000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890M Aorus Elite WIFI7 (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4220000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890M Aorus Elite WIFI7 ICE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4310000",
+        "detail": null
+    },
+    {
+        "title": "Gigabyte Z890M Gaming X (LGA1851, Z890, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3590000",
+        "detail": null
+    },
+    {
+        "title": "Hose H110 Stone (H110, LGA 1151, DDR4)",
+        "price": "700000",
+        "detail": null
+    },
+    {
+        "title": "Hose H81 Centaur (H81, LGA 1150, DDR3)",
+        "price": "680000",
+        "detail": null
+    },
+    {
+        "title": "Hose X79 (X79, LGA 2011, DDR3)",
+        "price": "1050000",
+        "detail": null
+    },
+    {
+        "title": "Hose X99 (X99, LGA 2011, DDR4)",
+        "price": "1485000",
+        "detail": null
+    },
+    {
+        "title": "Iconix H61 (LGA1155, Intel H61, DDR3)",
+        "price": "330000",
+        "detail": null
+    },
+    {
+        "title": "Iconix H81 (LGA1150, H81, DDR3)",
+        "price": "485000",
+        "detail": null
+    },
+    {
+        "title": "Intel Xeon W5-3425 (4.60 Ghz - Cache 30M - Core/Thread 12/24) - LGA 4677",
+        "price": "27750000",
+        "detail": null
+    },
+    {
+        "title": "MAXSUN B760M GAMING WIFI ACE (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1840000",
+        "detail": null
+    },
+    {
+        "title": "MAXSUN B760M GAMING WIFI ICE (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1540000",
+        "detail": null
+    },
+    {
+        "title": "MAXSUN Challenger B850M-K (AM5, AMD B850, DDR5, USB3.2, SATA3)",
+        "price": "1580000",
+        "detail": null
+    },
+    {
+        "title": "MAXSUN eSport B860M SNIPER WIFI (LGA1851, B860, DDR5, USB3.2, SATA3)",
+        "price": "2450000",
+        "detail": null
+    },
+    {
+        "title": "MAXSUN Terminator B550M (AM4, AMD B550, DDR4, USB3.2, SATA3",
+        "price": "1125000",
+        "detail": null
+    },
+    {
+        "title": "MSI A520M Pro (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "925000",
+        "detail": null
+    },
+    {
+        "title": "MSI A520M-A Pro (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "890000",
+        "detail": null
+    },
+    {
+        "title": "MSI B450M-A PRO MAX II (AM4, AMD Promontory B450, DDR4, USB3.2, SATA3)",
+        "price": "955000",
+        "detail": null
+    },
+    {
+        "title": "MSI B550-A Pro (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1895000",
+        "detail": null
+    },
+    {
+        "title": "MSI B550M Pro-VDH (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1410000",
+        "detail": null
+    },
+    {
+        "title": "MSI B550M Pro-VDH Wifi (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1645000",
+        "detail": null
+    },
+    {
+        "title": "MSI B550M-A Pro (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "1130000",
+        "detail": null
+    },
+    {
+        "title": "MSI B650 Gaming Plus WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2860000",
+        "detail": null
+    },
+    {
+        "title": "MSI B650M Gaming Plus WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2670000",
+        "detail": null
+    },
+    {
+        "title": "MSI B650M Gaming WIFI (AM5, AMD B650, DDR5, USB3.2, SATA3)",
+        "price": "2113000",
+        "detail": null
+    },
+    {
+        "title": "MSI B650M Project Zero (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3395000",
+        "detail": null
+    },
+    {
+        "title": "MSI B760 Gaming Plus WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3025000",
+        "detail": null
+    },
+    {
+        "title": "MSI B760M Gaming Plus WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2685000",
+        "detail": null
+    },
+    {
+        "title": "MSI B760M GAMING WIFI (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "2260000",
+        "detail": null
+    },
+    {
+        "title": "MSI B760M Project Zero (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3428000",
+        "detail": null
+    },
+    {
+        "title": "MSI B840 GAMING PLUS WIFI (AM5, AMD B840, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3097000",
+        "detail": null
+    },
+    {
+        "title": "MSI B850 GAMING PLUS WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3491000",
+        "detail": null
+    },
+    {
+        "title": "MSI B850 GAMING PLUS WIFI PZ (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4037000",
+        "detail": null
+    },
+    {
+        "title": "MSI B850M GAMING PLUS WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3315000",
+        "detail": null
+    },
+    {
+        "title": "MSI B850M GAMING WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2710000",
+        "detail": null
+    },
+    {
+        "title": "MSI B850M POWER (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4126000",
+        "detail": null
+    },
+    {
+        "title": "MSI B860 GAMING PLUS WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3525000",
+        "detail": null
+    },
+    {
+        "title": "MSI B860M GAMING PLUS WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3330000",
+        "detail": null
+    },
+    {
+        "title": "MSI H310M PRO-M2 (LGA1151V2, H310, DDR4, USB3.1, SATA3)",
+        "price": "970000",
+        "detail": null
+    },
+    {
+        "title": "MSI H310M Pro-VDH (LGA1151V2, H310, DDR4, USB3.1, SATA3, Gen 8/9)",
+        "price": "950000",
+        "detail": null
+    },
+    {
+        "title": "MSI H510M-PLUS II (LGA1200, H510, DDR4, USB3.2, SATA3)",
+        "price": "1100000",
+        "detail": null
+    },
+    {
+        "title": "MSI H610M Bomber DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1228000",
+        "detail": null
+    },
+    {
+        "title": "MSI LOONG NIA (MLG) Edition Bundle Package - B850 MLG Edition, RTX 5070 Ti 16G MLG Edition OC, MAG PANO 130R MLG Edition, MAG A850GLS MLG Edition, MAG CoreLiquid A17 MLG Edition",
+        "price": "31250000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B650 Tomahawk WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3690000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B650M Mortar WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3365000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B760 TOMAHAWK WIFI DDR5 (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3857000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B760M Mortar WIFI II (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3225000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B850 TOMAHAWK MAX WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4515000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B850M MORTAR WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3810000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B860 TOMAHAWK WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "4555000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG B860M MORTAR WIFI (LGA1851, B860, DDR5, USB2.0 , SATA3)",
+        "price": "4160000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG X670E TOMAHAWK WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5815000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG X870 TOMAHAWK WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6440000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG X870E GAMING PLUS MAX WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5990000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG X870E TOMAHAWK MAX WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6270000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG X870E TOMAHAWK MAX WIFI PZ (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6535000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG X870E TOMAHAWK WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5735000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG Z790 TOMAHAWK MAX WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6295000",
+        "detail": null
+    },
+    {
+        "title": "MSI MAG Z890 TOMAHAWK WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "6460000",
+        "detail": null
+    },
+    {
+        "title": "MSI MEG X870E GODLIKE (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "19775000",
+        "detail": null
+    },
+    {
+        "title": "MSI MEG Z890 ACE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "12535000",
+        "detail": null
+    },
+    {
+        "title": "MSI MEG Z890 GODLIKE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "24490000",
+        "detail": null
+    },
+    {
+        "title": "MSI MEG Z890 UNIFY-X (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "12955000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG B550 Gaming Plus (AM4, AMD Promontory B550, DDR4, USB3.2, SATA3)",
+        "price": "2445000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG B650 EDGE WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5119000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG B650I EDGE WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4692000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG B760I EDGE WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4260000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG B850 EDGE TI WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5183000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG B850I EDGE TI WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5295000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG X670E CARBON WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "8415000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG X870E CARBON WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7820000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG X870E EDGE TI WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6735000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG Z790I EDGE WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "6120000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG Z890 CARBON WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "8970000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG Z890 EDGE TI WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "8325000",
+        "detail": null
+    },
+    {
+        "title": "MSI MPG Z890I EDGE TI WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "7735000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO A620AM-B EVO (AM5, AMD A620, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1565000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO A620M-B (AM5, A620, DDR5, USB3.2, SATA3)",
+        "price": "1685000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B650-S WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2365000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B650M-A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2260000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B650M-B (AM5, AMD B650, DDR5, USB3.2, SATA3)",
+        "price": "1800000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B650M-P (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1950000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760-P II (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2498000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760M-A WIFI (LGA1700, B760, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2465000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760M-A WIFI DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "2280000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760M-E (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1710000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760M-E DDR4 (LGA1700, B760, DDR4, USB3.2, SATA3)",
+        "price": "1685000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760M-P (LGA1700, B760, DDR5, USB3.2, SATA3)",
+        "price": "1900000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B760M-P DDR4 (LGA1700, B760, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "1815000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B840M-B (AM5, AMD B840, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "1665000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B850-P WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3405000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B850M-A WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3037000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B850M-P WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2910000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B860-P WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3215000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B860M-A WIFI (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "3118000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B860M-E (LGA1851, B860, DDR5, USB3.2 Gen2 Type-C, SATA3)",
+        "price": "1930000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H510M-B II (LGA1200, H470, DDR4, USB3.2, SATA3)",
+        "price": "1050000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-E (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1240000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-E DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1180000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-G (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1485000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-G DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1436000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-G WIFI (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1722000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-G WIFI DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1655000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-S (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1178000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-S DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1125000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-S WIFI (LGA1700, H610, DDR5, USB3.2, SATA3)",
+        "price": "1357000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H610M-S WIFI DDR4 (LGA1700, H610, DDR4, USB3.2, SATA3)",
+        "price": "1270000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO H810M-B (LGA1851, H810, DDR5 USB3.2 Type-C, SATA3)",
+        "price": "1825000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO X870-P WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4947000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z790-P WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4750000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z790-P WIFI DDR4 (LGA1700, Z790, DDR4, USB3.2 Type-C, SATA3)",
+        "price": "4505000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z890-A WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5945000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z890-P WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5250000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z890-S WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4326000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z890-S WIFI PZ (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4915000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO Z890-S WIFI WHITE (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "4525000",
+        "detail": null
+    },
+    {
+        "title": "MSI X670E Gaming Plus WIFI (AM5, AMD X670, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4050000",
+        "detail": null
+    },
+    {
+        "title": "MSI X870 GAMING PLUS WIFI (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5110000",
+        "detail": null
+    },
+    {
+        "title": "MSI X870E GAMING PLUS WIFI (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5309000",
+        "detail": null
+    },
+    {
+        "title": "MSI Z790 Gaming Plus WIFI (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4820000",
+        "detail": null
+    },
+    {
+        "title": "MSI Z790 Project Zero (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5915000",
+        "detail": null
+    },
+    {
+        "title": "MSI Z790M POWER (LGA1700, Z790, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4125000",
+        "detail": null
+    },
+    {
+        "title": "MSI Z890 GAMING PLUS WIFI (LGA1851, Z890, DDR5, USB3.2 Gen2x2 Type-C, SATA3)",
+        "price": "5307000",
+        "detail": null
+    },
+    {
+        "title": "NZXT N7 B650E - AMD B650E Black (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5355000",
+        "detail": null
+    },
+    {
+        "title": "NZXT N7 B650E - AMD B650E White (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5355000",
+        "detail": null
+    },
+    {
+        "title": "NZXT N7 B850E AMD Black (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5049000",
+        "detail": null
+    },
+    {
+        "title": "NZXT N7 B850E AMD White (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "5049000",
+        "detail": null
+    },
+    {
+        "title": "NZXT N7 Z790 (LGA1700, Z690, DDR5, USB3.0, SATA3, Black Cover)",
+        "price": "5554000",
+        "detail": null
+    },
+    {
+        "title": "NZXT N7 Z790 (LGA1700, Z690, DDR5, USB3.0, SATA3, White Cover)",
+        "price": "5554000",
+        "detail": null
+    },
+    {
+        "title": "QWERTY B365 (LGA1151, B365, DDR4, SATA3)",
+        "price": "650000",
+        "detail": null
+    },
+    {
+        "title": "QWERTY H110",
+        "price": "745000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty H510 NVMe (LGA1200, H510, DDR4)",
+        "price": "882000",
+        "detail": null
+    },
+    {
+        "title": "QWERTY H61",
+        "price": "280000",
+        "detail": null
+    },
+    {
+        "title": "Qwerty H610 NVMe (LGA1700, H610, DDR4)",
+        "price": "910000",
+        "detail": null
+    },
+    {
+        "title": "QWERTY H81 / Suntech H81",
+        "price": "295000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE A520M-E (AM4, A520, DDR4, USB 3.2, SATA3)",
+        "price": "850000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE B650M-E (AM5, AMD B650, DDR5, USB3.2, SATA3)",
+        "price": "1920000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE NITRO+ B650A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3050000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE NITRO+ B850A WIFI7 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3495000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE NITRO+ B850M WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3025000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE NITRO+ X870EA WIFI7 (AM5, AMD X870E, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "7550000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PULSE A620AM (AM5, AMD A620A, DDR5, USB3.2, SATA3)",
+        "price": "1635000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PULSE B650A WIFI (AM5, AMD B650, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2650000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PULSE B850M WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "2650000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PURE B850A WIFI7 (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3765000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PURE B850M WIFI (AM5, AMD B850, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "3250000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PURE X870A WIFI7 (AM5, AMD X870, DDR5, USB3.2 Type-C, SATA3)",
+        "price": "4985000",
+        "detail": null
+    },
+    {
+        "title": "Savio h81 (LGA1150, Intel H81, DDR3)",
+        "price": "350000",
+        "detail": null
+    },
+    {
+        "title": "VARRO H110",
+        "price": "700000",
+        "detail": null
+    },
+    {
+        "title": "VARRO H61 (LGA1155, H61, DDR3)",
+        "price": "325000",
+        "detail": null
+    },
+    {
+        "title": "Varro Intel H81 (LGA1150, Intel H81, DDR3)",
+        "price": "450000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX Intel H110 M.2 (LGA1151, Intel H110, DDR4)",
+        "price": "650000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX Intel H510 (LGA1200, Intel H510, DDR4)",
+        "price": "970000",
+        "detail": null
+    },
+    {
+        "title": "VenomRX Intel H81 M.2 (LGA1150, Intel H81, DDR3)",
+        "price": "400000",
+        "detail": null
+    }
+]

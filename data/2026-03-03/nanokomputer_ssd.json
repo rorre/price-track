@@ -1,0 +1,462 @@
+[
+    {
+        "title": "Acer FA100 128GB M.2 PCIe NVMe SSD",
+        "price": "569000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA100 1TB M.2 PCIe NVMe SSD",
+        "price": "2559000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA100 256GB M.2 PCIe NVMe SSD",
+        "price": "1239000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA100 2TB M.2 PCIe NVMe SSD",
+        "price": "4799000",
+        "detail": null
+    },
+    {
+        "title": "Acer FA100 512GB M.2 PCIe NVMe SSD",
+        "price": "1589000",
+        "detail": null
+    },
+    {
+        "title": "AGI AI838 1TB M.2 PCIe Gen4 SSD With Heatsink",
+        "price": "2579000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 5,500MB/s, TBW 750, With Heatsink"
+    },
+    {
+        "title": "AGI AI838 2TB M.2 PCIe Gen4 SSD With Heatsink",
+        "price": "4439000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 6,700MB/s, TBW 1500, With Heatsink"
+    },
+    {
+        "title": "AGI AI838 4TB M.2 PCIe Gen4 SSD With Heatsink",
+        "price": "7479000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 4TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 6,700MB/s, TBW 3000, With Heatsink"
+    },
+    {
+        "title": "CORSAIR EX400U 1TB USB4 External SSD",
+        "price": "3659000",
+        "detail": "USB4 40Gbps (Type-C), 1TB, Sequential Read Up to 4,000MB/s, Sequential Write Up to 3,500MB/s"
+    },
+    {
+        "title": "CORSAIR EX400U 2TB USB4 External SSD",
+        "price": "5399000",
+        "detail": "USB4 40Gbps (Type-C), 2TB, Sequential Read Up to 4,000MB/s, Sequential Write Up to 3,600MB/s"
+    },
+    {
+        "title": "CORSAIR EX400U 4TB USB4 External SSD",
+        "price": "8419000",
+        "detail": "USB4 40Gbps (Type-C), 2TB, Sequential Read Up to 4,000MB/s, Sequential Write Up to 3,600MB/s"
+    },
+    {
+        "title": "CORSAIR EX400U SURVIVOR 1TB USB4 External SSD",
+        "price": "4099000",
+        "detail": null
+    },
+    {
+        "title": "CORSAIR EX400U SURVIVOR 2TB USB4 External SSD",
+        "price": "7199000",
+        "detail": null
+    },
+    {
+        "title": "CORSAIR EX400U SURVIVOR 4TB USB4 External SSD",
+        "price": "9999000",
+        "detail": null
+    },
+    {
+        "title": "CORSAIR MP700 ELITE 1TB PCIe 5.0 (Gen 5) x4 NVMe M.2 SSD",
+        "price": "4799000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 10,000MB/s, Sequential Write Up to 8,500MB/s, TBW 600,  Without Heatsink"
+    },
+    {
+        "title": "CORSAIR MP700 ELITE 2TB PCIe 5.0 (Gen 5) x4 NVMe M.2 SSD",
+        "price": "6769000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 10,000MB/s, Sequential Write Up to 8,500MB/s, TBW 1200,  Without Heatsink"
+    },
+    {
+        "title": "CORSAIR MP700 PRO 1TB PCIe Gen5 x4 NVMe 2.0 M.2 SSD",
+        "price": "4959000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 11,700MB/s, Sequential Write Up to 9,600MB/s, TBW 700,  Without Heatsink"
+    },
+    {
+        "title": "CORSAIR MP700 PRO 1TB with Air Cooler PCIe Gen5 x4 NVMe 2.0 M.2 SSD",
+        "price": "5139000",
+        "detail": null
+    },
+    {
+        "title": "CORSAIR MP700 PRO 2TB PCIe Gen5 x4 NVMe 2.0 M.2 SSD",
+        "price": "6919000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 12,400MB/s, Sequential Write Up to 11,800MB/s, TBW 1400,  Without Heatsink"
+    },
+    {
+        "title": "CORSAIR MP700 PRO 2TB with Air Cooler PCIe Gen5 x4 NVMe 2.0 M.2 SSD",
+        "price": "7019000",
+        "detail": null
+    },
+    {
+        "title": "CORSAIR MP700 PRO XT 1TB PCIe 5.0 x4 NVMe M.2 SSD",
+        "price": "5199000",
+        "detail": null
+    },
+    {
+        "title": "Crucial BX500 1TB 3D NAND SATA 2.5-inch SSD",
+        "price": "2699000",
+        "detail": "SATA 6 Gbps, 2.5-inch SATA, 1TB, Sequential Read Up to 540MB/s, Sequential Write Up to 500MB/s, TBW 360,  Without Heatsink"
+    },
+    {
+        "title": "Crucial BX500 2TB 3D NAND SATA 2.5-inch SSD",
+        "price": "5269000",
+        "detail": "SATA 6 Gbps, 2.5-inch SATA, 2TB, Sequential Read Up to 550MB/s, Sequential Write Up to 500MB/s, TBW 720,  Without Heatsink"
+    },
+    {
+        "title": "Crucial BX500 4TB 3D NAND SATA 2.5-inch SSD",
+        "price": "7999000",
+        "detail": "SATA 6 Gbps, 2.5-inch SATA, 4TB, Sequential Read Up to 540MB/s, Sequential Write Up to 500MB/s, TBW 1000,  Without Heatsink"
+    },
+    {
+        "title": "Crucial E100 1TB PCIe Gen4 NVMe M.2 SSD",
+        "price": "2179000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 5,000MB/s, Sequential Write Up to 4,500MB/s, TBW 80, Without Heatsink"
+    },
+    {
+        "title": "Crucial E100 2TB PCIe Gen4 NVMe M.2 SSD",
+        "price": "3499000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 5,000MB/s, Sequential Write Up to 4,500MB/s, TBW 100, Without Heatsink"
+    },
+    {
+        "title": "Crucial E100 480GB PCIe Gen4 NVMe M.2 SSD",
+        "price": "1099000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 480GB, Sequential Read Up to 4,700MB/s, Sequential Write Up to 2,500MB/s, TBW 60, Without Heatsink"
+    },
+    {
+        "title": "Crucial P310 1TB PCIe Gen4 NVMe 2280 M.2 SSD",
+        "price": "2049000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7100MB/s, Sequential Write Up to 6000MB/s, TBW 220,  Without Heatsink"
+    },
+    {
+        "title": "Crucial P310 2TB PCIe Gen4 NVMe 2280 M.2 SSD",
+        "price": "4399000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7100MB/s, Sequential Write Up to 6000MB/s, TBW 440,  Without Heatsink"
+    },
+    {
+        "title": "Crucial P310 4TB PCIe Gen4 NVMe 2280 M.2 SSD",
+        "price": "7999000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 4TB, Sequential Read Up to 7100MB/s, Sequential Write Up to 6000MB/s, TBW 800,  Without Heatsink"
+    },
+    {
+        "title": "Crucial P510 1TB PCIe Gen5 NVMe M.2 SSD",
+        "price": "3099000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 11,000MB/s, Sequential Write Up to 9,500MB/s, TBW 600, Without Heatsink"
+    },
+    {
+        "title": "Crucial P510 2TB PCIe Gen5 NVMe M.2 SSD",
+        "price": "4999000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 10,000MB/s, Sequential Write Up to 8,700MB/s, TBW 1200, Without Heatsink"
+    },
+    {
+        "title": "Crucial T500 1TB PCIe Gen4 NVMe M.2 SSD",
+        "price": "2999000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,300MB/s, Sequential Write Up to 6,800MB/s, TBW 600, Without Heatsink"
+    },
+    {
+        "title": "Crucial T500 2TB PCIe Gen4 NVMe M.2 SSD",
+        "price": "5799000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 7,000MB/s, TBW 1200, Without Heatsink"
+    },
+    {
+        "title": "Crucial T500 4TB PCIe Gen4 NVMe M.2 SSD",
+        "price": "11459000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 4TB, Sequential Read Up to 7,000MB/s, Sequential Write Up to 6,900MB/s, TBW 2400, Without Heatsink"
+    },
+    {
+        "title": "Crucial T500 500GB PCIe Gen4 NVMe M.2 SSD",
+        "price": "1299000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 500GB, Sequential Read Up to 7,200MB/s, Sequential Write Up to 5,700MB/s, TBW 300, Without Heatsink"
+    },
+    {
+        "title": "Crucial T700 2TB PCIe Gen5 NVMe M.2 SSD",
+        "price": "6719000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 12,400MB/s, Sequential Write Up to 11,800MB/s, TBW 1200, Without Heatsink"
+    },
+    {
+        "title": "Crucial T705 1TB PCIe Gen5 NVMe M.2 SSD",
+        "price": "3099000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 13,600MB/s, Sequential Write Up to 10,200MB/s, TBW 600, Without Heatsink"
+    },
+    {
+        "title": "Crucial T705 2TB PCIe Gen5 NVMe M.2 SSD",
+        "price": "7019000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 14,500MB/s, Sequential Write Up to 12,700MB/s, TBW 1200, Without Heatsink"
+    },
+    {
+        "title": "Crucial T705 4TB PCIe Gen5 NVMe M.2 SSD",
+        "price": "11769000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 4TB, Sequential Read Up to 14,100MB/s, Sequential Write Up to 12,600MB/s, TBW 2400, Without Heatsink"
+    },
+    {
+        "title": "Crucial T710 1TB PCIe Gen5 NVMe 2280 M.2 SSD",
+        "price": "3669000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 14,900MB/s, Sequential Write Up to 13,700MB/s, TBW 600, Without Heatsink"
+    },
+    {
+        "title": "Crucial T710 2TB PCIe Gen5 NVMe 2280 M.2 SSD",
+        "price": "5279000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 14,500MB/s, Sequential Write Up to 13,800MB/s, TBW 1200, Without Heatsink"
+    },
+    {
+        "title": "Crucial T710 4TB PCIe Gen5 NVMe 2280 M.2 SSD",
+        "price": "10699000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 4TB, Sequential Read Up to 14,500MB/s, Sequential Write Up to 13,800MB/s, TBW 2400,  Without Heatsink"
+    },
+    {
+        "title": "Crucial X10 4TB Portable SSD",
+        "price": "6749000",
+        "detail": "USB 3.2 Gen-2 2x2 (20Gb/s), External Portable, 4TB, Sequential Read Up to 2,100MB/s"
+    },
+    {
+        "title": "Crucial X10 6TB Portable SSD",
+        "price": "8539000",
+        "detail": "USB 3.2 Gen-2 2x2 (20Gb/s), External Portable, 6TB, Sequential Read Up to 2,100MB/s"
+    },
+    {
+        "title": "Crucial X10 8TB Portable SSD",
+        "price": "11839000",
+        "detail": "USB 3.2 Gen-2 2x2 (20Gb/s), External Portable, 8TB, Sequential Read Up to 2,100MB/s"
+    },
+    {
+        "title": "Crucial X10 Pro 2TB Portable SSD",
+        "price": "3799000",
+        "detail": "USB 3.2 Gen-2 2x2 (20Gb/s), External Portable, 2TB, Sequential Read Up to 2,100MB/s, Sequential Write Up to 2,100MB/s"
+    },
+    {
+        "title": "Crucial X10 Pro 4TB Portable SSD",
+        "price": "6859000",
+        "detail": "USB 3.2 Gen-2 2x2 (20Gb/s), External Portable, 4TB, Sequential Read Up to 2,100MB/s, Sequential Write Up to 2,100MB/s"
+    },
+    {
+        "title": "MSI DATAMAG 20Gbps 1TB",
+        "price": "4389000",
+        "detail": "SuperSpeed USB 20Gbps (USB 3.2 Gen 2x2), 1TB, Sequential Read Up to 1,600MB/s, Sequential Write Up to 1,500MB/s"
+    },
+    {
+        "title": "MSI DATAMAG 20Gbps 2TB",
+        "price": "7969000",
+        "detail": "SuperSpeed USB 20Gbps (USB 3.2 Gen 2x2), 2TB, Sequential Read Up to 1,600MB/s, Sequential Write Up to 1,500MB/s"
+    },
+    {
+        "title": "MSI DATAMAG 40Gbps 1TB",
+        "price": "5669000",
+        "detail": "USB4 40Gbps (Type-C), 1TB, Sequential Read Up to 4,000MB/s, Sequential Write Up to 3,500MB/s, TBW 750"
+    },
+    {
+        "title": "MSI SPATIUM M450 PCIe 4.0 NVMe M.2 1TB",
+        "price": "3019000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 3,600MB/s, Sequential Write Up to 3,300MB/s, TBW 600,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M450 PCIe 4.0 NVMe M.2 500GB",
+        "price": "1689000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 500GB, Sequential Read Up to 3,600MB/s, Sequential Write Up to 2,300MB/s, TBW 300,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M450 PCIe 4.0 NVMe M.2 V1 1TB",
+        "price": "3019000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 3,400MB/s, Sequential Write Up to 2,400MB/s, TBW 350,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M470 PRO PCIe 4.0 NVMe M.2 1TB",
+        "price": "4089000",
+        "detail": "PCIe 4.0 x4, M.2 2280 , 1TB, Sequential Read Up to 6,000MB/s, Sequential Write Up to 4,500MB/s, TBW 320,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M470 PRO PCIe 4.0 NVMe M.2 2TB",
+        "price": "6279000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 6,000MB/s, Sequential Write Up to 5,000MB/s, TBW 640,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M480 PRO PCIe 4.0 NVMe M.2 1TB",
+        "price": "4389000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 6,000MB/s, TBW 700, Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M480 PRO PCIe 4.0 NVMe M.2 2TB",
+        "price": "7299000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 7,000MB/s, TBW 1400,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M480 PRO PCIe 4.0 NVMe M.2 4TB",
+        "price": "13269000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 4TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 7,000MB/s, TBW 3000,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M560 PCIe 5.0 NVMe M.2 1TB",
+        "price": "4049000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 10,200MB/s, Sequential Write Up to 8,400MB/s, TBW 600,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M560 PCIe 5.0 NVMe M.2 2TB",
+        "price": "6959000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 10,300MB/s, Sequential Write Up to 8,700MB/s, TBW 1200,  Without Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M580 PCIe 5.0 NVMe M.2 FROZR 2TB",
+        "price": "7089000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 14,600MB/s, Sequential Write Up to 12,700MB/s, TBW 1400,  With Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM M580 PCIe 5.0 NVMe M.2 FROZR 4TB",
+        "price": "13279000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 4TB, Sequential Read Up to 14,100MB/s, Sequential Write Up to 12,600MB/s, TBW 3000,  With Heatsink"
+    },
+    {
+        "title": "MSI SPATIUM S270 SATA 2.5 240GB",
+        "price": "919000",
+        "detail": "SATA III 6 Gbps, 2.5-inch SATA, 240GB, Sequential Read Up to 500MB/s, Sequential Write Up to 400MB/s, TBW 110"
+    },
+    {
+        "title": "PNY CS2241 M.2 NVMe 1TB SSD",
+        "price": "2269000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 5,100MB/s, Sequential Write Up to 3,200MB/s, Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 870 EVO SATA 2.5",
+        "price": "3619000",
+        "detail": "SATA III 6 Gbps, 2.5-inch SATA, 1TB, Sequential Read Up to 560MB/s, Sequential Write Up to 530MB/s, TBW 600,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 870 EVO SATA 2.5",
+        "price": "6229000",
+        "detail": "SATA III 6 Gbps, 2.5-inch SATA, 2TB, Sequential Read Up to 560/s, Sequential Write Up to 530MB/s, TBW 150, Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO NVMe M.2 SSD 1TB",
+        "price": "4969000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 14,700MB/s, Sequential Write Up to 13,300MB/s, TBW 600, Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO NVMe M.2 SSD 2TB",
+        "price": "9089000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 14,700MB/s, Sequential Write Up to 13,400MB/s, TBW 1,200,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO NVMe M.2 SSD 4TB",
+        "price": "16889000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 4TB, Sequential Read Up to 14,800MB/s, Sequential Write Up to 13,400MB/s, TBW 2400,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO NVMe M.2 SSD 8TB",
+        "price": "29999000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 8TB, Sequential Read Up to 14,800MB/s, Sequential Write Up to 13,400MB/s, TBW 4800, Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO with Heatsink NVMe M.2 SSD 1TB",
+        "price": "3099000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 1TB, Sequential Read Up to 14,700MB/s, Sequential Write Up to 13,300MB/s, TBW 600,  With Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO with Heatsink NVMe M.2 SSD 2TB",
+        "price": "9799000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 2TB, Sequential Read Up to 14,700MB/s, Sequential Write Up to 13,400MB/s, TBW 1,200,  With Heatsink"
+    },
+    {
+        "title": "SAMSUNG 9100 PRO with Heatsink NVMe M.2 SSD 8TB",
+        "price": "30599000",
+        "detail": "PCIe 5.0 x4, M.2 2280, 8TB, Sequential Read Up to 14,800MB/s, Sequential Write Up to 13,400MB/s, TBW 4800, With Heatsink"
+    },
+    {
+        "title": "SAMSUNG 980 NVMe M.2 SSD 500GB",
+        "price": "1689000",
+        "detail": "PCIe 3.0 x4, M.2 2280, 500GB, Sequential Read Up to 3,100MB/s, Sequential Write Up to 2,600MB/s, TBW 300,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 990 EVO Plus NVMe M.2 SSD 1TB",
+        "price": "3769000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,150MB/s, Sequential Write Up to 6,300MB/s, TBW 600,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 990 EVO Plus NVMe M.2 SSD 2TB",
+        "price": "7019000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,250MB/s, Sequential Write Up to 6,300MB/s, TBW 1,200,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 990 PRO NVMe M.2 SSD 1TB",
+        "price": "4869000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,450MB/s, Sequential Write Up to 6,900MB/s, TBW 600, Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 990 PRO NVMe M.2 SSD 2TB",
+        "price": "8889000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 11,700MB/s, Sequential Write Up to 9,600MB/s, TBW 700,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 990 PRO NVMe M.2 SSD 4TB",
+        "price": "16069000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 4TB, Sequential Read Up to 7,450MB/s, Sequential Write Up to 6,900MB/s, TBW 2400,  Without Heatsink"
+    },
+    {
+        "title": "SAMSUNG 990 PRO with Heatsink NVMe M.2 SSD 1TB",
+        "price": "5319000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,450MB/s, Sequential Write Up to 6,900MB/s, TBW 600,  With Heatsink"
+    },
+    {
+        "title": "SOLIDIGM P44 Pro Series 1TB",
+        "price": "2939000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,000MB/s, Sequential Write Up to 6,500MB/s, TBW 750,  Without Heatsink"
+    },
+    {
+        "title": "SOLIDIGM P44 Pro Series 2TB",
+        "price": "5379000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,000MB/s, Sequential Write Up to 6,500MB/s, TBW 1200,  Without Heatsink"
+    },
+    {
+        "title": "SOLIDIGM P44 Pro Series 512GB",
+        "price": "1649000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 512GB, Sequential Read Up to 7,000MB/s, Sequential Write Up to 4,700MB/s, TBW 500,  Without Heatsink"
+    },
+    {
+        "title": "TEAM CX2 SSD 1TB",
+        "price": "1999000",
+        "detail": "SATA III 6 Gbps, 2.5-inch SATA, 1TB, Sequential Read Up to 540MB/s, Sequential Write Up to 490MB/s, TBW 200"
+    },
+    {
+        "title": "TEAM G50 M.2 PCIe SSD 1TB",
+        "price": "2769000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 5,000MB/s, Sequential Write Up to 4,800MB/s, TBW 650,  Without Heatsink"
+    },
+    {
+        "title": "TEAM G70 PRO M.2 PCIe 4.0 SSD 1TB Aluminum Heatsink",
+        "price": "2499000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 1TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 5,500MB/s, TBW 740, With Heatsink"
+    },
+    {
+        "title": "TEAM G70 PRO M.2 PCIe 4.0 SSD 2TB Aluminum Heatsink",
+        "price": "5089000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,400MB/s, Sequential Write Up to 6,800MB/s, TBW 1480, With Heatsink"
+    },
+    {
+        "title": "TEAM MP33 PRO M.2 PCIe SSD 1TB",
+        "price": "2739000",
+        "detail": "PCIe 3.0 x4, M.2 2280, 1TB, Sequential Read Up to 3,400MB/s, Sequential Write Up to 2,600MB/s, TBW 240,  Without Heatsink"
+    },
+    {
+        "title": "WD BLACK SN8100 NVMe SSD 1TB",
+        "price": "6089000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 1TB",
+        "price": "2969000",
+        "detail": null
+    },
+    {
+        "title": "WD BLACK SN850X NVMe SSD 2TB",
+        "price": "4999000",
+        "detail": "PCIe 4.0 x4, M.2 2280, 2TB, Sequential Read Up to 7,300MB/s, Sequential Write Up to 6,600MB/s, TBW 1200, Without Heatsink"
+    }
+]

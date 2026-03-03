@@ -1,0 +1,1297 @@
+[
+    {
+        "title": "ASROCK A520M-HVS",
+        "price": "819000",
+        "detail": "AMD A520 Chipset, 2x DDR4 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK A620AI WiFi",
+        "price": "3029000",
+        "detail": "AMD A620 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK A620AM-HVS",
+        "price": "1599000",
+        "detail": "AMD A620 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B450M-HDV R4.0",
+        "price": "889000",
+        "detail": "AMD B450 Chipset, 2x DDR4 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B550M Phantom Gaming 4",
+        "price": "1469000",
+        "detail": "AMD B550, 4x DDR4 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650 LiveMixer",
+        "price": "3769000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650 Pro RS",
+        "price": "3209000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650I Lightning WiFi",
+        "price": "3559000",
+        "detail": "AMD B650, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M PG Lightning WiFi",
+        "price": "2289000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M PG Riptide WiFi White",
+        "price": "2879000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M Pro RS",
+        "price": "2459000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M Pro X3D WiFi",
+        "price": "2739000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M-H/M.2+ WiFi",
+        "price": "2039000",
+        "detail": "AMD B650 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 5, Bluetooth 5.0, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M-HDV/M.2",
+        "price": "1949000",
+        "detail": "AMD B650 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B650M-HDV/M.2 White",
+        "price": "1999000",
+        "detail": "AMD B650 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B660M Steel Legend",
+        "price": "2019000",
+        "detail": "Intel B660, 4x DDR4 UDIMM, Maximum Memory 128GB, Total 4 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760 Pro RS",
+        "price": "3029000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760I Lightning WiFi",
+        "price": "3769000",
+        "detail": "Intel B760, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M PG Lightning",
+        "price": "2019000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M PG Lightning WiFi",
+        "price": "2229000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M Pro RS WiFi White",
+        "price": "2649000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M Pro-A",
+        "price": "1989000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M Pro-A WiFi",
+        "price": "2319000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M Pro-A/D4 WiFi",
+        "price": "1979000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M Steel Legend WiFi",
+        "price": "2849000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M-H2/M.2",
+        "price": "1809000",
+        "detail": "Intel B760, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M-HDV/M.2",
+        "price": "1889000",
+        "detail": "Intel B760, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B760M-HDV/M.2 D4",
+        "price": "1529000",
+        "detail": "Intel B760, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B840M-HVS",
+        "price": "1649000",
+        "detail": "AMD B840 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 Challenger WiFi",
+        "price": "3609000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 Challenger WiFi White",
+        "price": "3659000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 Pro RS",
+        "price": "3319000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 Pro-A",
+        "price": "3119000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 Pro-A WiFi",
+        "price": "3329000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 ROCK WIFI",
+        "price": "3159000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850 Steel Legend WiFi",
+        "price": "3869000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M Pro RS",
+        "price": "2859000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M Pro RS WiFi",
+        "price": "3069000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M Pro-A",
+        "price": "2519000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M Pro-A WiFi",
+        "price": "2779000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M Steel Legend WiFi",
+        "price": "3379000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M-A",
+        "price": "1839000",
+        "detail": "AMD B850 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M-X R2.0",
+        "price": "1919000",
+        "detail": "AMD B850 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B850M-X WiFi R2.0",
+        "price": "2329000",
+        "detail": "AMD B850 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860 Pro RS WiFi",
+        "price": "2939000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860I WiFi",
+        "price": "2839000",
+        "detail": "Intel B860, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M Pro RS",
+        "price": "2479000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M Pro RS WiFi",
+        "price": "2749000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M Pro-A",
+        "price": "2269000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M Pro-A WiFi",
+        "price": "2639000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M Steel Legend WiFi",
+        "price": "3099000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M-H2",
+        "price": "2029000",
+        "detail": "Intel B860 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK B860M-X WiFi",
+        "price": "2319000",
+        "detail": "Intel B860 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK H610M-H2/M.2 D5",
+        "price": "1219000",
+        "detail": "Intel H610, 2x DDR5 UDIMM, Maximum Memory 96GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK H610M-HDV/M.2+ D5",
+        "price": "1239000",
+        "detail": "Intel H610, 2x DDR5 UDIMM, Maximum Memory 96GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK H610M-X D5",
+        "price": "1349000",
+        "detail": "Intel H610, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK H810M-H",
+        "price": "1549000",
+        "detail": "Intel H610 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK H810M-X WiFi",
+        "price": "2019000",
+        "detail": "Intel H810 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 1 Slot NVMe, WiFi AC, Bluetooth 5.0, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING B850 Riptide WiFi",
+        "price": "4079000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING B850I Lightning WiFi",
+        "price": "3819000",
+        "detail": "AMD B850, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING B850M Riptide WiFi",
+        "price": "3479000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING B860 Lightning WiFi",
+        "price": "3939000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING B860I Lightning WiFi",
+        "price": "3839000",
+        "detail": "Intel B860, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING B860M Lightning WiFi",
+        "price": "3359000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING X870 Riptide WiFi",
+        "price": "5269000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Phantom Gaming X870E Nova WiFi",
+        "price": "6599000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING Z890 Lightning WiFi",
+        "price": "4719000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING Z890 Nova WiFi",
+        "price": "6359000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK PHANTOM GAMING Z890 Riptide WiFi",
+        "price": "5119000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK TRX50 WS",
+        "price": "14759000",
+        "detail": "AMD TRX50 Chipset, 4x DDR5 DIMM, Maximum Memory 1TB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD sTR5, E-ATX Form Factor"
+    },
+    {
+        "title": "ASROCK WRX90 WS EVO",
+        "price": "19899000",
+        "detail": "AMD WRX90 Chipset, 8x DDR5 DIMM, Maximum Memory 2TB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD sTR5, EEB Form Factor"
+    },
+    {
+        "title": "ASROCK X570 Phantom Gaming 4",
+        "price": "2589000",
+        "detail": "AMD X570, 4x DDR4 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM4, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870 LiveMixer WiFi",
+        "price": "4699000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870 Pro RS",
+        "price": "4179000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870 Pro RS WiFi",
+        "price": "4369000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870 Pro-A WIFI",
+        "price": "3939000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870 Steel Legend WiFi",
+        "price": "4869000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870E Taichi",
+        "price": "8869000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, E-ATX Form Factor"
+    },
+    {
+        "title": "ASROCK X870E Taichi Lite",
+        "price": "8159000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, E-ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z790 Nova WiFi",
+        "price": "5699000",
+        "detail": "Intel Z790 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z790 PG-ITX/TB4",
+        "price": "5949000",
+        "detail": "Intel Z790, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASROCK Z790 Steel Legend WiFi",
+        "price": "4899000",
+        "detail": "Intel Z790, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 PRO RS WIFI WHITE",
+        "price": "4199000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 Pro-A WiFi",
+        "price": "3439000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 Steel Legend WiFi",
+        "price": "4719000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 Taichi",
+        "price": "7279000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 TAICHI AQUA",
+        "price": "14799000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, E-ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 Taichi Lite",
+        "price": "6249000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASROCK Z890 TAICHI OC FORMULA",
+        "price": "9139000",
+        "detail": "Intel Z890 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS B650M-AYW WIFI",
+        "price": "1999000",
+        "detail": "AMD B650 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME A620M-A",
+        "price": "1849000",
+        "detail": "AMD A620 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME B550M-K ARGB",
+        "price": "1249000",
+        "detail": "AMD B550 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME B650M-A II",
+        "price": "2229000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME B650M-A WIFI II",
+        "price": "2099000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME B650M-R",
+        "price": "1919000",
+        "detail": "AMD B650 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME B840M-A WIFI-CSM",
+        "price": "2899000",
+        "detail": "AMD A840 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME B850M-A WIFI-CSM",
+        "price": "2869000",
+        "detail": null
+    },
+    {
+        "title": "ASUS PRIME B860M-K-CSM",
+        "price": "2989000",
+        "detail": "AMD B860 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME X870-P WIFI-CSM",
+        "price": "5399000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME Z790-P WIFI-CSM",
+        "price": "4599000",
+        "detail": "Intel Z790 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6, Bluetooth 5.2, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "ASUS PRIME Z890-P WIFI-CSM",
+        "price": "4899000",
+        "detail": null
+    },
+    {
+        "title": "ASUS Pro WS TRX50-SAGE WIFI",
+        "price": "16099000",
+        "detail": "AMD AMD TRX50 Chipset, 4x DDR5 DIMM, Maximum Memory 1TB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD sTR5, CEB Form Factor"
+    },
+    {
+        "title": "ASUS Pro WS WRX90E-SAGE SE",
+        "price": "23199000",
+        "detail": "AMD WRX90 Chipset, 8x DDR5 DIMM, Maximum Memory 2TB, Total 4 Slot NVMe, Support Desktop Processors Socket AMD sTR5, EEB Form Factor"
+    },
+    {
+        "title": "ASUS ProArt X870E-CREATOR WIFI",
+        "price": "9139000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG CROSSHAIR X870E APEX",
+        "price": "12399000",
+        "detail": "AMD X870E Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG CROSSHAIR X870E EXTREME",
+        "price": "22199000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, E-ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG CROSSHAIR X870E HERO",
+        "price": "11959000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG CROSSHAIR X870E HERO BTF",
+        "price": "13879000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG MAXIMUS Z890 HERO",
+        "price": "13499000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG MAXIMUS Z890 HERO BTF",
+        "price": "13099000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 6 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX B650-A GAMING WIFI",
+        "price": "3999000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX B850-A GAMING WIFI",
+        "price": "5269000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX B850-F GAMING WIFI",
+        "price": "5619000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX B850-G GAMING WIFI",
+        "price": "4399000",
+        "detail": null
+    },
+    {
+        "title": "ASUS ROG Strix B850-I Gaming WiFi",
+        "price": "4899000",
+        "detail": "AMD B850 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX B860-A GAMING WIFI",
+        "price": "5059000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX B860-F GAMING WIFI",
+        "price": "5369000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX X870-A GAMING WIFI",
+        "price": "7559000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX X870-F GAMING WIFI",
+        "price": "8059000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX X870-I GAMING WIFI",
+        "price": "7749000",
+        "detail": "AMD X870 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX X870E-E GAMING WIFI",
+        "price": "9759000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+        "price": "7779000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS ROG STRIX Z890-E GAMING WIFI",
+        "price": "9899000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 7 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS TUF GAMING B650M-E WIFI",
+        "price": "2799000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS TUF GAMING B850-PLUS WIFI",
+        "price": "4539000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "ASUS TUF GAMING B850M-PLUS WIFI",
+        "price": "3659000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS TUF GAMING B850M-PLUS WIFI7",
+        "price": "3859000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS TUF GAMING B850M-PLUS WIFI7 W",
+        "price": "4069000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "ASUS TUF GAMING B860M-PLUS WIFI",
+        "price": "3599000",
+        "detail": null
+    },
+    {
+        "title": "ASUS TUF GAMING Z890-PRO WIFI",
+        "price": "6710000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "ASUS X870 MAX GAMING WIFI7 W",
+        "price": "5299000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "BIOSTAR B650MT",
+        "price": "1359000",
+        "detail": "AMD B650 Chipset, 2x DDR4 DIMM, Maximum Memory 128GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "BIOSTAR H510MHP",
+        "price": "1039000",
+        "detail": "Intel Z790 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1200, Micro ATX Form Factor"
+    },
+    {
+        "title": "COLORFUL BATTLE-AX B760M-G WIFI V20A",
+        "price": "1579000",
+        "detail": "Intel B760 Chipset, 2x DDR4 DIMM, Maximum Memory 96GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.2, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "COLORFUL CVN Z790D5 ARK FROZEN V20",
+        "price": "4339000",
+        "detail": "Intel Z790 Chipset, 4x DDR5 DIMM, Maximum Memory 192GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "COLORFUL CVN Z790D5 GAMING PRO WIFI V20",
+        "price": "3829000",
+        "detail": "Intel Z790 Chipset, 4x DDR5 DIMM, Maximum Memory 192GB, Total 4 Slot NVMe, WiFi 6, Bluetooth 5.2, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE A520M K V2",
+        "price": "849000",
+        "detail": "AMD A520, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B450M K",
+        "price": "1009000",
+        "detail": "AMD B450, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B550M DS3H AC R2",
+        "price": "1599000",
+        "detail": "AMD B550, 4x DDR4 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi RTL8821CE, Bluetooth 5.0, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B650 GAMING X AX V2",
+        "price": "3539000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B650M GAMING PLUS WIFI",
+        "price": "2399000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B650M K",
+        "price": "1899000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B760 DS3H AX",
+        "price": "3169000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B760M DS3H AX",
+        "price": "2529000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B760M DS3H GEN5",
+        "price": "2199000",
+        "detail": "Intel B760, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B760M DS3H WIFI6E GEN5",
+        "price": "2589000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B840M DS3H",
+        "price": "2019000",
+        "detail": "AMD B840, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B840M EAGLE WIFI6",
+        "price": "2019000",
+        "detail": "AMD B840, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850 AORUS STEALTH ICE",
+        "price": "4879000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850 GAMING X WIFI6E",
+        "price": "3789000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850 GAMING X WIFI6E",
+        "price": "3869000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850I AORUS PRO",
+        "price": "4669000",
+        "detail": "AMD B850, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850M AORUS ELITE WIFI6E ICE",
+        "price": "3509000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850M AORUS ELITE WIFI7 ICE-P",
+        "price": "4169000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850M D3HP",
+        "price": "2099000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850M DS3H",
+        "price": "2579000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B850M EAGLE WIFI6E",
+        "price": "3019000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B860M EAGLE V2",
+        "price": "2229000",
+        "detail": "Intel B860 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE B860M EAGLE WIFI6 V2",
+        "price": "2479000",
+        "detail": null
+    },
+    {
+        "title": "GIGABYTE H610M K DDR4",
+        "price": "1049000",
+        "detail": "Intel H610, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE TRX50 AI TOP",
+        "price": "18989000",
+        "detail": "AMD TRX50, 8x DDR5 UDIMM, Maximum Memory 2TB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.3, Support Desktop Processors Socket AMD sTR5, E-ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870 AORUS ELITE WIFI7",
+        "price": "6049000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870 AORUS ELITE WIFI7 ICE",
+        "price": "6259000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870 EAGLE WIFI7",
+        "price": "4759000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870 GAMING WIFI6",
+        "price": "4579000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870 GAMING X WIFI7",
+        "price": "5109000",
+        "detail": "AMD X870, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870E AORUS ELITE WIFI7",
+        "price": "6569000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870E AORUS MASTER",
+        "price": "9969000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870E AORUS PRO",
+        "price": "7099000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870E AORUS PRO ICE",
+        "price": "7319000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE X870I AORUS PRO ICE",
+        "price": "6239000",
+        "detail": "AMD X870, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890 AORUS ELITE WIFI7 ICE",
+        "price": "5519000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890 AORUS ELITE X ICE",
+        "price": "6369000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890 GAMING X WIFI7",
+        "price": "5139000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890 UD WIFI6E",
+        "price": "4509000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890I AORUS ULTRA",
+        "price": "7429000",
+        "detail": "Intel Z890, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, Mini ITX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890M AORUS ELITE WIFI7",
+        "price": "4279000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "GIGABYTE Z890M GAMING X",
+        "price": "3649000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI A520M-A PRO",
+        "price": "919000",
+        "detail": "AMD A520, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B450M-A PRO MAX II",
+        "price": "979000",
+        "detail": "AMD B450, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B550M PRO-VDH",
+        "price": "1449000",
+        "detail": "AMD B550, 4x DDR4 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B550M-A PRO",
+        "price": "1049000",
+        "detail": "AMD B550, 2x DDR4 UDIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM4, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B650 GAMING PLUS WIFI",
+        "price": "2949000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 192GB, Total 5 Slot NVMe, WiFi 6E, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI B650M GAMING PLUS WIFI",
+        "price": "2759000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B650M GAMING WIFI",
+        "price": "2249000",
+        "detail": "AMD B650, 2x DDR5 UDIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B650M PROJECT ZERO",
+        "price": "3489000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 192GB, Total 5 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B760 GAMING PLUS WIFI",
+        "price": "3109000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "MSI B760M GAMING PLUS WIFI",
+        "price": "2769000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B760M GAMING WIFI",
+        "price": "2359000",
+        "detail": "Intel B760 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B760M PROJECT ZERO",
+        "price": "3529000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B840 GAMING PLUS WIFI",
+        "price": "3159000",
+        "detail": "AMD A840 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI B850 GAMING PLUS WIFI",
+        "price": "3649000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI B850 GAMING PLUS WIFI PZ",
+        "price": "4139000",
+        "detail": null
+    },
+    {
+        "title": "MSI B850M GAMING PLUS WIFI",
+        "price": "3409000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B850M GAMING WIFI",
+        "price": "2799000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI B850MPOWER",
+        "price": "4229000",
+        "detail": null
+    },
+    {
+        "title": "MSI B860 GAMING PLUS WIFI",
+        "price": "3619000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B650M MORTAR WIFI",
+        "price": "3459000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, , Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B760 TOMAHAWK WIFI",
+        "price": "3949000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B760M MORTAR WIFI II",
+        "price": "3309000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, , Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B850 TOMAHAWK MAX WIFI",
+        "price": "4619000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B850M MORTAR WIFI",
+        "price": "3929000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B860 TOMAHAWK WIFI",
+        "price": "4669000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG B860M MORTAR WIFI",
+        "price": "4259000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG X870E TOMAHAWK MAX WIFI",
+        "price": "6409000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG X870E TOMAHAWK MAX WIFI PZ",
+        "price": "6709000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG X870E TOMAHAWK WIFI",
+        "price": "5779000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MAG Z890 TOMAHAWK WIFI",
+        "price": "6639000",
+        "detail": "Intel Z890, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI MEG X870E GODLIKE",
+        "price": "20189000",
+        "detail": "AMD X870E, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 7 Slot NVMe, WiFi 7, Bluetooth 5.4, Desktop Processors Socket AMD AM5, E-ATX Form Factor"
+    },
+    {
+        "title": "MSI MEG Z890 UNIFY-X",
+        "price": "13469000",
+        "detail": "Intel Z890 Chipset, 2x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG B650 EDGE WIFI",
+        "price": "5159000",
+        "detail": "AMD B650 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, , Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG B650I EDGE WIFI",
+        "price": "4799000",
+        "detail": "AMD B650 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 5 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1851, Mini ITX Form Factor"
+    },
+    {
+        "title": "MSI MPG B760I EDGE WIFI",
+        "price": "4359000",
+        "detail": "Intel B760 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 6E, , Support Desktop Processors Socket Intel LGA 1700, Mini ITX Form Factor"
+    },
+    {
+        "title": "MSI MPG B850 EDGE TI WIFI",
+        "price": "5299000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG B850I EDGE TI WIFI",
+        "price": "5409000",
+        "detail": "AMD B850 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Mini ITX Form Factor"
+    },
+    {
+        "title": "MSI MPG X870E CARBON WIFI",
+        "price": "8109000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG X870E EDGE TI WIFI",
+        "price": "6809000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG Z790I EDGE WIFI",
+        "price": "6639000",
+        "detail": "Intel Z790 Chipset, 2x DDR5 DIMM, Maximum Memory 256GB, Total 1 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, Mini ITX Form Factor"
+    },
+    {
+        "title": "MSI MPG Z890 CARBON WIFI",
+        "price": "9209000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG Z890 EDGE TI WIFI",
+        "price": "8519000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 5 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI MPG Z890I EDGE TI WIFI",
+        "price": "7919000",
+        "detail": "Intel Z890 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, Mini ITX Form Factor"
+    },
+    {
+        "title": "MSI PRO A620AM-B EVO",
+        "price": "1599000",
+        "detail": "AMD A620 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B650-S WIFI",
+        "price": "2449000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B650M-A WIFI",
+        "price": "2329000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B650M-P",
+        "price": "2029000",
+        "detail": "AMD B650, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B760-P II",
+        "price": "2539000",
+        "detail": "Intel B760 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B760M-E DDR4",
+        "price": "1729000",
+        "detail": "Intel B760 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B760M-P",
+        "price": "1969000",
+        "detail": null
+    },
+    {
+        "title": "MSI PRO B840M-B",
+        "price": "1699000",
+        "detail": "AMD B840 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B850-P WIFI",
+        "price": "3499000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B850M-A WIFI",
+        "price": "3129000",
+        "detail": "AMD B850 Chipset, 4x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B850M-P WIFI",
+        "price": "2999000",
+        "detail": "AMD A840 Chipset, 4x DDR5 DIMM, Maximum Memory 128GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B860-P WIFI",
+        "price": "3309000",
+        "detail": "Intel B860 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO B860M-E",
+        "price": "1959000",
+        "detail": "Intel B860 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 2 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO H610M-E DDR4",
+        "price": "1229000",
+        "detail": "Intel H610 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO H610M-G DDR4",
+        "price": "1479000",
+        "detail": "Intel H610 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO H610M-G WIFI DDR4",
+        "price": "1689000",
+        "detail": "Intel H610 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 1 Slot NVMe, WiFi 5, Bluetooth 4.2, Support Desktop Processors Socket Intel LGA 1700, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO H610M-S WIFI DDR4",
+        "price": "1319000",
+        "detail": "Intel H610 Chipset, 2x DDR4 DIMM, Maximum Memory 64GB, Total 1 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO H810M-B",
+        "price": "1849000",
+        "detail": "Intel H810 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO H810M-E",
+        "price": "1639000",
+        "detail": "Intel H810 Chipset, 2x DDR5 DIMM, Maximum Memory 128GB, Total 1 Slot NVMe, Support Desktop Processors Socket Intel LGA 1851, Micro ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO X870-P WIFI",
+        "price": "4999000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO Z790-P WIFI",
+        "price": "4769000",
+        "detail": "Intel Z790 Chipset, 4x DDR5 DIMM, Maximum Memory 128GB, Total 4 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO Z890-A WIFI",
+        "price": "6089000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO Z890-P WIFI",
+        "price": "5349000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO Z890-S WIFI",
+        "price": "4459000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI PRO Z890-S WIFI PZ",
+        "price": "5049000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "MSI X670E GAMING PLUS WIFI",
+        "price": "5109000",
+        "detail": "AMD X670 Chipset, 4x DDR5 DIMM, Maximum Memory 64GB, Total 5 Slot NVMe, WiFi 6E, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI X870 GAMING PLUS WIFI",
+        "price": "5159000",
+        "detail": "AMD X870 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI X870E GAMING PLUS WIFI",
+        "price": "5369000",
+        "detail": "AMD X870E Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "MSI Z790M POWER",
+        "price": "4259000",
+        "detail": "Intel Z790 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1700, ATX Form Factor"
+    },
+    {
+        "title": "MSI Z890 GAMING PLUS WIFI",
+        "price": "5449000",
+        "detail": "Intel Z890 Chipset, 4x DDR5 DIMM, Maximum Memory 256GB, Total 4 Slot NVMe, WiFi 7, Bluetooth 5.4, Support Desktop Processors Socket Intel LGA 1851, ATX Form Factor"
+    },
+    {
+        "title": "NZXT N7 B650E",
+        "price": "5209000",
+        "detail": "AMD B650E Chipset, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 6E, Bluetooth 5.2, Support Desktop Processors Socket AMD AM4, ATX Form Factor"
+    },
+    {
+        "title": "SAPPHIRE B650M-E",
+        "price": "1799000",
+        "detail": "AMD B650, 2x DDR5 UDIMM, Maximum Memory 96GB, Total 2 Slot NVMe, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "SAPPHIRE NITRO+ B850A WIFI 7",
+        "price": "3469000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 3 Slot NVMe, WiFi 7, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, ATX Form Factor"
+    },
+    {
+        "title": "SAPPHIRE NITRO+ B850M WIFI",
+        "price": "2999000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "SAPPHIRE PULSE B850M WIFI",
+        "price": "2499000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "SAPPHIRE PURE B850A WIFI 7",
+        "price": "3799000",
+        "detail": null
+    },
+    {
+        "title": "SAPPHIRE PURE B850M WIFI",
+        "price": "3139000",
+        "detail": "AMD B850, 4x DDR5 UDIMM, Maximum Memory 256GB, Total 2 Slot NVMe, WiFi 6, Bluetooth 5.3, Support Desktop Processors Socket AMD AM5, Micro ATX Form Factor"
+    },
+    {
+        "title": "SAPPHIRE PURE X870A WIFI 7",
+        "price": "4899000",
+        "detail": null
+    }
+]
