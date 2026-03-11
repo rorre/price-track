@@ -39,13 +39,66 @@ def _ram_queries() -> list[str]:
     return queries
 
 
+def _cpu_queries() -> list[str]:
+    queries = []
+    # AMD AM4 (Zen 3)
+    for tier in ["Ryzen 5", "Ryzen 7", "Ryzen 9"]:
+        queries.append(f'processor "{tier}" AM4')
+    # AMD AM5 Zen 4
+    for tier in ["Ryzen 5", "Ryzen 7", "Ryzen 9"]:
+        queries.append(f'processor "{tier}" AM5 7000')
+    # AMD AM5 Zen 5
+    for tier in ["Ryzen 5", "Ryzen 7", "Ryzen 9"]:
+        queries.append(f'processor "{tier}" AM5 9000')
+    # Intel Alder Lake (12th gen)
+    for tier in ["i3", "i5", "i7", "i9"]:
+        queries.append(f'processor intel "{tier}-12" LGA 1700')
+    # Intel Raptor Lake (13th/14th gen)
+    for tier in ["i3", "i5", "i7", "i9"]:
+        queries.append(f'processor intel "{tier}-13" LGA 1700')
+        queries.append(f'processor intel "{tier}-14" LGA 1700')
+    # Intel Arrow Lake (LGA 1851)
+    for tier in ["Core Ultra 5", "Core Ultra 7", "Core Ultra 9"]:
+        queries.append(f'processor intel "{tier}" LGA 1851')
+    return queries
+
+
+def _vga_queries() -> list[str]:
+    queries = []
+    # NVIDIA RTX 30 series
+    for model in ["3060", "3060 Ti", "3070", "3070 Ti", "3080", "3080 Ti", "3090", "3090 Ti"]:
+        queries.append(f'vga "RTX {model}"')
+    # NVIDIA RTX 40 series
+    for model in ["4060", "4060 Ti", "4070", "4070 SUPER", "4070 Ti", "4070 Ti SUPER", "4080", "4080 SUPER", "4090"]:
+        queries.append(f'vga "RTX {model}"')
+    # NVIDIA RTX 50 series
+    for model in ["5060", "5060 Ti", "5070", "5070 Ti", "5080", "5090"]:
+        queries.append(f'vga "RTX {model}"')
+    # AMD Radeon RX 6000 series
+    for model in ["6600", "6600 XT", "6650 XT", "6700", "6700 XT", "6750 XT", "6800", "6800 XT", "6900 XT", "6950 XT"]:
+        queries.append(f'vga "RX {model}"')
+    # AMD Radeon RX 7000 series
+    for model in ["7600", "7600 XT", "7700", "7700 XT", "7800", "7800 XT", "7900 GRE", "7900 XT", "7900 XTX"]:
+        queries.append(f'vga "RX {model}"')
+    # AMD Radeon RX 9000 series
+    for model in ["9060 XT", "9070", "9070 XT"]:
+        queries.append(f'vga "RX {model}"')
+    # Intel Arc
+    for model in ["A380", "A750", "A770", "B570", "B580"]:
+        queries.append(f'vga "Arc {model}"')
+    return queries
+
+
+def _psu_queries() -> list[str]:
+    queries = []
+    for rating in ["bronze", "gold", "platinum"]:
+        for watt in ["500W", "600W", "700W", "750W", "800W", "850W", "1000W", "1200W", "1500W"]:
+            queries.append(f'psu {rating} {watt}')
+    return queries
+
+
 CATEGORY_QUERIES: dict[ProductCategory, list[str]] = {
-    ProductCategory.PROCESSOR: [
-        "processor amd ryzen am4",
-        "processor amd ryzen am5",
-        "processor intel lga 1700",
-        "processor intel lga 1851",
-    ],
+    ProductCategory.PROCESSOR: _cpu_queries(),
     ProductCategory.MOTHERBOARD: [
         "motherboard am4",
         "motherboard am5",
@@ -60,16 +113,8 @@ CATEGORY_QUERIES: dict[ProductCategory, list[str]] = {
     ProductCategory.HARDDISK: [
         'harddisk internal 3.5"',
     ],
-    ProductCategory.VGA: [
-        "vga nvidia geforce rtx",
-        "vga amd radeon rx",
-        "vga intel arc",
-    ],
-    ProductCategory.PSU: [
-        "psu bronze",
-        "psu gold",
-        "psu platinum",
-    ],
+    ProductCategory.VGA: _vga_queries(),
+    ProductCategory.PSU: _psu_queries(),
 }
 
 
