@@ -11,3 +11,4 @@ wheels/
 
 # Generated site
 _site/
+data/
