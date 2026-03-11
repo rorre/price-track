@@ -252,6 +252,12 @@ HTML_TEMPLATE = """\
     <p>I am well aware that the price for Tokopedia on the PC and Mobile version is different, where the mobile version is usually cheaper because of discounts.</p>
     <p>Because of it, I must disclose that the price here is <strong>based on the Tokopedia PC version</strong>.</p>
   </div>
+  <div class="info-box">
+    <h3>Changelog</h3>
+    <ul>
+      <li><strong>11 March 2026</strong>: Improvement to Tokopedia searches, data is now properly cleaned up before calculation.</li>
+    </ul>
+  </div>
   %(sections_html)s
 </div>
 <script>
@@ -361,7 +367,22 @@ def main():
     dates = [date.fromisoformat(d) for d in date_dirs]
     all_data_by_date = {}
     for dt in dates:
-        all_data_by_date[dt] = load_all_data(dt)
+        raw = load_all_data(dt)
+        cleaned = {}
+        for cat, items in raw.items():
+            seen: set[tuple[str, str]] = set()
+            deduped = []
+            for item in items:
+                price = int(item.price)
+                if price <= 0:
+                    continue
+                key = (item.title.strip().lower(), item.price.strip())
+                if key in seen:
+                    continue
+                seen.add(key)
+                deduped.append(item)
+            cleaned[cat] = deduped
+        all_data_by_date[dt] = cleaned
 
     collected = []
 
