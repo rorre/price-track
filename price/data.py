@@ -18,13 +18,20 @@ def save_data_to_json(category: ProductCategory, source: str, data: list[Generic
         json.dump([item.dict() for item in data], f, indent=4)
 
 
-def load_all_data(dt: date) -> dict[ProductCategory, list[GenericData]]:
+def load_all_data(
+    dt: date,
+    exclude_sources: set[str] | None = None,
+) -> dict[ProductCategory, list[GenericData]]:
     data_dir = Path("data") / dt.isoformat()
     all_data: dict[ProductCategory, list[GenericData]] = defaultdict(list)
 
     for file in data_dir.glob("*.json"):
         source_category = file.stem  # e.g. "rakitan_processor"
-        cat = ProductCategory(source_category.split("_")[-1])
+        parts = source_category.split("_")
+        source = "_".join(parts[:-1])
+        cat = ProductCategory(parts[-1])
+        if exclude_sources and source in exclude_sources:
+            continue
         with open(file) as f:
             items = json.load(f)
             all_data[cat].extend([GenericData(**item) for item in items])

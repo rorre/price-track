@@ -361,13 +361,13 @@ SECTIONS.forEach(function(section) {
 """
 
 
-def main():
+def main(*, exclude_sources: set[str] | None = None):
     data_dir = Path("data")
     date_dirs = sorted(d.name for d in data_dir.iterdir() if d.is_dir())
     dates = [date.fromisoformat(d) for d in date_dirs]
     all_data_by_date = {}
     for dt in dates:
-        raw = load_all_data(dt)
+        raw = load_all_data(dt, exclude_sources=exclude_sources)
         cleaned = {}
         for cat, items in raw.items():
             seen: set[tuple[str, str]] = set()
@@ -832,8 +832,14 @@ def main():
         sections_html_parts.append("</div>")
 
     dt_str = datetime.now().isoformat(sep=" ", timespec="seconds")
+    if exclude_sources:
+        names = ", ".join(f"<strong>{s}</strong>" for s in sorted(exclude_sources))
+        excluded_html = f'<p class="note">Currently excluded: {names}</p>'
+    else:
+        excluded_html = ""
     html = HTML_TEMPLATE % {
         "generated_on": dt_str,
+        "excluded_html": excluded_html,
         "sections_html": "\n  ".join(sections_html_parts),
         "sections_json": json.dumps(collected),
     }
